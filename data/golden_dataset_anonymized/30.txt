@@ -1,0 +1,21 @@
+Sehr geehrte Damen und Herren,
+ 
+ich möchte Ihnen mitteilen, dass sich ab <DATUM> meine Kontonummer für
+Last-und Gutschriften an folgendem Objekt ändert:
+ 
+Vertragsnummer: <VERTRAG>
+Verbrauchsstelle : <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zähler: <TECHNISCHE_DATEN>
+ 
+ 
+Neue Kontonummer ab <DATUM> 
+ 
+<NAME> <NAME> <NAME>
+IBAN: <ZAHLUNG>
+BIC: <ZAHLUNG>
+Juncken Bank
+ 
+Mit freundlichen Grüßen und herzlichen Dank
+<NAME> <NAME> <NAME>
+<ADRESSE> 30
+37818 <ADRESSE>

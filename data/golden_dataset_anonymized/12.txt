@@ -1,0 +1,8 @@
+Guten Tag
+Es wurde noch ein Zhlerfoto vom Zähler mit der Nummer <TECHNISCHE_DATEN> benötigt.
+Kunde: <NAME> <NAME>
+Verbrauchstelle: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zähler: <TECHNISCHE_DATEN>
+Vertragsnummer: <VERTRAG>
+Foto ist im Anhang
+Mfg

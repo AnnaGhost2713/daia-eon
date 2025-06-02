@@ -1,0 +1,11 @@
+OR-0001239759
+Kunde: <NAME> <NAME>
+Zähler: <TECHNISCHE_DATEN>
+Produktwechsel
+Sehr geehrte Damen und Herren,
+anbei das Formular unterschrieben zurück.
+Bitte um Kenntnisnahme.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+<KONTAKT>

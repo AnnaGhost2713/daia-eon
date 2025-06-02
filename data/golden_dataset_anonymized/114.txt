@@ -1,0 +1,11 @@
+Kunde: 			<FIRMA>
+Verbrauchsstelle:	<ADRESSE> <ADRESSE>
+Zähler:			<TECHNISCHE_DATEN>
+Vertragsnummer: <VERTRAG>
+Sehr geehrte Damen und Herren,
+wir bedanken uns für Ihre Abschlagsanpassung gemäß Ihres Schreibens vom <DATUM>, 
+auch wenn Ihr Schreiben auf unsere eingelegten Widersprüche nicht eingegangen ist.
+Der guten Ordnung halber verweisen wir erneut zu Ihrer im <DATUM> angekündigten Preiserhöhung auf unseren Widerspruch vom <DATUM>, den wir nach wie vor aus dargelegtem Grund aufrecht erhalten. 
+Mit freundlichen Grüßen
+<NAME> <NAME> <NAME>
+- Hausverwaltung -

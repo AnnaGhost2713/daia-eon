@@ -1,0 +1,18 @@
+Sehr geehrte Damen und Herren,
+anbei die angeforderten Daten zum Wechsel zu EON.
+Vertragsnummer: <VERTRAG>
+Übergabedatum: <DATUM>
+Verkäufer: <FIRMA>
+<ADRESSE> 9
+14403 <ADRESSE>
+Käufer: <NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Zählernummer <TECHNISCHE_DATEN>
+Zählerstand <TECHNISCHE_DATEN>
+Ablesedatum: <DATUM>
+Mit freundlichen Grüßen
+<NAME> <NAME>
+------------------------------------------------------------------------
+<KONTAKT>
+<https://kommunikationsdienste.t-online.de/redirects/email_app_android_sendmail_footer>

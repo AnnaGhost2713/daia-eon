@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+wir haben Probleme bei der Meldung des Zählerstandes zu o. g. Vertragskonto.
+Am <DATUM> haben wir für den Zähler <TECHNISCHE_DATEN> einen Stand von <TECHNISCHE_DATEN>
+abgelesen.
+Sollte die Registrierung des Zählerstandes so nicht möglich sein, bitte ich
+um Zusendung der Anforderung mit dem Gastzugangscode per Post.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>

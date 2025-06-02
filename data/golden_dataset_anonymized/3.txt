@@ -1,0 +1,10 @@
+Guten Tag,
+hiermit schicke ich Ihnen die noch fehlenden Angaben:
+Übergabedatum: <DATUM>
+Mieter: <NAME> <NAME> (<KONTAKT>)
+ <NAME> <NAME> (<KONTAKT>)
+Vermieter: <NAME> <NAME> <NAME>
+Zählernummer: <TECHNISCHE_DATEN>
+Zählerstand: <TECHNISCHE_DATEN>
+Vielen Dank
+<NAME> <NAME>

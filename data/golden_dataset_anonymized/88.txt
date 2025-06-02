@@ -1,0 +1,16 @@
+Sehr geehrte Damen und Herren,
+hiermit widerrufe ich den von mir abgeschlossenen Stromvertrag mit E.ON Energie.
+1.) Angaben zum Vertragspartner
+<NAME> <NAME>
+Geb.-Datum: <DATUM>
+<KONTAKT>
+<ADRESSE>.) Angaben zur Verbrauchsstelle
+<FIRMA> Auftragsnummer: 7564839
+Tarifname: E.ON ÖkoStrom Extra
+Datum der Auftragserstellung: <DATUM>
+Datum der Übermittlung an E.ON Energie: <DATUM>
+Zählernummer: <TECHNISCHE_DATEN>
+Adresse: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Bitte bestätigen Sie mir den Widerruf mit Antwort auf diese E-Mail.
+Mit freundlichen Grüßen
+<NAME> <NAME>

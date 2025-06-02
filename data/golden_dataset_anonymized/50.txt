@@ -1,0 +1,7 @@
+Guten Tag,
+Vertragskonto : <VERTRAG>
+Zählernummer : <TECHNISCHE_DATEN>
+Anbei Kontoauszug
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>

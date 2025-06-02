@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+wie gewünscht sende ich Ihnen meine Daten zum Abgleich zu und bestätige die Richtigkeit.
+Meine Daten:
+Vor-, Nachname: <NAME> <NAME> <NAME>
+Geburtsdatum: <DATUM>
+Lieferadresse: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zählernummer: <TECHNISCHE_DATEN>
+Aktueller Anbieter: E.ON Energie Deutschland GmbH
+Aktuelle Kundennummer: <VERTRAG>
+Mit freundlichen Grüßen

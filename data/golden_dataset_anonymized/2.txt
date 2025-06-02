@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+leider wurde mein Abschlag den ich für <DATUM> überwiesen habe für den Abschlag für <DATUM> verrechnet.
+Wie schon mindesten 10 mal von mir berichtet, habe ich den Abschlag von<ZAHLUNG> für <DATUM> auf das Konto das in mein e-on angegeben ist überwiesen,<ZAHLUNG>.
+Sie müssten nur den Betrag umbuchen auf <ZAHLUNG>.
+Ich bitte Sie dies zu machen, weil ich sonst wieder eine Zahlungserinnerung für <DATUM> bekomme.
+Mit freundichen Grüssen
+<NAME> <NAME> <NAME>
+l

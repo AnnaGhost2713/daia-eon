@@ -1,0 +1,3 @@
+Rechnungüberprüfung vom <DATUM>
+Im Anhang finden sie den Überweisungsbeleg
+Danke <NAME> <NAME>

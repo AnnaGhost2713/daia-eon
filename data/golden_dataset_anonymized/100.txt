@@ -1,0 +1,19 @@
+Vertragsnummer 404149058
+ 
+Fam. <NAME>/<NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+ 
+Sehr geehrte Damen und Herren, wir haben am <DATUM> ein email an euch 
+geschickt und leider nach fast 1,5 Monaten immer noch keine Antwort 
+bekommen. Schreiben heute noch ein Mal. 
+ 
+in letzter Abrechnung vom <DATUM> ist einen Fehler aufgetreten und zwar 
+Zählerstand passt nicht. Am <DATUM> unsere tatsächliche Zählerstand war 
+<TECHNISCHE_DATEN> m3. Laut Ihre Abrechnung 14042 m3. Das ist <TECHNISCHE_DATEN> Differenz (also <TECHNISCHE_DATEN> 
+zu viel). Wir bieten Sie alles umzurechnen . Vielen Dank.
+ 
+ 
+MfG Fam. <NAME>/<NAME>
+ 
+﻿

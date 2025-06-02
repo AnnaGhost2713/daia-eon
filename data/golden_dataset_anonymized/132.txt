@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+hiermit wird der folgende Vertrag fristgerecht widerrufen.
+Lieferstelle:
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+0<ADRESSE> <ADRESSE>
+Zählernummer: <TECHNISCHE_DATEN>
+Vertragspartner:
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+0<ADRESSE> <ADRESSE>
+Bitte bestätigen Sie diesen Widerruf.

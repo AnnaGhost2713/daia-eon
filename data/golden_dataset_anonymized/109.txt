@@ -1,0 +1,11 @@
+Guten Tag liebes EON-Team,
+die Adresse lautet:
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Bezeichnung: Kellergeschoss
+Bitte entnehmen Sie das aktuelle Bild des Stromzählers der Anlage.
+Dies ist der Wert aus dem Übergabeprotokoll der Wohnung:
+Zähler Nr. <TECHNISCHE_DATEN> Stand: <TECHNISCHE_DATEN>.
+Vielen Dank im Voraus!
+Ich freue mich über eine positive Rückmeldung.
+<NAME> <NAME>

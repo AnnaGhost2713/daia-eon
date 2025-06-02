@@ -1,0 +1,20 @@
+Vertragspartner: 	<NAME> <NAME>
+Vertragskonto: 	<VERTRAG>
+Kundennummer:	<VERTRAG>
+Zählernummer: 	<TECHNISCHE_DATEN>
+Gewählter Tarif: 	E.ON Erdgas Öko
+Sehr geehrte Damen und Herren,
+unser Gaszähler wurde abgebaut, da wir eine Wärmepumpe installiert haben
+und kein Gasbezug mehr benötigen.
+Das Ausbauprotokoll des Netzbetreibers füge ich der Anlage bei.
+Der Schlußstand unserer Belieferung ist bereits im Portal eingetragen.
+Ich bedanke mich für die Dato unproblematische Vertragsabwicklung.
+*Mit freundlichen Grüßen
+<NAME> <NAME>
+/
+<FIRMA>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+/*/
+/*/Fon: <KONTAKT>
+Fax: <ZAHLUNG>/*

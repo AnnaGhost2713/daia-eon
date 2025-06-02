@@ -1,0 +1,7 @@
+Hallo EON,
+Bitte erstatten Sie auf folgendes Konto zurück
+<NAME> <NAME>
+Iban: <ZAHLUNG>
+bei der Kartoffelbank. 
+Mit freundlichen Grüßen
+<NAME> <NAME>

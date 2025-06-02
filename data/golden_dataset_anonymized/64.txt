@@ -1,0 +1,14 @@
+<NAME> <NAME> <ADRESSE>, den 26.8.2023
+<ADRESSE> <ADRESSE>
+  An die
+Köhler
+Britta-Wirth-Allee 359
+22085 Ebern
+*Kunden-Nr.: <VERTRAG>*
+*Verbrauchsstelle: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>*
+*Zähler: <TECHNISCHE_DATEN>*
+Sehr geehrte Damen und Herren,
+hiermit *widerrufe* ich den von mir geschlossenen Vertrag über die 
+Stromlieferung von <FIRMA>.
+Widerruf gemäß Formular anbei.
+  <NAME> <NAME>

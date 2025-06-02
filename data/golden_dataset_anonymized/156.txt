@@ -1,0 +1,1 @@
+Guten Tag,Vertragsnummer:<VERTRAG> <NAME> <NAME> <ADRESSE> <ADRESSE> in <ADRESSE> <ADRESSE>. Mein Anliegen ist, da ich bis ende Oktober selten zuhause bin und kaum Strom verbrauche bitte ich ein neuen Abschlag von maximal von <ZAHLUNG>. Habe von <DATUM> bis <DATUM> gerade mal ein Verbrauch von:<TECHNISCHE_DATEN> gehabt. MFG <NAME> <NAME> ( <KONTAKT>)

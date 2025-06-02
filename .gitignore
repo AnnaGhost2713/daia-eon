@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# Temp
+tmp_trainer/
+*.tmp
+*.log
+
+# Python-Cache
+__pycache__/
+*.py[cod]
+*.pkl
+*.pt
+*.h5
+
+# Mac-Dateien
+.DS_Store
+
+# Modell-Checkpoints
+piranha_model/**/*.pt
+piranha_model/**/*.safetensors
+piranha_model/model.safetensors
