@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Sehr geehrte Damen und Herren,\nIch habe 2021 das Haus meines verstorbenen\nOnkels \u00fcbernommen.\nLeider wurde damals vers\u00e4umt den Namen im Vertrag zu \u00e4ndern.\nIch bitte die Daten im Vertrag entsprechend zu \u00e4ndern.\nKarl-Friedrich R\u00f6rricht\n20.06.1980\nDie Bankverbindung(Einziehung vom Konto meiner Schwester Katrin R\u00f6rricht) kann weiter verwendet werden.\nMit freundlichen Gr\u00fc\u00dfen\nKarl-Friedrich R\u00f6rricht\nDiese Nachricht wurde von meinem Android Mobiltelefon mit GMX Mail gesendet.\n",
+    "labels": [
+      {
+        "start": 209,
+        "end": 232,
+        "label": "NAME"
+      },
+      {
+        "start": 372,
+        "end": 395,
+        "label": "NAME"
+      },
+      {
+        "start": 301,
+        "end": 316,
+        "label": "NAME"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "label": "DATUM"
+      },
+      {
+        "start": 233,
+        "end": 243,
+        "label": "DATUM"
+      },
+      {
+        "start": 396,
+        "end": 472,
+        "label": "KONTAKT"
+      }
+    ]
+  },
+  {
+    "text": "Wie angefordert der Kontoauszug. Abbuchung Euro 103,22.\nGesendet mit der Stiffel AG Mail App\n<http://www.t-online.de/service/redir/emailmobilapp_ios_smartphone_footerlink.htm>\n",
+    "labels": [
+      {
+        "start": 48,
+        "end": 54,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 56,
+        "end": 92,
+        "label": "KONTAKT"
+      },
+      {
+        "start": 93,
+        "end": 175,
+        "label": "KONTAKT"
+      }
+    ]
+  },
+  {
+    "text": "Vertragsnummer 404149058\n \nFam. Zirme/Rogner\nHenkring 06\n58954 Freising\n \nSehr geehrte Damen und Herren, wir haben am 17.07.23 ein email an euch \ngeschickt und leider nach fast 1,5 Monaten immer noch keine Antwort \nbekommen. Schreiben heute noch ein Mal. \n \nin letzter Abrechnung vom 29.06.2023 ist einen Fehler aufgetreten und zwar \nZ\u00e4hlerstand passt nicht. Am 18.06.23 unsere tats\u00e4chliche Z\u00e4hlerstand war \n13962 m3. Laut Ihre Abrechnung 14042 m3. Das ist 80m3 Differenz (also 80m3 \nzu viel). Wir bieten Sie alles umzurechnen . Vielen Dank.\n \n \nMfG Fam. Zirme/Rogner\n \n\ufeff\n",
+    "labels": [
+      {
+        "start": 32,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 555,
+        "end": 560,
+        "label": "NAME"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "NAME"
+      },
+      {
+        "start": 561,
+        "end": 567,
+        "label": "NAME"
+      },
+      {
+        "start": 45,
+        "end": 71,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 408,
+        "end": 413,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 118,
+        "end": 126,
+        "label": "DATUM"
+      },
+      {
+        "start": 284,
+        "end": 294,
+        "label": "DATUM"
+      },
+      {
+        "start": 362,
+        "end": 370,
+        "label": "DATUM"
+      },
+      {
+        "start": 457,
+        "end": 461,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 478,
+        "end": 482,
+        "label": "TECHNISCHE_DATEN"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag,\nwie gew\u00fcnscht sende ich Ihnen den Auftrag noch einmal zu.\nDer Auftrag wurde allerdings auch schon per Post am 24.07.2023 versandt.\nDa die Aufl\u00f6sung des vorherigen Vertrages Ihr Verschulden ist bitte ich nun um schnellstm\u00f6gliche Bearbeitung.\nMit freundlichem Gru\u00df\nProf. Gloria Matth\u00e4i\n",
+    "labels": [
+      {
+        "start": 274,
+        "end": 294,
+        "label": "NAME"
+      },
+      {
+        "start": 121,
+        "end": 131,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nAuf Grund eines Umzuges, und eines Strom Wechsels in den \u00d6ko Strom bei Eon.\nM\u00f6chte ich r\u00fcckwirkend zum 31.07.2023 meinen Vertrag bei Eon K\u00fcndigen. Wie\ntelefonisch vereinbart, schicke ich Ihnen eine Email mit einem\nSonderk\u00fcndigungsrecht.\nMeine Vertragsnummer wie folgt: das ist die alte Vertragsnummer 407434215\nMeine neue Adresse: Alfredo Schacht\nGottlieb-Mans-Allee 9\n23901 Luckau.\nBei R\u00fcckfragen +49(0)4886 25829\nMfG Alfredo Schacht\n",
+    "labels": [
+      {
+        "start": 362,
+        "end": 377,
+        "label": "NAME"
+      },
+      {
+        "start": 450,
+        "end": 465,
+        "label": "NAME"
+      },
+      {
+        "start": 429,
+        "end": 445,
+        "label": "KONTAKT"
+      },
+      {
+        "start": 378,
+        "end": 412,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 332,
+        "end": 341,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 134,
+        "end": 144,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Kunde: \t\t\tWernecke GmbH & Co. OHG und Niemeier Carsten Stiftung & Co. KG\nVerbrauchsstelle:\tKlappstr. 33\nZ\u00e4hler:\t\t\tDE71117317620819513570\nVertragsnummer: 408591713\nSehr geehrte Damen und Herren,\nwir bedanken uns f\u00fcr Ihre Abschlagsanpassung gem\u00e4\u00df Ihres Schreibens vom 29.07.2023, \nauch wenn Ihr Schreiben auf unsere eingelegten Widerspr\u00fcche nicht eingegangen ist.\nDer guten Ordnung halber verweisen wir erneut zu Ihrer im Dezember 2022 angek\u00fcndigten Preiserh\u00f6hung auf unseren Widerspruch vom 6. Januar 2023, den wir nach wie vor aus dargelegtem Grund aufrecht erhalten. \nMit freundlichen Gr\u00fc\u00dfen\nDr. Abbas Fechner\n- Hausverwaltung -\n",
+    "labels": [
+      {
+        "start": 593,
+        "end": 610,
+        "label": "NAME"
+      },
+      {
+        "start": 10,
+        "end": 72,
+        "label": "FIRMA"
+      },
+      {
+        "start": 91,
+        "end": 103,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 114,
+        "end": 136,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 153,
+        "end": 162,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 266,
+        "end": 276,
+        "label": "DATUM"
+      },
+      {
+        "start": 420,
+        "end": 433,
+        "label": "DATUM"
+      },
+      {
+        "start": 490,
+        "end": 504,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "An das Serviceteam von Eon, \nim September 2023 habe ich am 1.9 den Abschlag \u00fcberwiesen und am 26.9 haben sie nochmal den Abschlag f\u00fcr September eingezogen, so dass ich jetzt doppelt bezahlt habe f\u00fcr September.\nErstatten sie mir unverz\u00fcglich die 99,96 Euro auf mein Konto bei der Striebitz Christoph AG: DE79170269554043121865\nStriebitz Reichmann AG & Co. KG Kundennummer: 203536716/408923745\nMit freundlichen Gr\u00fc\u00dfen \nDr. Camilla Wesack\n",
+    "labels": [
+      {
+        "start": 417,
+        "end": 435,
+        "label": "NAME"
+      },
+      {
+        "start": 326,
+        "end": 357,
+        "label": "FIRMA"
+      },
+      {
+        "start": 372,
+        "end": 391,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 245,
+        "end": 255,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 303,
+        "end": 325,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "label": "DATUM"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "DATUM"
+      },
+      {
+        "start": 32,
+        "end": 46,
+        "label": "DATUM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATUM"
+      },
+      {
+        "start": 134,
+        "end": 143,
+        "label": "DATUM"
+      },
+      {
+        "start": 199,
+        "end": 208,
+        "label": "DATUM"
+      },
+      {
+        "start": 279,
+        "end": 301,
+        "label": "FIRMA"
+      }
+    ]
+  },
+  {
+    "text": "Corina Nerger-Koch D\u00fcren, den 26.8.2023\nLiesel-Mude-Platz 380\n \u00a0An die\nK\u00f6hler\nBritta-Wirth-Allee 359\n22085 Ebern\n*Kunden-Nr.: 204211951*\n*Verbrauchsstelle: Liesel-Mude-Platz 380, 32884 D\u00fcren*\n*Z\u00e4hler: 970220-592573*\nSehr geehrte Damen und Herren,\nhiermit *widerrufe* ich den von mir geschlossenen Vertrag \u00fcber die \nStromlieferung von Matth\u00e4i Komfort Extra \u00d6ko.\nWiderruf gem\u00e4\u00df Formular anbei.\n \u00a0Corina Nerger-Koch\n",
+    "labels": [
+      {
+        "start": 0,
+        "end": 18,
+        "label": "NAME"
+      },
+      {
+        "start": 394,
+        "end": 412,
+        "label": "NAME"
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "label": "NAME"
+      },
+      {
+        "start": 334,
+        "end": 359,
+        "label": "FIRMA"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 185,
+        "end": 190,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 156,
+        "end": 190,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 201,
+        "end": 214,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "DATUM"
+      },
+      {
+        "start": 126,
+        "end": 135,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 78,
+        "end": 112,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 40,
+        "end": 61,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 156,
+        "end": 177,
+        "label": "ADRESSE"
+      }
+    ]
+  },
+  {
+    "text": "Z\u00e4hler Wechselprotokoll.\nVertragsnummer: 402424354\nGotthold Baum\n05.11.1991\nSchaafring 8\n55257 Budenheim\n",
+    "labels": [
+      {
+        "start": 51,
+        "end": 64,
+        "label": "NAME"
+      },
+      {
+        "start": 76,
+        "end": 104,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 65,
+        "end": 75,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nbitte bereiten Sie mir ein Angebot f\u00fcr oben genannten Rahmenvertrag vor.\nMeine Daten finden Sie entsprechend nachstehend.\nJonathan Huhn\nSpeerstra\u00dfe 10\n32351 Stemwede\nVertragsnummer: 406582696\nWLV: 919684277\nVielen Dank,\nJonathan Huhn\n",
+    "labels": [
+      {
+        "start": 153,
+        "end": 166,
+        "label": "NAME"
+      },
+      {
+        "start": 251,
+        "end": 264,
+        "label": "NAME"
+      },
+      {
+        "start": 167,
+        "end": 196,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 213,
+        "end": 222,
+        "label": "VERTRAG"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte(-r) Sachbearbeiter(-in) \n \n \nzum folgenden Vertragskonto wurde \u00fcber Mein E.ON - Kontakt am 18.08.2023 folgende Kundenanfrage zum Thema \"\"Sonstiges\"\" abgesendet. Bitte um Bearbeitung! \n \nALLE DATEN AUF EINEN BLICK: \n \n \nGesch\u00e4ftspartner: 0101833271 \nVertragskonto: 242354742018 \nTelefonnummer f\u00fcr R\u00fcckfragen: \nNachricht/Anfrage:  \n\u201eVERTRAGS NR.: 401 160 536 \"Ihr Schreiben vom 15 August 2023 wg. E-Mail-Adresse\" \u201c \n \n \n \nFreundliche Gr\u00fc\u00dfe \nIhr E.ON Kundenservice \n \nwww.eon.de \n \nE.ON Deutschland GmbH \nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Dr. Ingo Luge Gesch\u00e4ftsf\u00fchrung/Executive Board: Dr. Victoria Ossadnik (Vorsitzende der Gesch\u00e4ftsf\u00fchrung/CEO) Dr. Philip Beckmann Torsten Flosbach Dr. Uwe Kolks Dr. Wolfgang Noetel Otmar Zisler \nSitz: Arnulfstra\u00dfe 203, 80634 M\u00fcnchen Amtsgericht M\u00fcnchen HRB 209327 Ust-IdNr.: DE259922663 Gl\u00e4ubiger-ID: DE41EON00000129793  \n",
+    "labels": [
+      {
+        "start": 358,
+        "end": 369,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 104,
+        "end": 114,
+        "label": "DATUM"
+      },
+      {
+        "start": 389,
+        "end": 403,
+        "label": "DATUM"
+      },
+      {
+        "start": 277,
+        "end": 289,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 250,
+        "end": 260,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 251,
+        "end": 260,
+        "label": "VERTRAG"
+      }
+    ]
+  },
+  {
+    "text": "Vertragsnummer: 403755518\nCanan Schenk\nVerbraucherstelle: Hans-Henning-Wilmsen-Weg 958, 74815 Osterburg\nZ\u00e4hler: 92739304\nSehr geehrte Damen und Herren,\nIch k\u00fcndige den Vertrag wegen dem Umzug zum 30.11.23\nUm eine schriftliche Best\u00e4tigung wird gebeten.\nNeue Adresse:\nDippelgasse 83\n74815 Osterburg\nViele Gr\u00fc\u00dfe\nCanan Schenk\n",
+    "labels": [
+      {
+        "start": 26,
+        "end": 38,
+        "label": "NAME"
+      },
+      {
+        "start": 309,
+        "end": 321,
+        "label": "NAME"
+      },
+      {
+        "start": 58,
+        "end": 103,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 266,
+        "end": 296,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 112,
+        "end": 120,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 196,
+        "end": 204,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren, ich habe bereit zum 1. August den Beitrag \u00fcberwiesen. Mit freundlichen Gr\u00fc\u00dfen, Wesack.\nGesendet mit der mobilen Mail App\n",
+    "labels": [
+      {
+        "start": 110,
+        "end": 116,
+        "label": "NAME"
+      },
+      {
+        "start": 51,
+        "end": 60,
+        "label": "DATUM"
+      },
+      {
+        "start": 118,
+        "end": 151,
+        "label": "KONTAKT"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\n \nich m\u00f6chte Ihnen mitteilen, dass sich ab 01.09.2023 meine Kontonummer f\u00fcr\nLast-und Gutschriften an folgendem Objekt \u00e4ndert:\n \nVertragsnummer: 402829008\nVerbrauchsstelle : Peukertweg 665, 80513 Eutin\nZ\u00e4hler: 1126100052313042\n \n \nNeue Kontonummer ab 01.09.2023 \n \nDr. Traudl Budig\nIBAN: DE85230541192884717022\nBIC: GENODEF1XYZ\nJuncken Bank\n \nMit freundlichen Gr\u00fc\u00dfen und herzlichen Dank\nDr. Traudl Budig\nLorchallee 30\n37818 Miltenberg\n",
+    "labels": [
+      {
+        "start": 295,
+        "end": 311,
+        "label": "NAME"
+      },
+      {
+        "start": 417,
+        "end": 433,
+        "label": "NAME"
+      },
+      {
+        "start": 204,
+        "end": 231,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 434,
+        "end": 464,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 240,
+        "end": 256,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 175,
+        "end": 184,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 318,
+        "end": 340,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 74,
+        "end": 84,
+        "label": "DATUM"
+      },
+      {
+        "start": 281,
+        "end": 291,
+        "label": "DATUM"
+      },
+      {
+        "start": 346,
+        "end": 357,
+        "label": "ZAHLUNG"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag,\nwie gerade telefonisch besprochen sende ich Ihnen den Mietvertrag im Anhang.\nMeine Eon Vertragsnummer lautet : 407177878\nDie Z\u00e4hlernummer f\u00fcr Strom lautet: 1 ITR00 7263 9265\nAktueller Z\u00e4hlerstand: 7761,1 kWh\nBitte schalten sie mir so schnell es geht den Strom frei. Ich lebe seit 1,5 Wochen ohne Strom hier.\nIch bitte au\u00dferdem um eine R\u00fcckmeldung auf diese Mailadresse.\nMit freundlichen Gr\u00fc\u00dfen\nJana Hahn\n",
+    "labels": [
+      {
+        "start": 405,
+        "end": 414,
+        "label": "NAME"
+      },
+      {
+        "start": 167,
+        "end": 184,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 208,
+        "end": 218,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 122,
+        "end": 131,
+        "label": "VERTRAG"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\n \nzus\u00e4tzlich zu dem Besuch des Notdienstes am 06.07 sowie meinen Anruf in dieser Woche, m\u00f6chte ich Ihnen mitteilen, dass Mein Stromz\u00e4hler aktuell nichts anzeigt. Ein Bild dazu anbei.\n \nF\u00fcr meinen gewisse Zeitraum im Juli war zwischenzeitlich (Monatsmitte) etwas sichtbar.\n \nIch bitte um Behebung des Problems.\n \nMit freundlichen Gr\u00fc\u00dfe\nRena Atzler\nNadia-Wende-Gasse 578\n46950 Viersen\n \n70506/8384700\n",
+    "labels": [
+      {
+        "start": 366,
+        "end": 377,
+        "label": "NAME"
+      },
+      {
+        "start": 416,
+        "end": 429,
+        "label": "KONTAKT"
+      },
+      {
+        "start": 378,
+        "end": 413,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 77,
+        "end": 82,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag,\nim Anhang mein Stromz\u00e4hlerstand.\nIch bitte um eine kurze R\u00fcckmeldung.\nMfg Bonbach\n",
+    "labels": [
+      {
+        "start": 85,
+        "end": 92,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nanbei, als pdf-Datei die fehlende Unterlage.\nMit freundlichen Gr\u00fc\u00dfen\nManuela Losekann\n",
+    "labels": [
+      {
+        "start": 100,
+        "end": 116,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nim Auftrag meines Sohnes Kurt Renner-D\u00f6rschner bitte ich um die Erkl\u00e4rung des Postens Soforthilfe Dezember. Ich hatte bereits einige Male angerufen mit der Bitte, mir den Betrag aufzuschl\u00fcsseln. Leider konnten mir Ihre Mitarbeiter nur die Berechnungsgrundlagen nennen, aber nicht die einzelnen Faktoren (Betr\u00e4ge). Laut Verbraucherzentrale kann man sich den Betrag ausrechnen lassen. Daraufhin ergab sich eine Erstattung von 150,46 \u20ac statt 135,34 \u20ac.\nMit freundlichen Gr\u00fc\u00dfen\nKurt Renner-D\u00f6rschner\ni.A. Clara Renner\n",
+    "labels": [
+      {
+        "start": 56,
+        "end": 77,
+        "label": "NAME"
+      },
+      {
+        "start": 504,
+        "end": 525,
+        "label": "NAME"
+      },
+      {
+        "start": 531,
+        "end": 543,
+        "label": "NAME"
+      },
+      {
+        "start": 455,
+        "end": 463,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 470,
+        "end": 478,
+        "label": "ZAHLUNG"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nmit dieser E-Mail sende ich Ihnen die Daten und Papiere zu um den\nStromz\u00e4hler zu entsperren.\nZ\u00e4hlernummer: 1LOG0065054693\nHandynummer: 015201837094\nVertragsnummer: 401897257\nMit freundlichen Gr\u00fc\u00dfen\nVeronika Walter\n",
+    "labels": [
+      {
+        "start": 229,
+        "end": 244,
+        "label": "NAME"
+      },
+      {
+        "start": 166,
+        "end": 178,
+        "label": "KONTAKT"
+      },
+      {
+        "start": 138,
+        "end": 152,
+        "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 195,
+        "end": 204,
+        "label": "VERTRAG"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nich nehme Bezug auf die Mahnung vom 23.08.2023.\nBereits vor einigen Wochen habe ich \u00fcber Ihr Kontaktportal eine Anfrage bez\u00fcglich der Zahlungsm\u00f6glichkeiten geschickt. Leider habe ich bis heute keine R\u00fcckmeldung erhalten.\nMir ist es nicht m\u00f6glich den geforderten Betrag auf einmal zu leisten, da ich bereits mit den aktuellen Abschlagszahlungen f\u00fcr das Gas an der Grenze meiner M\u00f6glichkeiten bin. Aus diesem Grund bitte ich um eine Stundung. Zur Zeit w\u00e4re es mir m\u00f6glich eine Rate in H\u00f6he von 50\u20ac monatlich zu entrichten.\nDa ich im November eine Sonderzahlung von meinem Arbeitgeber erwarte, w\u00e4re zu diesem Zeitpunkt eine Sonderleistungen der Forderung m\u00f6glich.\nIch danke f\u00fcr Ihr Verst\u00e4ndnis und verbleibe\nMit freundlichen Gr\u00fc\u00dfen\nHilda Gutknecht\n",
+    "labels": [
+      {
+        "start": 760,
+        "end": 775,
+        "label": "NAME"
+      },
+      {
+        "start": 523,
+        "end": 526,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 67,
+        "end": 78,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\n \nich habe meinen Stromvertrag (Vertragsnummer: 401528618) mit meinem\nGasvertrag (Vertragsnummer: 401528618) geb\u00fcndelt. In den Rechnungen f\u00fcr 2023\nerscheint dieser Vorteil \u201eB\u00fcndelbonus\u201c nicht. Ich bitte Sie diesen zu\nber\u00fccksichtigen und die Rechnungen entsprechend anzupassen.\n \nBei Fragen stehe ich Ihnen sehr gerne zur Verf\u00fcgung.\n \n \nMit freundlichen Gr\u00fc\u00dfen\nJohann Pohl-Schlauchin\n \nLambert-Ladeck-Allee 971\n06134 Erding\n \nTel.: 0930244918\nvassilioshein@example.org\n",
+    "labels": [
+      {
+        "start": 391,
+        "end": 413,
+        "label": "NAME"
+      },
+      {
+        "start": 462,
+        "end": 472,
+        "label": "KONTAKT"
+      },
+      {
+        "start": 473,
+        "end": 498,
+        "label": "KONTAKT"
+      },
+      {
+        "start": 416,
+        "end": 453,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 129,
+        "end": 138,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 173,
+        "end": 177,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Inergieversorger!\nEs ist nicht akzeptabel das mein Zugang nicht funktioniert ,ich bitte Sie dieses zeitnah bazu\u00e4ndern!!!\nVon meinem/meiner Galaxy gesendet\n",
+    "labels": [
+      {
+        "start": 134,
+        "end": 167,
+        "label": "KONTAKT"
+      }
+    ]
+  },
+  {
+    "text": "Vertragsnummer: 404032442\nSehr geehrte Damen und Herren,\nanbei wie telefonisch besprochen die kWh der Trocknung in unserem Haus, mit der Bitte um eine separate Rechnung.\nBeste Gr\u00fc\u00dfe Gertraude Steinberg\n",
+    "labels": [
+      {
+        "start": 182,
+        "end": 201,
+        "label": "NAME"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "VERTRAG"
+      }
+    ]
+  }
+]
