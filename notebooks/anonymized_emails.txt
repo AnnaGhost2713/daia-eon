@@ -1,0 +1,1917 @@
+
+--- E-Mail 1 ---
+Wie angefordert der Kontoauszug. Abbuchung Euro <ZAHLUNG>.
+<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 2 ---
+Hallo liebes Eon Team,
+es geht um die Vertragsnummer <VERTRAG>SSE>7919.
+Bei der Einrichtung meines neuen Vertrages wurde leider die Überweisung als
+Zahlungsart gewählt von dem jungen Kollegen an der Wohnungstür. Ich würde
+es gerne wieder per Lastschrift abbuchen lassen, um mir den Stress zu
+ersparen.
+Verbraucherstelle ist weiterhin die <ADRESSE> 2 in <ADRESSE> <ADRESSE>.
+Gruß <NAME> <NAME>
+
+
+--- E-Mail 3 ---
+Sehr geehrte Damen und Herren,
+leider wurde mein Abschlag den ich für <DATUM>> überwiesen habe für den Abschlag für <DATUM> verrechnet.
+Wie schon mindesten 10 mal von mir berichtet, habe ich den Abschlag von<ZAHLUNG> für Juni auf das Konto das in mein e-on angegeben ist überwiesen,<ZAHLUNG>.
+Sie müssten nur den Betrag umbuchen auf <ZAHLUNG>.
+Ich bitte Sie dies zu machen, weil ich sonst wieder eine Zahlungserinnerung für August bekomme.
+Mit freundichen Grüssen
+<NAME> <NAME> <NAME>
+l
+
+
+--- E-Mail 4 ---
+Guten Tag,
+hiermit schicke ich Ihnen die noch fehlenden Angaben:
+Übergabedatum: <DATUM>
+Mieter: <NAME> <NAME> (<KONTAKT>)
+ <NAME> <NAME> (<KONTAKT>)
+Vermieter: <NAME> <NAME> <NAME>
+Zählernummer: <TECHNISCHE_DATEN>
+Zählerstand: <TECHNISCHE_DATEN>
+Vielen Dank
+Isabelle Eckbauer
+
+
+--- E-Mail 5 ---
+Vertragspartner: 	<NAME> <NAME>
+Vertragskonto: 	<VERTRAG>
+Kundennummer:	<VERTRAG>
+Zählernummer: 	<TECHNISCHE_DATEN>
+Gewählter Tarif: 	E.ON Erdgas Öko
+Sehr geehrte Damen und Herren,
+unser Gaszähler wurde abgebaut, da wir eine Wärmepumpe installiert haben
+und kein Gasbezug mehr benötigen.
+Das Ausbauprotokoll des Netzbetreibers füge ich der Anlage bei.
+Der Schlußstand unserer Belieferung ist bereits im Portal eingetragen.
+Ich bedanke mich für die Dato unproblematische Vertragsabwicklung.
+*Mit freundlichen Grüßen
+Halina Girschner
+/
+<FIRMA>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+/*/
+/*/Fon: <KONTAKT>
+Fax: <KONTAKT>/*
+
+
+--- E-Mail 6 ---
+Sehr geehrte Damen und Herren,
+mit dieser E-Mail sende ich Ihnen die Daten und Papiere zu um den
+Stromzähler zu entsperren.
+Zählernummer: <TECHNISCHE_DATEN>
+Handynummer: <KONTAKT>
+Vertragsnummer: <VERTRAG>
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 7 ---
+<NAME> <NAME> <ADRESSE> <ADRESSE> <ADRESSE> Geb.<DATUM>
+Kundennr.<VERTRAG>
+Sehr geehrtes EON Team,laut eines EON Mitarbeiters bei dem Telefongespräch gestern hätte ich für diesen <DATUM> nur <ZAHLUNG> an Abschlagszahlung für Gas bezahlt was aber nicht stimmen kann.
+Im Anhang befindet sich der Nachweis das meine Abschlagszahlung für Gas im August 2023 ganze <ZAHLUNG> betragen haben.
+Bitte um volle Berechnung meiner Zahlung.
+Mit freundlichen Grüßen Senol Trommler
+
+
+--- E-Mail 8 ---
+Sehr geehrte Damen und Herren,
+wann bekomme ich meine Abrechnung? Der Vertrag ist seit <DATUM> beendet
+Meine Daten:
+Vor-, Nachname: <NAME> <NAME>
+Geburtsdatum: <DATUM>DRESSE>8
+Lieferadresse: <ADRESSE> 5
+Zählernummer: <TECHNISCHE_DATEN>
+Kundennummer: <VERTRAG>
+Mit freundlichen Grüßen
+
+
+--- E-Mail 9 ---
+Sehr geehrte Damen und Herren, 
+ 
+vielen Dank für die Erstellung der Rechnung. Leider ist mir aber aufgefallen,
+dass bei den Rechnungen für die Vertragskonten <VERTRAG> und <VERTRAG> jeweils
+der Eon plus Rabatt nicht gewährt wurde. Aus diesem Grund bitte ich noch um
+eine Stellungnahme wenn möglich schriftlich bzw. einen Rückruf von Frau
+<NAME> oder eine Korrektur der beiden Rechnungen. 
+ 
+Mit freundlichen Grüßen 
+<NAME> <NAME>
+
+--- E-Mail 10 ---
+OR-0001239759
+Kunde: <NAME> <NAME>
+Zähler: <TECHNISCHE_DATEN>
+Produktwechsel
+Sehr geehrte Damen und Herren,
+anbei das Formular unterschrieben zurück.
+Bitte um Kenntnisnahme.
+Mit freundlichen Grüßen
+Gertraude Wagenknecht-Speer
+<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 11 ---
+>
+> Sehr geehrter Damen und Herren,
+>
+> Würde gerne Einer <ZAHLUNG> monatlich Ratenzahlung für meiner letzte Strom
+> Rechnung vereinbaren.
+>
+> Vertragsnummer: <VERTRAG>
+>
+> Rechnungsnummer: 858 341 857 670 471 761
+>
+>
+> Mit freundlichem grüßen
+>
+> Herr <NAME> <NAME>
+>
+
+
+--- E-Mail 12 ---
+Sehr geehrte Damen und Herren,
+anbei, als pdf-Datei die fehlende Unterlage.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 13 ---
+Guten Tag
+Es wurde noch ein Zhlerfoto vom Zähler mit der Nummer <TECHNISCHE_DATEN>ESSE>992 benötigt.
+Kunde: <NAME> <NAME>
+Verbrauchstelle: <ADRESSE> 1, <ADRESSE> <ADRESSE>
+Zähler: 63746253-1992
+Vertragsnummer: <VERTRAG>
+Foto ist im Anhang
+Mfg
+
+
+--- E-Mail 14 ---
+Guten Tag,
+wie gerade telefonisch besprochen sende ich Ihnen den Mietvertrag im Anhang.
+Meine Eon Vertragsnummer lautet : <VERTRAG>
+Die Zählernummer für Strom lautet: <TECHNISCHE_DATEN>
+Aktueller Zählerstand: <TECHNISCHE_DATEN>
+Bitte schalten sie mir so schnell es geht den Strom frei. Ich lebe seit 1,5 Wochen ohne Strom hier.
+Ich bitte außerdem um eine Rückmeldung auf diese Mailadresse.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 15 ---
+Sehr geehrte Damen und Herren,
+ich widerrufe hiermit meine Einwilligung in die Verarbeitung meiner
+personenbezogenen Daten. Ich fordere Sie darüber hinaus auf, die von Ihnen
+zu meiner Person gespeicherten personenbezogenen Daten zu löschen und mir
+anschließend die Löschung unverzüglich zu bestätigen.
+Sollten Gründe gegen die Löschung meiner personenbezogenen Daten sprechen,
+bitte ich um Angaben der jeweiligen gesetzlichen Grundlage.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 16 ---
+Sehr geehrte Damen und Herren,
+hiermit lege Ich, <NAME> <NAME>, Vertragsnummer <VERTRAG>, bei der Schlussrechnung <DATUM> Wiederspruch ein.
+Die Wohnungsabnahme war am <DATUM>, anbei das Übergabeprotokoll der Hausverwaltung. Der Abbrechnungszeitraum vom <DATUM> fäll somit nicht mehr in meinen Bemessungszeitraum. Anbei auch die neue Meldebescheinigung. Ich bitte hiermit um Klärung der Abrechnung.
+Mit freundlichen Grüßen
+Catharina Thies
+
+
+--- E-Mail 17 ---
+Sehr geehrte Damen und Herren,
+Sie schreiben mir am <DATUM> dass ich noch einen Guthaben von <ZAHLUNG> habe. Diese wurde noch nie zurück bezahlt. Der Konto , der Sie angegeben haben war richtig allerdings kam das Geld nie an. Bitte nochmal prüfen und mir das Geld zahlen. Im Anhang der Brief.
+Mit freundlichen Grüßen ,
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 18 ---
+Vertragsnumer <VERTRAG>
+Hello
+Wir haben Stromzähler am <DATUM> in Büro in Essen abgegeben. Bei Herr <NAME>.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 19 ---
+Schönen guten Tag, 
+<NAME> <NAME>, <DATUM>
+Ich habe gestern Ausversehen die Stromrechnung überwiesen die eigentlich per Lastschrift eingezogen wird. 
+Gestern habe ich mit einem aus ihrem Kundenservice telefoniert, der mir gesagt hat ich solle mich nochmal melden falls ich das Geld zurück überwiesen haben möchte, statt als Gutschrift. 
+Hiermit möchte ich ihnen mitteilen das ich die <ZAHLUNG> zurück überwiesen haben möchte. 
+Bitte veranlassen sie dies so schnell wie möglich. 
+Mit freundlichen Grüßen 
+Helmar Staude 
+<KONTAKT>
+
+
+--- E-Mail 20 ---
+Sehr geehrte Damen und Herren,
+mein Stromtarif E.ON Klassik Strom Extra 24 läuft noch mit der Preisgarantie von <ZAHLUNG> netto ( <ZAHLUNG> brutto) bis zum <DATUM>.
+Welchen Tarif zu welchen Konditionen können Sie mir ab diesem Zeitpunkt anbieten?
+Kann der Tarif zu gleichen Bedingungen weiter verlängert werden?
+Vielen Dank!
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 21 ---
+Guten Tag. 
+Der nächste Abschlag ist am <DATUM> fällig. 
+Habe das Ende <DATUM> mit einem Kollegen am Call Center ausgemacht. 
+Bitte um Bearbeitung das der Betrag Ende <DATUM> überwiesen wird. 
+Das Konto ist ausgeglichen. 
+Vielen Dank. 
+Mit freundlichen Grüßen 
+Herr <NAME> <NAME> 
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+
+
+--- E-Mail 22 ---
+Liebes Team,
+Ich möchte gerne zwei Ladesäulen auf mein Grundstück bauen. 
+Geht dieses das unsere Gäste mit Karte zahlen? 
+Es ist für unsere 
+Pension 
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Grundstück gehört mir.
+Was können Sie mir anbieten, wenn ich es nur bestelle ? 
+Vielen Dank & viele Grüße 
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 23 ---
+Seit <DATUM> haben Sie nicht eine einzige meiner Mails oder Post von meinem Anwalt beantwortet.
+Sie haben mir Geld gestohlen und bekommen es jetzt nicht mal auf die Kette, meine Daten aus Ihrem System zu löschen. Auch dies habe ich bereits mehrfach via Portal, Mail und Telefon gefordert, da ich keinen Vertrag mehr mit Ihnen habe.
+Zum letzten Mal: LÖSCHEN SIE ALLE MEINE DATEN AUS IHREN SYSTEMEN! Sie verstoßen damit gegen die DSGVO! Wenn Sie mir bis spätestens <DATUM> nicht schriftlich bestätigen, dass meine Daten gelöscht wurden, wird dies zur Anzeige gebracht!
+Vertragskonto: <VERTRAG>
+<NAME> <NAME>
+
+
+--- E-Mail 24 ---
+Sehr geehrte Damen und Herren,
+Ich habe <DATUM> das Haus meines verstorbenen
+Onkels übernommen.
+Leider wurde damals versäumt den Namen im Vertrag zu ändern.
+Ich bitte die Daten im Vertrag entsprechend zu ändern.
+<NAME> <NAME>DATUM>
+Die Bankverbindung(Einziehung vom Konto meiner Schwester <NAME> Rörricht) kann weiter verwendet werden.
+Mit freundlichen Grüßen
+Karl-Friedrich Rörricht
+<KONTAKT>
+
+
+--- E-Mail 25 ---
+Sehr geehrte Damen und Herren,
+bitte bereiten Sie mir ein Angebot für oben genannten Rahmenvertrag vor.
+Meine Daten finden Sie entsprechend nachstehend.
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Vertragsnummer: <VERTRAG>
+WLV: <TECHNISCHE_DATEN>
+Vielen Dank,
+Jonathan Huhn
+
+
+--- E-Mail 26 ---
+Sehr geehrte Damen und Herren,
+wie gewünscht sende ich Ihnen meine Daten zum Abgleich zu und bestätige die Richtigkeit.
+Meine Daten:
+Vor-, Nachname: <NAME> <NAME> <NAME>
+Geburtsdatum: <DATUM>
+Lieferadresse: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zählernummer: <TECHNISCHE_DATEN>
+Aktueller Anbieter: E.ON Energie Deutschland GmbH
+Aktuelle Kundennummer: <VERTRAG>
+Mit freundlichen Grüßen
+
+
+--- E-Mail 27 ---
+Sehr geehrte Damen und Herren,
+Zählerwechsel am <DATUM>hler <TECHNISCHE_DATEN>, Stand <TECHNISCHE_DATEN> am 28.02.2023, neuer Zähler <TECHNISCHE_DATEN> Stand <TECHNISCHE_DATEN>
+Meine Daten:
+Vor-, Nachname: Herr <NAME> <NAME>
+Geburtsdatum: <DATUM>
+Lieferadresse: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zählernummer: 6446393163
+Kundennummer: <VERTRAG>
+Mit freundlichen Grüßen
+
+
+--- E-Mail 28 ---
+Hallo liebes E.On Team,
+wie telefonisch besprochen, angehangen die 2 Screenshots zur Doppelten
+Abbuchung.
+Meine Frage: Warum wurde doppelt abgebucht und wie bekomme ich mein Geld
+zurück?
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 29 ---
+Hallo, leider kann ich mich in mein Kundenkonto nicht einloggen
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 30 ---
+Sehr geehrte Damen und Herren,
+hiermit möchte ich dass all meine personenbezogenen Daten (Vertragskonto <VERTRAG>) gelöscht werden.
+Ich bitte um eine schriftliche Bestätigung darüber, dass alle Daten von mir mit dem o.g. Vertragskonto gelöscht worden sind.
+Mit freundlichen Grüßen,
+<NAME> <NAME>
+
+
+--- E-Mail 31 ---
+Sehr geehrte Damen und Herren,
+ 
+ich möchte Ihnen mitteilen, dass sich ab <DATUM> meine Kontonummer für
+Last-und Gutschriften an folgendem Objekt ändert:
+ 
+Vertragsnummer: <VERTRAG>
+Verbrauchsstelle : <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zähler: <TECHNISCHE_DATEN>ESSE>42
+ 
+ 
+Neue Kontonummer ab 01.09.2023 
+ 
+<NAME> <NAME> <NAME>
+IBAN: <ZAHLUNG>
+BIC: <ZAHLUNG>
+Juncken Bank
+ 
+Mit freundlichen Grüßen und herzlichen Dank
+Dr. Traudl Budig
+<ADRESSE> 30
+<ADRESSE> <ADRESSE>
+
+
+--- E-Mail 32 ---
+Sehr geehrte Damen und Herren, Da wir durch einen Wasserschadens einen bedingten Mehrverbrauch der Trocknungsgeräten hatten., bitte ich Sie bei den nächsten Abschlagszahlungen dies nicht zu berücksichtigen. Der Betrag wird mir von der Versicherung erstattet. 
+Gerne höre ich von Ihnen Viele Grüße <NAME> <NAME> 
+<KONTAKT>
+
+
+--- E-Mail 33 ---
+Guten Abend liebes Beschwerde- Team,
+leider kann ich den beim Abschluss zugesicherten Bonus von <ZAHLUNG> immer noch nicht in den Dokumenten des oben genannten Vertrages einsehen.(siehe Anhang)
+Im stornierten Vertrag( <VERTRAG>) war dieser in den Dokumenten ersichtlich( siehe Anhang) und der neue Ersatzvertrag sollte eins zu eins die gleichen Konditionen enthalten. 
+Ich schrieb eine Beschwerde UND rief deswegen im Kundenservice an.
+Telefonisch wurde mir der Bonus bei meinem Anruf für den aktuellen Vertrag bestätigt. 
+Auch die Kollegin, die mich auf meine Beschwerde hin am <DATUM> um 19Uhr anrief, bestätigte mir dies telefonisch. 
+Beide sagten mir eine schriftliche Bestätigung zu. 
+Die Unterlagen haben ich erhalten, allerdings ist in den Dokumenten des aktuellen Vertrag kein Bonus festgehalten! 
+Ich frage Sie nun, wieso mir diesen nicht einfach wie versprochen bestätigt werden kann?
+Langsam bin ich wirklich sehr genervt. Es ist für Sie wie auch für mich Vergeudung kostbarer Zeit. 
+Daher bitte ich ein letztes Mal um Dokumente mit Bestätigung des Bonus von 315€ und hoffe das wir die Sache hiermit endlich ad acta legen können. 
+Vielen Dank und freundliche Grüße:
+<NAME> <NAME>
+Anhang: 
+1. Erster Vertrag
+2. von Ihnen abgeschlossener Ersatzvertrag
+<KONTAKT>
+
+
+--- E-Mail 34 ---
+Sehr geehrte Damen und Herren,
+ 
+in meinem Haus, in der <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE> sind seit dem <DATUM> 
+neue Mieter eingezogen. Ich bitte den Vertrag auf die neuen Mieter 
+umzuschreiben, mich Abzurechnen und künftig mit den Mietern abzurechnen. 
+Den Mietvertrag und das Übergabeprotokoll sende ich als Anlage anbei. Ich 
+denke da sind alle relevanten Daten enthalten.
+ 
+Bei Fragen stehe ich Ihnen zur Verfügung.
+ 
+Mit freundlichem Gruß
+<NAME> <NAME>
+ 
+﻿
+
+
+--- E-Mail 35 ---
+#### Order 
+ 
+Anliegen*: Erdgas 
+ 
+Jahresverbrauch (kWh/Jahr)*: ohne Relevanz 
+ 
+Nachricht: Vertragsnummer <VERTRAG> + <VERTRAG> Ihr Schreiben aus <DATUM>. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist 721 992 747 Ich erbitte Informationen und einen Vorschlag 
+ 
+Ihr Name*: <NAME> <NAME> 
+ 
+Firmenname*: Vladimir Schleich 
+ 
+PLZ und Ort*: <ADRESSE> <ADRESSE> 
+ 
+E-Mail*: <KONTAKT> 
+ 
+ 
+Ich akzeptiere die unten genannte Einwilligungserklärung.* 
+ 
+: on 
+ 
+
+
+--- E-Mail 36 ---
+Sehr geehrte Damen und Herren,
+wie mit Ihrem Kollegen telefonisch besprochen, anbei das Fotos des Zähler von oben genanntem Vertrag.
+Mit freundlichen Grüßen / With best regards
+<NAME> <NAME>
+Einkauf / Purchasing
+<FIRMA>
+<ADRESSE>
+<ADRESSE> <ADRESSE>
+Fon: <KONTAKT>
+<KONTAKT>
+Skype: <NAME>
+<KONTAKT>
+----------------------- Vertraulichkeitshinweis / Confidentiality notice -----------------------------------
+Diese E-Mail enthält vertrauliche und/oder rechtlich geschützte Informationen. Wenn Sie nicht der richtige
+Adressat sind oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und
+vernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte Weitergabe dieser Mail ist nicht
+gestattet.
+This e-mail may contain confidential and/or privileged information. If you are not the intended recipient or
+have received this e-mail in error please notify the sender immediately and destroy this e-mail. Any
+unauthorized copying, disclosure or distribution of the material in this e-mail is strictly forbidden.
+Informationen zum Datenschutz finden Sie auf unserr Homepage unter <KONTAKT>
+Information about the data protection you find on our website <KONTAKT>
+
+
+--- E-Mail 37 ---
+Sehr geehrte Damen und Herren, 
+Ich <NAME> <NAME>, Eigentümer der Immobilie an der <ADRESSE> <ADRESSE> in <ADRESSE> <ADRESSE> bitte sie den Stromzähler mit der Zähler Nr.<TECHNISCHE_DATEN> zu entsperren. 
+Da es für die Wohnung einen neuen Mieter gibt und dieser nicht dafür verantwortlich ist, dass der Stromzähler gesperrt ist, sondern dieses wurde von den vorherigen Mieterverschuldeten 
+Mit freundlichen Grüßen 
+Schmidtke
+
+
+--- E-Mail 38 ---
+Guten Tag,
+im Anhang mein Stromzählerstand.
+Ich bitte um eine kurze Rückmeldung.
+Mfg <NAME>
+
+
+--- E-Mail 39 ---
+Sehr geehrter Damen und Herren, Hiermit sende ich Ihnen die Kündigung Bestätigung. Bitte sehen Sie den Anhang danke<KONTAKT>
+
+
+--- E-Mail 40 ---
+Sehr geehrte Damen und Herren,
+wir bitten Sie um die Reduzierung der Abschlagskosten der Eheleute <NAME>, da das Objekt am <ADRESSE> <ADRESSE> in <ADRESSE>SSE> <ADRESSE> dem <DATUM> unbewohnt ist und verkauft wird.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<FIRMA>
+<ADRESSE> <ADRESSE>
+64085 Haldensleben
+Tel.: <KONTAKT>
+<KONTAKT>
+<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 41 ---
+Sehr geehrte Damen und Herren. Ich entschuldige mich für die entstandenen Schulden und möchte hiermit eine Abwendungsvereinbarung mit ihnen treffen.
+Leider konnte ich die Summe nicht direkt zahlen da mir als allein Erziehender die Mittel dazu fehlen. Die erste Rate in Höhe von <ZAHLUNG> werde ich so schnell wie möglich überweisen.
+Freundliche Grüße <NAME> <NAME>
+
+
+--- E-Mail 42 ---
+Hiermit schicke ich die Unterlagen für den Zähler von <NAME> <NAME> ,
+<ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>.
+Die Kundennummer <VERTRAG>SSE>0007 gehört zur Zählernummer <TECHNISCHE_DATEN> .
+Anbei schicke ich die Unterlagen für diesen Zähler.
+Da ein Fehler aufgetreten ist, möchten Sie die Unterlagen von Familie
+ <NAME>/<NAME> <NAME>ADRESSE> 9
+<ADRESSE> <ADRESSE>
+einsehen. Wir haben die Erlaubnis von Familie Schuster erhalten, für die
+Prüfung des Zähler mit der Nummer <TECHNISCHE_DATEN> .
+Vielen Dank für die schnelle Klärung Familie Kade.
+
+
+--- E-Mail 43 ---
+Sehr geehrte Damen und Herren,
+nach Tarifwechsel Strom sehe ich meinen neuen Vertrag nicht mehr im Online Portal. Ich bitte, den Vertrag hinzufügen:
+Vertragskonto: <NAME> <NAME><VERTRAG>Zählernummer:<TECHNISCHE_DATEN>
+Vielen Dank!
+
+
+--- E-Mail 44 ---
+Sehr geehrte Damen & Herren,
+anbei der Beleg ohne Geld Eingang bei mir bzw. genauer gesagt zuerst war Geld eingegangen was wieder zurücküberwiesen wurde weil der Vertrag eigentlich nicht zu Ende war
+aber nun habe ich einen neue Vertragsnr. und deshalb bitte um Überweisung meines Guthabens.
+<FIRMA>
+<NAME> <NAME>
+<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 45 ---
+Sehr geehrte Damen und Herren,
+leider habe ich noch immer keinen Lidlgutschein im Wert von <ZAHLUNG>€ erhalten. Aufgrund meins Stromvertrages. Der <FIRMA> Kundenservice hat mich an Sie verwiesen.
+Wann kann ich mit dem Erhalt rechnen Stromerstbelieferung war der 09
+<DATUM>
+Vielen Dank
+Beste Grüße
+<NAME>
+Diese Nachricht wurde von meinem Android Mobiltelefon mit [WEB.DE][1] Mail gesendet.
+[1]: <KONTAKT>
+
+
+--- E-Mail 46 ---
+Sehr geehrter Herr <NAME>,
+anbei, wie eben besprochen, die Kontoauszüge, mit den von uns geleisteten
+Abschlägen. Ich bin mal bis zum Februar zurückgegangen.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Mobil <KONTAKT>
+Privat <KONTAKT>
+
+
+--- E-Mail 47 ---
+Stromvertrag 
+Lieferstelle:
+<ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Stromzähler <TECHNISCHE_DATEN>
+Sehr geehrte Damen und Herren,
+ich bin zum <DATUM> in die Lieferstelle eingezogen. 
+Bitte hinterlegen Sie als Grundversorger den Einzug bei sich.
+Vielen Dank.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 48 ---
+Guten Tag,
+ 
+vor kurzem habe ich mich entschieden zu E.ON Strom zu wechseln.
+ 
+Leider gibt es nun bei der Regestrierung unter Punkt 2 Probleme (siehe 
+Fotos im Anhang).
+ 
+Was kann ich jetzt noch machen?
+ 
+Mit freundlichen Grüßen
+<NAME> <NAME>
+ 
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+﻿
+
+
+--- E-Mail 49 ---
+Sehr geehrte Damen und Herren,
+wie mit einer Ihrer Mitarbeiterinnen besprochen, wollte sich diese
+bezüglich meiner Kündigung gestern telefonisch bei mir melden. Leider war
+dies nicht der Fall.
+Ich würde Sie höflichst bitten meinen Vertrag zu kündigen! Ich bitte um
+kurze Rückmeldung.
+Mit sonnigen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 50 ---
+Sehr geehrte Damen und Herren,
+ 
+zusätzlich zu dem Besuch des Notdienstes am <DATUM> sowie meinen Anruf in dieser Woche, möchte ich Ihnen mitteilen, dass Mein Stromzähler aktuell nichts anzeigt. Ein Bild dazu anbei.
+ 
+Für meinen gewisse Zeitraum im Juli war zwischenzeitlich (Monatsmitte) etwas sichtbar.
+ 
+Ich bitte um Behebung des Problems.
+ 
+Mit freundlichen Grüße
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+ 
+<KONTAKT>
+
+
+--- E-Mail 51 ---
+Guten Tag,
+Vertragskonto : <VERTRAG>
+Zählernummer : <TECHNISCHE_DATEN>
+Anbei Kontoauszug
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 52 ---
+Sehr geehrte Damen und Herren,
+Ich bitte um Löschung sämtlicher persönlicher Daten bei Ihnen, insbesondere des MeinEON Accounts, da ich nicht mehr bei Ihnen Kunde bin.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 53 ---
+Sehr geehrte Damen und Herren,
+ 
+für ein altes Konto hatte ich die Mailanschrift <KONTAKT>
+<mailto:hans73@example.com> gewählt. Da wir umgezogen sind und das Konto
+nicht mehr aktiv ist, habe ich diesem alten Konto eine neue Mailadresse
+gegeben, um die vorgenannte Adresse für mein aktuelles Konto:
+ 
+E.ON KonstantStrom
+In Belieferung
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Vertragskonto:
+<VERTRAG>
+Zählernummer:
+<TECHNISCHE_DATEN>
+ 
+benutzen möchte. Leider war hier eine Umstellung nicht möglich. Ich bitte um
+Prüfung und Mitteilung ob dies nicht möglich ist, denn die zur Zeit gültige
+Adresse: <KONTAKT> <mailto:anastasiarogner@example.net> nutze
+ich normalerweise nicht und lese daher auch keine eingehenden Mails.
+ 
+Bei Erstellung des neuen Kontos nach Umzug wurde mir mitgeteilt, dass ich
+hans73@example.com <mailto:hans73@example.com> nicht ein zweites Mal
+verwenden kann, was verständlich ist. Aber dieses Konto ist jetzt aktuell
+und eine Umstellung wäre daher sehr hilfreich.
+ 
+Für eine kurze Rückantwort an hans73@example.com <mailto:hans73@example.com>
+bedanke ich mich vorab!
+ 
+Mit freundlichen Grüßen
+ 
+Jasmin Meyer B.A.
+
+
+--- E-Mail 54 ---
+Sehr geehrte Damen und Herren,
+ 
+wir sind umgezogen:
+ 
+<FIRMA>
+Neue Adresse:
+<ADRESSE> 0<ADRESSE>, <ADRESSE>SSE> <ADRESSE> 
+(vorher <ADRESSE> <ADRESSE>, 79298 Duderstadt)
+ 
+Alle anderen Daten bleiben bestehen (Bankverbindung zB)
+ 
+Mit freundlichen Grüßen
+ 
+<NAME> <NAME>
+Buchhaltung
+ 
+Grundstücksges. Mudering 49
+
+
+--- E-Mail 55 ---
+Vertragsnummer <VERTRAG>
+<NAME> <NAME>
+Aufgrund des Wasserschadens vergangenen Jahres,bitten wir dies für das kommende Jahr zu berücksichtigen
+Im Anhang die Stromverbrauchsmitteilung Trocknungsmaßnahme
+<KONTAKT>
+
+
+--- E-Mail 56 ---
+Sehr geehrte(-r) Sachbearbeiter(-in) 
+ 
+ 
+zum folgenden Vertragskonto wurde über Mein E.ON - Kontakt am <DATUM> folgende Kundenanfrage zum Thema ""Sonstiges"" abgesendet. Bitte um Bearbeitung! 
+ 
+ALLE DATEN AUF EINEN BLICK: 
+ 
+ 
+Geschäftspartner: 0<VERTRAG> 
+Vertragskonto: <VERTRAG> 
+Telefonnummer für Rückfragen: 
+Nachricht/Anfrage:  
+„VERTRAGS NR.: <VERTRAG> "Ihr Schreiben vom <DATUM> wg. E-Mail-Adresse" “ 
+ 
+ 
+ 
+Freundliche Grüße 
+Ihr E.ON Kundenservice 
+ 
+www.eon.de 
+ 
+E.ON Deutschland GmbH 
+Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Dr. Ingo Luge Geschäftsführung/Executive Board: Dr. Victoria Ossadnik (Vorsitzende der Geschäftsführung/CEO) Dr. Philip Beckmann Torsten Flosbach Dr. Uwe Kolks Dr. Wolfgang Noetel Otmar Zisler 
+Sitz: Arnulfstraße 203, 80634 München Amtsgericht München HRB 209327 Ust-IdNr.: DE259922663 Gläubiger-ID: DE41EON00000129793  
+
+
+--- E-Mail 57 ---
+Sehr geehrte Damen und Herren,
+im Auftrag meines Sohnes <NAME> <NAME> bitte ich um die Erklärung des Postens Soforthilfe Dezember. Ich hatte bereits einige Male angerufen mit der Bitte, mir den Betrag aufzuschlüsseln. Leider konnten mir Ihre Mitarbeiter nur die Berechnungsgrundlagen nennen, aber nicht die einzelnen Faktoren (Beträge). Laut Verbraucherzentrale kann man sich den Betrag ausrechnen lassen. Daraufhin ergab sich eine Erstattung von <ZAHLUNG> statt <ZAHLUNG>.
+Mit freundlichen Grüßen
+Kurt Renner-Dörschner
+i.A. <NAME> Renner
+
+
+--- E-Mail 58 ---
+Sehr geehrte Damen und Herren,
+um unsere Abrechnung erstellen zu können benötigen wir DRINGEND die Zischenabrechnung Gas zum 31.12.2022 inkl. Gas Soforthilfe etc.
+Der Zählerstand zum 31.12.2023 war <TECHNISCHE_DATEN>, Vertragsnummer <VERTRAG>SE>98707, Isabelle-Hövel-Platz 143 in <ADRESSE> <ADRESSE>
+Bitte senden Sie uns diese Zwischenabrechnung schnellstmöglich zu, gerne auch vorab über E-Mail.
+Viele Grüße,
+<NAME> <NAME>
+<FIRMA> - <ADRESSE> 7 - 97904 Schongau
+Telefon <KONTAKT>  - Mobil <KONTAKT>
+<KONTAKT>
+Registergericht: Schongau HRB 2095
+Geschäftsführer: Adriana Lange-Ring, Carlo Becker
+
+
+--- E-Mail 59 ---
+Sehr geehrtes E.ON Team,
+ich habe heute ein Schreiben aus Ihrem Hause erhalten, in dem Sie auf
+Rabattmöglichkeiten hinweisen, wenn man sowohl Gas- als auch
+Stromliefervertrag bei E.ON hat.
+Das würde mich interessieren.
+Allerdings habe ich eine Photovoltaikanlage auf dem Dach uns speise
+Strom ins öffentliche Netz.
+Wäre E.ON dann auch mein Ansprechpartner für die Strom-Vergütung?
+Freundliche Grüße,
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+
+
+--- E-Mail 60 ---
+Vertragsnummer: <VERTRAG>
+Sehr geehrte Damen und Herren,
+anbei wie telefonisch besprochen die kWh der Trocknung in unserem Haus, mit der Bitte um eine separate Rechnung.
+Beste Grüße <NAME> <NAME>
+
+
+--- E-Mail 61 ---
+Vertragsnummer: <VERTRAG>
+<NAME> <NAME>
+Verbraucherstelle: <ADRESSE> <ADRESSE>, <ADRESSE> <ADRESSE>
+Zähler: <TECHNISCHE_DATEN>
+Sehr geehrte Damen und Herren,
+Ich kündige den Vertrag wegen dem Umzug zum 30.11.23
+Um eine schriftliche Bestätigung wird gebeten.
+Neue Adresse:
+<ADRESSE> <ADRESSE>
+74815 Osterburg
+Viele Grüße
+Canan Schenk
+
+
+--- E-Mail 62 ---
+Sehr geehrte Damen und Herren,
+ich würde gerne meine Verträge mit folgenden Vertragsnummern bündeln.
+1. <VERTRAG>
+2. <VERTRAG>
+Mehrere Versuche auf der entsprechenden Internetseite sind leider schief
+gelaufen.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+0<ADRESSE> <ADRESSE>
+<KONTAKT>
+Tel. <KONTAKT>
+
+
+--- E-Mail 63 ---
+<NAME> <NAME> <ADRESSE>, den 26.8.2023
+<ADRESSE> <ADRESSE>
+  An die
+Köhler
+Britta-Wirth-Allee 359
+22085 Ebern
+*Kunden-Nr.: <VERTRAG>*
+*Verbrauchsstelle: Liesel-Mude-Platz 380, <ADRESSE> Düren*
+*Zähler: <TECHNISCHE_DATEN>*
+Sehr geehrte Damen und Herren,
+hiermit *widerrufe* ich den von mir geschlossenen Vertrag über die 
+Stromlieferung von <FIRMA>.
+Widerruf gemäß Formular anbei.
+  Corina Nerger-Koch
+
+
+--- E-Mail 64 ---
+<FIRMA> L. <NAME>
+_______________________________________
+24.08.2023
+Betreuungssache * Herr Jobst Oderwald 14.05.1983
+<VERTRAG>
+Sehr geehrte Damen und Herren,
+Ihr Schreiben vom 17.08.2023 kann diesseits nicht nachvollzogen werden.
+Zum Vertragskonto <VERTRAG> wurde ich mit Schreiben vom 10.08.2023 darüber informiert, dass noch ein Guthaben von <ZAHLUNG> vorhanden ist. Dieses bitte ich auf obiges Vertragskonto um zu buchen und mich entsprechend darüber zu informieren.
+Vielen Dank im Voraus!
+--
+Mit freundlichen Grüßen
+<NAME> Jäntsch
+Betreuungsbüro "Schmidtke KG" Luzie Jäntsch
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Tel.: <KONTAKT>
+Fax: <KONTAKT>
+Sicherheitshinweise:
+Diese E-Mail ist ausschließlich für den Adressaten bestimmt und kann vertraulich oder gesetzlich geschützte Informationen enthalten. Sollten Sie nicht der vorgesehene Empfänger dieser Nachricht sein, so bitten wir um eine kurze Nachricht. Jede unbefugte Weiterleitung oder Fertigung einer Kopie ist unzulässig.
+Zur Erfüllung der mir durch das Betreuungsgericht im Rahmen der jeweiligen Aufgabenkreise übertragenen Befugnisse speichere ich folgende Ihrer Daten gem. Art. 13 und 14 sowie 6 Abs. 1 lit. c, d und e DSGVO: Ihre Postanschrift, Ihre Telefon- und Faxnummer, Ihr Geschäftszeichen, die Versandform sowie den Inhalt dieses Schreibens im Rahmen der gesetzl. Aufbewahrungsfristen. Sie haben gem. Art. 13 Abs. 2 lit. b und d DSGVO das Recht, die Löschung, Berechtigung und Einschränkung der Verarbeitung dieser Daten sowie das Recht weiterer Auskünfte von mir zu verlangen. Gem. Art. 13 Abs. 2 lit. d DSGVO haben Sie ein Beschwerderecht bei einer Aufsichtsbehörde.
+
+
+--- E-Mail 65 ---
+Sehr geehrte Damen und Herren,
+bitte bündeln sie nachfolgende Verträge unter dem Bündelcode 099282762.
+Verträge: <VERTRAG>
+<VERTRAG>
+<VERTRAG>
+<VERTRAG>
+<VERTRAG>
+Vielen Dank.
+Mfg <NAME> <NAME>
+Diese Nachricht wurde von meinem Android Mobiltelefon mit [WEB.DE][1] Mail gesendet.
+[1]: <KONTAKT>
+
+
+--- E-Mail 66 ---
+Sehr geehrte Damen und Herren,
+ich bitte Sie mein Kundenkonto samt aller zu meiner Person gespeicherten Daten zu löschen. 
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+<KONTAKT>
+Vielen Dank und liebe Grüße 
+Andre Sauer
+
+
+--- E-Mail 67 ---
+Liebe Grüße, ich sende Bilder als Beweis dafür, dass ich die Raten bezahlt
+habe. Vertragsnummer <VERTRAG>. <NAME> <NAME>
+
+
+--- E-Mail 68 ---
+Sehr geehrte Damen und Herren hiermit nochmals Bestätigung Abschlag August bezahlt wurde Mit freundlichen Grüßen <NAME>
+
+
+--- E-Mail 69 ---
+Sehr geehrte Damen und Herren,
+ 
+ich verstehe Ihr Schreiben leider nicht.
+ 
+Der genannte Vertrag ist seit <ADRESSE>9/2022 beendet. In diesem Vertrag handelte es
+sich um den Allgemeinstromzähler vom Wielochstraße 2, Gera. Dieser Zähler
+hat nun die Vertragsnummer <VERTRAG>.
+ 
+ 
+Mit freundlichen Grüßen
+ 
+<NAME> <NAME>
+ 
+<ADRESSE> 0
+<ADRESSE> <ADRESSE>
+0<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 70 ---
+Sehr geehrte Damen und Herren,
+Ich habe für meinen Stromvertrag die Überweisung des Abschlags aus Versehen auf das falsche Konto getätigt.
+Das Konto, an welches ich überwiesen hatte, hat die IBAN <ZAHLUNG>. Auf dieses Konto sollte ich bei meinem letzten Betrag bei der <FIRMA> überweisen, jedoch hat sich die IBAN mit dem Vetragswechsel geändert und ich habe das nicht mitbekommen, da der Brief zu neuen Stromvertrag von der Post nicht zugestellt wurde.
+Im Anhang finden Sie die Zahlungsnnachweise. 
+Können Sie diese Beträge umbuchen?
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 71 ---
+Sehr geehrte Damen und Herren,
+ 
+ich fordere Sie nochmals auf den Vertragspartner gem. meinem beigefügtem
+Schreiben vom 23.08.2023 zu korrigieren und mir dieses schriftlich zu
+bestätigen.
+ 
+Der Rechnungsempfänger für die Verbrauchsstelle muss zw<NAME>nd
+„<FIRMA>“ lauten, damit wir die offenen Posten aus
+beigefügter Mahnung begleichen können.
+ 
+Mit freundlichen Grüßen 
+ 
+Inge <NAME>
+- Vorstand -
+ 
+ 
+Höfig Scheuermann GmbH
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+ 
+Mobil: <KONTAKT>
+E-Mail: <mailto:<KONTAKT>>
+ernst-dieteraumann@example.org
+
+
+--- E-Mail 72 ---
+Sehr geehrte Damen und Herren,
+im Anhang finden Sie einen Screenshot mit den Umsatzdetails zu meiner getätigten Zahlung am 21.8.2023. Meine fällige Abschlagszahlung vom 18. August 2023 wird immernoch als offen dargestellt und wurde inzwischen von Ihnen gemahnt.
+Meine Vertragsnummer lautet <VERTRAG>
+Die Zählernummer lautet <TECHNISCHE_DATEN>
+Mit freundlichen Grüßen,
+<NAME> <NAME>
+
+
+--- E-Mail 73 ---
+Sehr geehrte Damen und Herren,
+wie heute Morgen telefonisch angefragt, würde ich gern die Postadresse des
+Kundenkontos meiner Eltern ändern.
+Diese sind umgezogen und solange das Haus leer steht, kann dort keine Post
+empfangen werden.
+Vertragsnummer: <VERTRAG>ESSE>025
+<NAME> <NAME>
+<ADRESSE> 1
+<ADRESSE> <ADRESSE>
+neu:
+Fabian Beier
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Kontonr. bleibt identisch.
+Geburtsdatum: 29.11.1964
+Hier gibt es auch noch einen Stromvertrag, zu welchem mir die
+Vertragsnummer derzeit leider nicht vorliegt. Hier müsste die Post bitte
+auch an die neue Anschrift gesendet werden.
+Mein Vater liegt derzeit im Krankenhaus, weswegen ich Sie leider
+kontaktieren muss, nachdem ich gestern die sehr nasse Erdgasrechnung vor
+der alten Adresse liegend fand.
+Sollten Sie noch Fragen haben, melden Sie sich gern.
+Viele Grüße
+<NAME> <NAME>
+
+
+--- E-Mail 74 ---
+Guten Tag
+Wie telefonisch besprochen, möchte ich den Betrag für den Bautrockner zusätzlich
+Zum Abschlag extra bezahlen.
+Im Anhang die Kostenabrechnung.
+Mir freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Tel. <KONTAKT>
+Ich werde den Betrag von <ZAHLUNG> auf mein Vertragskonto überweisen.
+
+
+--- E-Mail 75 ---
+Guten Tag,
+Leider habe ich meinen Abschlag an die IBAN meines alten Vertragskontos
+überwiesen und bitte nun, dass der gezahlte Betrag auf mein neues
+Vertragskonto umgebucht wird.
+Gezahlt wurde am <DATUM> ein Betrag in Höhe von <ZAHLUNG> an die IBAN <ZAHLUNG>.
+Mein alte Vertragsnummer lautet 232084937408 und meine neue Vertragsnummer ist die <VERTRAG>
+Ich bedanke mich recht herzlich.
+Mit freundlichen Grüßen <NAME> <NAME>.
+
+
+--- E-Mail 76 ---
+Guten Tag,
+im Anhang ist ein aktuelles Foto vom Zählerstand.
+Bitte um eine Anpassung Ihrer letzten Rechnung bzw Forderung und den monatlichen Abschlag, der Ihrerseits verdoppelt wurde.
+Vertragsnummer: <VERTRAG>
+Freundliche Grüße
+<NAME> <NAME>
+
+
+--- E-Mail 77 ---
+Sehr geehrte Damen und Herren, 
+hiermit sende ich Ihnen, den Kontoauszug für Juni 2023. 
+Mit freundlichen Grüßen 
+<NAME> <NAME> <NAME>.
+
+
+--- E-Mail 78 ---
+Sehr geehrte Damen und Herren,
+Ich kann mich nicht in mein Online Portal einloggen und bekomme hier immer
+folgenden Fehler (siehe Anhang). Können sie bitte meinen online Zugang
+freischalten? Danke
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 79 ---
+Betreff: Fristlose Kündigung meines Stromvertrags
+Sehr geehrte Damen und Herren,
+ich, <NAME> <NAME>, möchte hiermit meinen Stromvertrag mit Ihnen fristlos
+kündigen. Die relevanten Vertragsdaten lauten wie folgt:
+Vertragskonto: <VERTRAG>
+Zählernummer: <TECHNISCHE_DATEN>
+Der Grund für diese fristlose Kündigung sind unzumutbare Vertragsänderungen,
+die ohne meine Zustimmung vorgenommen wurden und sich erheblich nachteilig
+auf meine Interessen auswirken.
+Wiederholte, nicht genehmigte Abschlagsänderungen ihrerseits, haben zu
+erheblichen Unannehmlichkeiten geführt. Trotz meiner Mitteilungen zu diesem
+Problem, habe ich bisher keine Erklärung erhalten, warum diese Änderungen
+ohne meine Zustimmung erfolgt sind oder welche Maßnahmen ergriffen werden,
+um eine Wiederholung auszuschliessen. Leider blieb eine zufriedenstellende
+Lösung in angemessener Zeit aus. Daher sehe ich mich gezwungen, von meinem
+Recht zur fristlosen Kündigung Gebrauch zu machen.
+Gemäß den Vertragsbedingungen bin ich bereit, alle ausstehenden Zahlungen
+bis zum heutigen Datum zu begleichen. Ich bitte um Informationen darüber,
+wie der Vertragsabschluss und die Schlussabrechnung erfolgen werden.
+Ich erwarte eine schriftliche Bestätigung dieser Kündigung sowie weitere
+Informationen bezüglich der Schlussabrechnung innerhalb von 14 Tagen ab
+Erhalt dieses Schreibens.
+Mit freundlichen Grüßen,
+ 
+Christa-Maria Schmiedecke
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+M <KONTAKT>
+
+
+--- E-Mail 80 ---
+bitte rufen Sie mich an wegen Vertragsbündelung.
+Vertrag <VERTRAG> mit Vertrag 401584900
+Vielen Dank im voraus.
+<NAME> und <NAME> <NAME>
+
+
+--- E-Mail 81 ---
+Guten Abend, 
+leider kann ich mich auf ihrem Portal nicht registrieren, da der oben genannte Vertrag mit falscher E-Mail versehen wurde. 
+Bitte auf die richtige E-Mail-Adresse korrigieren. 
+Die lautet: <KONTAKT>
+Mit freundlichen Grüßen 
+<NAME> <NAME>
+<KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 82 ---
+Durch einen Fehler ihrerseits wird mir seit <DATUM> kein Abschlag
+abgebucht.Mehrere Anrufe und E-Mails werden einfach ignoriert. Bitte
+überprüfen Sie meinen Vertrag mit der Nr.
+<VERTRAG>
+Sollte ich nach 4 Wochen nichts hören werde ich meinen Rechtschutz
+einschalten.
+MfG <NAME> <NAME>
+
+
+--- E-Mail 83 ---
+Sehr geehrte Damen und Herren,
+imAnhang befinden sich 2 Bilder, die zeigen, dass die Ratenzahlung von August zweimal abgebucht wurde. Bitte überweisen Sie mir den Betrag von <ZAHLUNG> zurück auf mein Konto.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 84 ---
+Sehr geehrte Damen und Herren,
+hiermit wird der folgende Vertrag fristgerecht widerrufen.
+Lieferstelle:
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Zählernummer: <TECHNISCHE_DATEN>
+Vertragspartner:
+Priska Löchel
+Irmtraut-Reuter-Ring 392
+27090 Zschopau
+Bitte bestätigen Sie diesen Widerruf.
+
+
+--- E-Mail 85 ---
+Guten Tag, ich beziehe strom von Ihnen und wohl auch von der EnBW. Mein Vermieter hat ohne Absprache mich bei der EnBW angemeldet. Ich würde gerne bei Ihnen bleiben und bitte Sie sich mit der EnBW in Verbindung zu setzen.
+Mit freundlichen Grüßen <NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 86 ---
+Sehr geehrte Damen und Herren,
+hiermit widerrufe ich den von mir abgeschlossenen Stromvertrag mit E.ON Energie.
+1.) Angaben zum Vertragspartner
+<NAME> <NAME>
+Geb.-Datum: <DATUM>.05.1984
+<KONTAKT>
+2.) Angaben zur Verbrauchsstelle
+<FIRMA> Auftragsnummer: 7564839
+Tarifname: E.ON ÖkoStrom Extra
+Datum der Auftragserstellung: <DATUM>tum der Übermittlung an E.ON Energie: 21.07.2023
+Zählernummer: <TECHNISCHE_DATEN>
+Adresse: <ADRESSE> 2, <ADRESSE> <ADRESSE>
+Bitte bestätigen Sie mir den Widerruf mit Antwort auf diese E-Mail.
+Mit freundlichen Grüßen
+Otto Hartmann
+
+
+--- E-Mail 87 ---
+Rechnungüberprüfung vom <DATUM>
+Im Anhang finden sie den Überweisungsbeleg
+Danke <NAME> <NAME>
+
+
+--- E-Mail 88 ---
+Bitte senden Sie mir den Rechnungsnachweis seit Vertragsbeginn mit den
+entsprechenden Zählerstände.
+Freundliche Grüße
+<NAME> <NAME>
+
+
+--- E-Mail 89 ---
+Guten Tag,
+wie gewünscht sende ich Ihnen den Auftrag noch einmal zu.
+Der Auftrag wurde allerdings auch schon per Post am <DATUM> versandt.
+Da die Auflösung des vorherigen Vertrages Ihr Verschulden ist bitte ich nun um schnellstmögliche Bearbeitung.
+Mit freundlichem Gruß
+<NAME> <NAME> <NAME>
+
+
+--- E-Mail 90 ---
+Sehr geehrte Damen und Herren!
+Wie ich Ihnen bereits telefonisch mitgeteilt habe, kann ich meinen 
+Zählerstand nicht ablesen, weil dieser gar nicht angezeigt wird. Eine 
+Betätigung der Infotaste hat auch keinerlei Reaktion des Zählers 
+hervorgerufen. Bitte teilen Sie mir mit, wie es weiter geht. Ein Foto mit 
+Zählernummer erhalten Sie im Anhang. MfG <NAME> <NAME>
+﻿
+
+
+--- E-Mail 91 ---
+Sehr geehrte Damen und Herren,
+ich bitte Sie für obiges Vertragskonto den monatlichen Abschlag auf <ZAHLUNG> zu reduzieren.
+Meine Eltern sind ausgezogen. Das Haus steht leer.
+Freundliche Grüße
+<NAME> <NAME>
+Zbigniew Löwer
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+<KONTAKT>
+
+
+--- E-Mail 92 ---
+Sehr geehrte Damen und Herren,
+wir sind bereits online registriert und möchten zu bestehenden Verträgen
+(<VERTRAG>, <VERTRAG>, <VERTRAG>) folgende Verträge hinzufügen um online
+Zugriff darauf zu haben:
+<VERTRAG> 
+<VERTRAG> 
+Herzliche Grüße
+<NAME> <NAME>
+
+
+--- E-Mail 93 ---
+Sehr geehrte Damen und Herren,
+Bezug nehmend auf Ihr Schreiben vom <DATUM> erhalten Sie die
+Bescheinigung der Firma über den Stromverbrauch.
+Freundliche Grüße
+<NAME> <NAME>
+
+
+--- E-Mail 94 ---
+Sehr geehrte Damen und Herren,
+anbei die Kündigungsbestätigung meines bisherigen Versorgers.
+ 
+Mit freundlichem Gruß
+ 
+<NAME> <NAME>
+
+
+--- E-Mail 95 ---
+Vertragsnummer 404149058
+ 
+Fam. <NAME>/<NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+ 
+Sehr geehrte Damen und Herren, wir haben am <DATUM> ein email an euch 
+geschickt und leider nach fast 1,5 Monaten immer noch keine Antwort 
+bekommen. Schreiben heute noch ein Mal. 
+ 
+in letzter Abrechnung vom <DATUM> ist einen Fehler aufgetreten und zwar 
+Zählerstand passt nicht. Am <DATUM> unsere tatsächliche Zählerstand war 
+<TECHNISCHE_DATEN> m3. Laut Ihre Abrechnung <TECHNISCHE_DATEN> m3. Das ist <TECHNISCHE_DATEN> Differenz (also 80m3 
+zu viel). Wir bieten Sie alles umzurechnen . Vielen Dank.
+ 
+ 
+MfG Fam. Zirme/Rogner
+ 
+﻿
+
+
+--- E-Mail 96 ---
+Sehr geehrte Damen und Herren,
+wie bereits besprochen wurde heute bei uns ein defekter Stromzähler durch
+die Firma <FIRMA> im Auftrag von <FIRMA> ausgetauscht.
+Ein Einbau- bzw. Ausbaubeleg wurde uns nicht ausgehändigt es befindet sich
+lediglich ein Beleg am Gerät siehe Anhang.
+Für Rückfragen stehe ich Ihnen gern zur Verfügung.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 97 ---
+Hallo EON,
+Bitte erstatten Sie auf folgendes Konto zurück
+<NAME> <NAME>
+Iban: <ZAHLUNG>
+bei der Kartoffelbank. 
+Mit freundlichen Grüßen
+Chantal Roskoth
+
+
+--- E-Mail 98 ---
+Hallo,
+Anbei meine Vertragsbestätigung.
+Mit freundlichen Grüßen
+<NAME> <NAME> <NAME>
+
+
+--- E-Mail 99 ---
+Sehr geehrte Damen und Herren 
+Hiermit bestätige ich den Eingang Ihres Schreibens.  Ich kann Ihnen eine Ratenzahlung in Höhe von <ZAHLUNG>€ monatlich zum 20ten jedes Monats anbieten.  Mehr ist mir momentan leider nicht möglich,  sobald sich etwas an meiner finanziellen Situation ändert , werde ich natürlich die restrückstände begleichen.  
+Bitte um Rückmeldung 
+Mit freundlichen Grüßen 
+<NAME> <NAME> 
+<KONTAKT>
+
+
+--- E-Mail 100 ---
+Im Anhang sende ich ihnen meinen Stromvertrag mit der Bitte um Bestätigung.
+Bei Rückfragen erreichen sie mich unter: <KONTAKT>
+Mit freundlichen Grüßen,
+<NAME> <NAME>
+-- 
+<KONTAKT>
+
+
+--- E-Mail 101 ---
+Sehr geehrte Damen und Herren,
+anbei übersende ich Ihnen schriftlich meine Kündigung des Erdgasvertrages mit der Vertragsnummer <VERTRAG>.
+Die Kündigung habe ich auch bereits über das Onlineportal "<FIRMA>" getätigt.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 102 ---
+Sehr geehrte Damen und Herren,
+ich möchte Ihnen auf diesem Weg schon jetzt ein Foto eines Schreiben senden, welches Ihnen ab morgen noch über den Postweg zugestellt wird. Bezüglich der Schlussrechnung des Vertrags <VERTRAG> bitte ich um dringende Beachtung.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 103 ---
+Sehr geehrter EON,
+Hiermit teile ich euch noch mal eine Kopie des Übergabeprotokolls mit zum
+Abschließen des o.g. Stromvertrags.
+*Vertragskonto: <VERTRAG>*
+*Zählernummer: <TECHNISCHE_DATEN>*
+Ich bitte euch gerne um eine schnelle Bearbeitung der Unterlagen und
+möglichst eine Rückmeldung.
+mit den besten Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 104 ---
+Guten Tag liebes EON-Team,
+die Adresse lautet:
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Bezeichnung: Kellergeschoss
+Bitte entnehmen Sie das aktuelle Bild des Stromzählers der Anlage.
+Dies ist der Wert aus dem Übergabeprotokoll der Wohnung:
+Zähler Nr. <TECHNISCHE_DATEN> Stand: <TECHNISCHE_DATEN>.
+Vielen Dank im Voraus!
+Ich freue mich über eine positive Rückmeldung.
+<NAME> <NAME>
+
+
+--- E-Mail 105 ---
+Guten Tag, bei dem begleichen der offenen Rechnung vom <DATUM> ist mir ein Fehler in der Rechnungsnummer unterlaufen. Meine Vertragsnummer lautet: <VERTRAG>Im Anhang liegt ein Kontoauszug vor, dass ich den Betrag von <ZAHLUNG>€ beglichen habe. Mit freundlichen Grüßen <NAME> <NAME>
+
+
+--- E-Mail 106 ---
+Sehr geehrte Damen und Herren,
+ich habe eine Frage und zwar hab ich schon öfter angerufen ..Ich kann mich nicht registrieren zeigt immer immer ein Fehler...was kann ich machen das ich mich Registrieren kann und die App nutzen kann? Habe mal ein Bild hinzugefügt das zeigt der mir immer an ..
+Mit freundlichen Grüßen
+<NAME>
+<KONTAKT>
+
+
+--- E-Mail 107 ---
+Sehr geehrte Damen und Herren,
+Mit diesem Schreiben möchte ich Sie über meine Namensänderung aufgrund
+meiner Hochzeit am <DATUM> informieren. Ab sofort heiße ich mit
+Nachnamen <NAME>. Bitte ändern Sie Ihre Datenbestände entsprechend und
+schicken mir binnen 14 Tagen eine Bestätigung zu.
+Eine Kopie der Eheurkunde und des Personalausweises finden Sie im Anhang.
+Mit freundlichen Grüßen,
+<NAME> Klemt( früher <NAME>)
+
+
+--- E-Mail 108 ---
+Hier wie gewünscht in der Anlage die Rechnung der Trocknungsfirma aus der die benötigten Daten ersichtlich sind
+Mit netten Grüßen 
+<NAME>
+
+
+--- E-Mail 109 ---
+Kunde: 			<FIRMA>
+Verbrauchsstelle:	<ADRESSE> <ADRESSE>
+Zähler:			<TECHNISCHE_DATEN>
+Vertragsnummer: <VERTRAG>
+Sehr geehrte Damen und Herren,
+wir bedanken uns für Ihre Abschlagsanpassung gemäß Ihres Schreibens vom <DATUM>, 
+auch wenn Ihr Schreiben auf unsere eingelegten Widersprüche nicht eingegangen ist.
+Der guten Ordnung halber verweisen wir erneut zu Ihrer im <DATUM> angekündigten Preiserhöhung auf unseren Widerspruch vom <DATUM>, den wir nach wie vor aus dargelegtem Grund aufrecht erhalten. 
+Mit freundlichen Grüßen
+<NAME> <NAME> <NAME>
+- Hausverwaltung -
+
+
+--- E-Mail 110 ---
+Sehr geehrte Damen und Herren,
+ich hatte am <DATUM> mit dem Kundensupport telefoniert und um eine Korrektur
+der Konto-Zuordnung zu meiner E-Mail-Adresse gebeten:
+- <VERTRAG>, <NAME> <NAME>: alter, beendeter Vertrag
+- <VERTRAG> und <VERTRAG>, <NAME> <NAME>: aktueller Vertrag
+Meine E-Mail-Adresse ist mit dem beendeten Konto 404418995 verbunden.
+Telefonisch wurde mir mitgeteilt, dass dies auf meinen aktuellen Vertrag
+(404487643 und 40649786) geändert wird. Dies ist bisher nicht geschehen.
+Bitte teilen Sie mir mit, wenn die Bearbeitung erfolgt ist.
+Mit freundlichen Grüßen
+Rosita Rogner
+
+
+--- E-Mail 111 ---
+Guten Tag.  Wir möchten unsere Abschlagzahlungen auf den 2 jeden Monats verlagern für Erdgas Vertrag <VERTRAG> und Strom Vertrag 402071749. Bitte aktualisieren/abändern bitte . <NAME><NAME>
+<KONTAKT>
+
+
+--- E-Mail 112 ---
+Sehr geehrte Damen und Herren,
+Ich möchte Sie hiermit bitten, keine Anrufe / Werbung mehr zu tätigen an und für folgende Vertragsnehmerin:
+Herr <NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Vertragskonto: <VERTRAG>.
+Vielen Dank im Voraus,
+<NAME> <NAME> (Tochter)
+<KONTAKT>
+
+
+--- E-Mail 113 ---
+Sehr geehrte Damen und Herren,
+hiermit bitte ich sie mir die schriftlich die Daten mitzuteilen, welche 
+sie nach DSGVO § 16 über mich bei Ihren Unternehmen gespeichert haben. 
+Danke.
+MfG <NAME> <NAME>
+
+
+--- E-Mail 114 ---
+Sehr geehrte Damen und Herren, ich habe bereit zum <DATUM> den Beitrag überwiesen. Mit freundlichen Grüßen, <NAME>.
+<KONTAKT>
+
+
+--- E-Mail 115 ---
+Sehr geehrte Damen und Herren,
+die Betreuung ist nun unbefristet, ich bitte um Aktualisierung.
+ 
+Mit freundlichen Grüßen
+Frau <NAME> <NAME>
+ 
+ 
+ 
+Mob: <KONTAKT>
+Fax: <KONTAKT>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+ 
+Diese E-Mail enthält vertrauliche und/oder rechtlich geschützte
+Informationen. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail
+irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und
+vernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte
+Weitergabe dieser Mail ist nicht gestattet.
+
+
+--- E-Mail 116 ---
+Sehr geehrte Damen und Herren,
+wie angefordert, sende ich Ihnen die fehlenden Daten bzw. Unterlagen zu.
+Vertragsnummer: <VERTRAG>
+Angabe zum Zeitraum, in dem der Mehrverbrauch angefallen ist: <DATUM>
+bis <DATUM>
+Angabe über die Höhe des Mehrverbrauchs in Kilowattstunden: <TECHNISCHE_DATEN>
+Kilowattstunden
+Kopie des Trocknungsprotokolls: liegt bei
+Bei weiteren Fragen stehe ich Ihnen gerne zur Verfügung.
+Mit freundlichen Grüßen,
+<NAME> <NAME>
+
+
+--- E-Mail 117 ---
+Sehr geehrte Damen und Herren, 
+Leider wurden wir von einem Unwetter getroffen, weshalb unser Keller vollgelaufen ist.
+Deshalb hatten wir für 3 Wochen Trocknungsgeräte im Keller stehen.
+Anbei erhalten sie den Energieverbrauch/-nachweis der Geräte mit der Bitte, mir für diesen eine Zwischenrechnung zukommen zu lassen. Diese kann ich dann bei meiner Versicherung einreichen, welche die Kosten übernimmt. 
+Mein Vertragskonto lautet <VERTRAG>.
+Aufgrund der Einfachheit halber, reicht mir die Rechnung per Email.
+Sollten sie noch Fragen haben, können sie sich jederzeit gerne bei mir melden.
+Mit freundlichen Grüßen 
+<NAME> <NAME>
+
+
+--- E-Mail 118 ---
+Sehr geehrte Damen und Herren,
+Herr <NAME> <NAME> <NAME>>> ist verstorben. Bitte ändern Sie die Vertrags-Anschrift auf seine Frau <NAME> Mende.
+Neue Anschrift:
+Lilo Mende
+Miesgasse 591
+97519 Riedbach
+Diese Information sende ich Ihnen im Auftrag von meiner Schwiegermutter Lilo Mende.
+Mit freundlichen Grüßen
+<NAME> Mende
+Tel. <KONTAKT>
+
+
+--- E-Mail 119 ---
+Sehr geehrte Damen und Herren!
+Ich bitte Sie die Abschlussrechnungen für obige Vertragsnummer an folgende
+A<NAME>esse zu senden:
+<NAME> <FIRMA>
+C/o Dr <NAME> Sölzer
+ <ADRESSE> <ADRESSE>
+ <ADRESSE> <ADRESSE>
+ Email: <KONTAKT>
+ Mobil: <KONTAKT>
+ Mit freundlichen Grüßen
+ Dr. Fadime Sölzer
+
+
+--- E-Mail 120 ---
+Am <DATUM> wurde ein neuer Gaszähler eingebaut. Anbei ein Foto vom aktuellen Zähler.
+<KONTAKT>
+
+
+--- E-Mail 121 ---
+Sehr geehrte Damen und Herren,
+ich plane, den Energieversorger zu wechseln.
+Bezüglich Ihrer Preisgarantie habe ich jedoch eine Verständnisfrage.
+Sie formulieren diese wie folgt: Ausgenommen von der Preisgarantie sind 
+Preisänderungen, die auf Änderungen der U-steuer sowie Preisänderungen, 
+die auf nach Vertragsabschluss während der Preisgarantie erstmals 
+wirksam werdenden neuen Steuern, Abgaben oder sons
+tigen unmittelbar die Beschaffung, Erzeugung, Speicherung, Netznutzung 
+(Übertragung u. Verteilung), Belieferung oder den Verbrauch von 
+elektrischer Energie betreffenden Belastungen oder entsprechenden neuen 
+Entlastungen beruhen.
+Frage: was bedeutet für Sie " die Beschaffung, Erzeugung, Speicherung, 
+Netznutzung"? Ist die  von Ihnen angebotene Preisgarantie damit nicht 
+erheblich eingeschränkt? Anders formuliert: Wenn sich bei der 
+Beschaffung, Erzeugung, Speicherung oder Netzung die Kostenstruktur 
+belastend verändert, zieht die Preisgarantie nicht?
+M.f.G.
+<NAME> <NAME>
+
+
+--- E-Mail 122 ---
+Sehr geehrte Damen und Herren,
+aufgrund eines Wasserschadens wurden bei uns Trocknungsgeräte der Firma Tröst aufgestellt (s. Anhang).
+Gemäß dem Schreiben beantrage ich die entsprechende Nichtberücksichtigung bei der Neuberechnung der jährlichen Abschlusszahlung.
+Bestätigen Sie dies bitte.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+(zz. tel. nur erreichbar über <KONTAKT>)
+
+
+--- E-Mail 123 ---
+Sehr geehrte Damen und Herren,
+anbei das gewünschte Ausbauprotokoll.
+mfg
+Ing. <NAME> <NAME>
+<ADRESSE>z <ADRESSE>
+<ADRESSE> <ADRESSE>
+
+
+--- E-Mail 124 ---
+Sehr geehrte Damen und Herren,
+hiermit wird der folgende Vertrag fristgerecht widerrufen.
+Lieferstelle:
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+0<ADRESSE> <ADRESSE>
+Zählernummer: <TECHNISCHE_DATEN>
+Vertragspartner:
+Meryem Huhn
+Miroslav-Juncken-Platz 10
+04199 Bamberg
+Bitte bestätigen Sie diesen Widerruf.
+
+
+--- E-Mail 125 ---
+Hallo zusammen,
+ich versuche, in das Kundenkonto dem Portal zu kommen.
+Da es bisher nicht funktioniert hat, habe ich mehrmals versucht, das
+Passwort zu ändern.
+Mittlerweile weiß ich nicht mehr, welches Passwort gültih ist. Wie komm ich
+da raus ?
+MfG
+<NAME> <NAME>
+
+
+--- E-Mail 126 ---
+Sehr geehrte Damen und Herren,
+wie in o.g. Telefonat besprochen, warten wir noch immer auf unsere Gasabrechnung.
+Den Zählerstand hatte ich in besagtem Telefonat mitgeteilt: <TECHNISCHE_DATEN> zum <DATUM>
+Ich bitte um Rechnungserstellung bis spätestens <DATUM>
+Vielen Dank
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 127 ---
+Sehr geehrte Damen und Herren,
+anbei die angeforderten Daten zum Wechsel zu EON.
+Vertragsnummer: <VERTRAG>SE>8 959
+Übergabedatum: <DATUM>
+Verkäufer: <FIRMA>
+<ADRESSE> 9
+<ADRESSE> <ADRESSE>
+Käufer: <NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Zählernummer <TECHNISCHE_DATEN>
+Zählerstand <TECHNISCHE_DATEN>
+Ablesedatum: 30.04.2023
+Mit freundlichen Grüßen
+<NAME> <NAME>
+------------------------------------------------------------------------
+<KONTAKT>
+<https://kommunikationsdienste.t-online.de/redirects/email_app_android_sendmail_footer>
+
+
+--- E-Mail 128 ---
+Sehr geehrte Damen und Herren,
+Ich erbitte den offenen Betrag von <ZAHLUNG> Euro,
+Am <DATUM> begleichen zu dürfen, da ich in wenigen Tagen eine Überweisung
+bekomme.
+Ich war jetzt lange Zeit nicht vor Ort, wegen eines Schimmel Befalls. Dabei
+gingen mir einigen Pflichten unter, die ich jetzt nach holen möchte.
+Ich würde mich freuen, wenn dies möglich wäre.
+Vielen Dank.
+Grüße <NAME> <NAME> 
+<ADRESSE> <ADRESSE> <ADRESSE> <ADRESSE>
+
+
+--- E-Mail 129 ---
+Sehr geehrte Damen und Herren, 
+Im Anhanhg zu finden ist die Vereinbarung. Vielen Dank im voraus für die Bearbeitung. 
+Mit freundlichen Grüßen 
+<NAME> <NAME> <NAME> Ing. Henrike Jäkel
+
+
+--- E-Mail 130 ---
+Sehr geehrte Damen und Herren,
+ich nehme Bezug auf die Mahnung vom <DATUM>
+Bereits vor einigen Wochen habe ich über Ihr Kontaktportal eine Anfrage bezüglich der Zahlungsmöglichkeiten geschickt. Leider habe ich bis heute keine Rückmeldung erhalten.
+Mir ist es nicht möglich den geforderten Betrag auf einmal zu leisten, da ich bereits mit den aktuellen Abschlagszahlungen für das Gas an der Grenze meiner Möglichkeiten bin. Aus diesem Grund bitte ich um eine Stundung. Zur Zeit wäre es mir möglich eine Rate in Höhe von <ZAHLUNG>€ monatlich zu entrichten.
+Da ich im November eine Sonderzahlung von meinem Arbeitgeber erwarte, wäre zu diesem Zeitpunkt eine Sonderleistungen der Forderung möglich.
+Ich danke für Ihr Verständnis und verbleibe
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 131 ---
+Sehr geehrte Damen und Herren,
+in der Anlage befindet sich die Vollmacht meiner Mutter.
+Bitte fügen Sie den Vertrag <VERTRAG>  in Mein E.ON von <NAME> <NAME> 
+mit dem Vertrag 402495305 hinzu.
+-- 
+Mit freundlichen Grüssen
+Bertram Steinberg-Wende
+
+
+--- E-Mail 132 ---
+Sehr geehrte Damen und Herren,
+in der Anlage sende ich Ihnen meine Abwendungsvereinbarung.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 133 ---
+Sehr geehrte Frau <NAME>,
+Wie bereits Telefonisch besprochen sende ich ihnen das Schreiben von
+BonnNetz. Vielen Dank für ihre Hilfe.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 134 ---
+Sehr geehrte Damen und Herren, 
+wie besprochen sende ich Ihnen die Unterlagen zur Vertragsnummer <VERTRAG> sowie die Angebotsnummer OR-0004579076 zu. 
+Für weitere Rückfragen können Sie mich gerne per Mail erreichen.
+Mit freundlichen Grüßen 
+<NAME> <NAME> <NAME>
+
+
+--- E-Mail 135 ---
+Sehr geehrte Damen und Herren,
+ 
+ich habe meinen Stromvertrag (Vertragsnummer: 401528618) mit meinem
+Gasvertrag (Vertragsnummer: 401528618) gebündelt. In den Rechnungen für 2023
+erscheint dieser Vorteil „Bündelbonus“ nicht. Ich bitte Sie diesen zu
+berücksichtigen und die Rechnungen entsprechend anzupassen.
+ 
+Bei Fragen stehe ich Ihnen sehr gerne zur Verfügung.
+ 
+ 
+Mit freundlichen Grüßen
+<NAME> <NAME>
+ 
+<ADRESSE> <ADRESSE>
+0<ADRESSE> <ADRESSE>
+ 
+Tel.: <KONTAKT>
+<KONTAKT>
+
+
+--- E-Mail 136 ---
+Sehr geehrte Damen und Herren
+leider wurde meine Zählernummer immer noch nicht in Ihren Unterlagen geändert. Die Zählernummer lautet bereits seit Vertragsbeginn <VERTRAG>62808638.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> 1
+Tel.: <KONTAKT>
+Fax: <KONTAKT>
+Handy <KONTAKT>
+E-Mail: <KONTAKT>
+
+
+--- E-Mail 137 ---
+Sehr geehrte Damen und Herren,
+bitte senden Sie mir meinen aktuellen Arbeits- und Grundpreis brutto per E-Mail zu.
+Steht aktuell eine Preisanpassung an, falls ja teilen Sie mir bitte das Datum der Erhöhung und die neuen Preiskonditionen mit, alternativ lassen Sie mir bitte das Preisanpassungsschreiben per E-Mail zukommen.
+ 
+Vielen Dank!
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>, <ADRESSE> Bad <ADRESSE>
+Stromzähler <VERTRAG>
+
+
+--- E-Mail 138 ---
+Hallo
+Habe versucht mehrmals telefonisch mein Anliegen zu klären
+Leider wenig Erfolg
+Habe offene Betrag über dieses Konto
+Möchte Sie bitten um teilzahlung bitte um Rückmeldung
+ Mfg <NAME>
+
+
+--- E-Mail 139 ---
+Sehr geehrte Damen und Herren,
+ich habe aufgrund des Todes meines Vaters den Stromvertrag von ihm übernommen. Diesen habe ich am <DATUM> gewechselt. Die neue Vertragsnummer ist <VERTRAG>.
+Die Zählernummer allerdings ist gleich geblieben <TECHNISCHE_DATEN>.
+Wenn ich mich jetzt in mein Vertragskonto online einloggen möchte, wird mir nur der alte Vertrag angezeigt. Dort steht auch, dass dieser alte Vertrag deaktiviert wurde. Den neuen Vertrag kann ich aber leider online nicht sehen.
+Wie gehe ich nun vor, dass ich den neuen Vertrag in meinem Benutzerkonto sehen kann?
+Mit freunlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 140 ---
+Guten Tag,Vertragsnummer:<VERTRAG>DRESSE>0 <NAME> <NAME> <ADRESSE> 8 in <ADRESSE> <ADRESSE>. Mein Anliegen ist, da ich bis ende Oktober selten zuhause bin und kaum Strom verbrauche bitte ich ein neuen Abschlag von maximal von <ZAHLUNG>. Habe von <DATUM> bis <DATUM> gerade mal ein Verbrauch von:<TECHNISCHE_DATEN> gehabt. MFG Roberto Meyer ( <KONTAKT>)
+
+
+--- E-Mail 141 ---
+Hallo,
+Bitte keine Werbung an <KONTAKT> oder <KONTAKT> schicken
+Danke
+
+
+--- E-Mail 142 ---
+Bitte um Korrektur von Schlussrechnung
+Siehe anhang
+Grüß
+<NAME> <NAME>
+
+
+--- E-Mail 143 ---
+Vertragsnummer <VERTRAG>
+Sehr geehrte Damen und Herren,
+Mit diesem Schreiben möchte ich Sie über meine Namensänderung aufgrund meiner Hochzeit am <DATUM> informieren.
+Ab sofort heiße ich mit Nachnamen <NAME> <NAME>. Bitte ändern Sie Ihre Datenbestände entsprechend.
+Eine Bestätigung der Namensänderung finden Sie im Anhang.
+Mit freundlichen Grüßen
+Vitali Rogner
+
+
+--- E-Mail 144 ---
+Sehr geehrte Damen und Herren,
+ 
+nachdem eine schriftliche Anfrage über das Kundenportal vom <DATUM> bis
+heute unbeantwortet geblieben ist und ich telefonisch zwei Mal regelrecht
+abgewimmelt worden bin, stelle ich meine Frage erneut auf diesem Wege und
+hoffe auf eine Antwort.
+In den Medien wurde angepriesen, dass E.on zum <DATUM> die Strompreise
+für ca. 14 Millionen Haushalte senkt.
+Mehrere Bekannte in meinem Umfeld haben im Juli entsprechende
+Ankündigungsschreiben bekommen.
+Aus Gründen, die sich mir nicht erschließen, ist mein oben genannter Vertrag
+hiervon scheinbar nicht betroffen und eine Senkung des zum <DATUM> massiv
+angehoben Strompreises auf aktuell 45,87 ct/kWh nicht vorgesehen.
+Hierzu hätte ich gerne eine schriftliche Begründung bzw. Stellungnahme oder
+ebenfalls die Mitteilung über eine Preissenkung.
+Die oben genannte Preiserhöhung wurde mit der chaotischen Lage am Strommarkt
+und gestiegenen Preisen begründet. Da sich der Markt jedoch inzwischen
+wieder beruhigt hat und die Strompreise aktuell sogar auf einem niedrigeren
+Niveau sind als vor der letztjährigen Krise erwarte ich eigentlich dass eine
+solch massive Erhöhung dann auch wieder zurückgenommen wird. Dies ist bisher
+nicht geschehen.
+Ich bin seit 2019 Stromkunde bei E.on und aktuell habe ich das Gefühl, dass
+E.on nicht das geringste Interesse daran hat Kunden zu halten und
+stattdessen der maximale Profit aus den Kunden rausgequetscht wird. Anstatt
+einer Preisanpassung ist man gezwungen zu kündigen und die meisten dürften
+wohl dann zu einem Mitbewerber abwandern. Das kann doch eigentlich auch
+nicht in Ihrem Interesse liegen.
+ 
+In Erwartung einer Antwort
+Mit freundlichen Grüßen
+ 
+<NAME> <NAME>
+
+
+--- E-Mail 145 ---
+Hiermit sende ich ihnen die Abwendungsvereinbarung .
+Bitte um Bestätigung.
+Mit freundlichen Grüßen
+
+
+--- E-Mail 146 ---
+Sehr geehrte Damen und Herren,
+ich bitte Sie für meine neue Mietswohnung so schnell wie möglich den Strom freizuschalten und mir Vertragsunterlagen zuzuschicken.
+Anschrift der Wohnung:
+<ADRESSE> 0<ADRESSE>
+<ADRESSE> <ADRESSE>
+Zählernummer: <TECHNISCHE_DATEN>
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<KONTAKT>
+
+
+--- E-Mail 147 ---
+Sehr geehrte Damen und Herren,
+mit Mail vom <DATUM> hatte ich bezüglich der neuen Preise ab <DATUM> hatte ich ihnen mitgeteilt, dass ich als langjähriges Mitglied des Landwirtvereins Hinterdupfing deren Vorteilsangebote annehme. Im Rahmen der Energieversorgung bestehen hier entsprechende Verträge.
+Ich bitte um Mitteilung, ob bei dem neuen Preis zum 01. März 2023 dies berücksichtigt wurde. Sofern nicht, bitte ich um Aktualisierung des neuen Preises.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 148 ---
+Kundenummer : <VERTRAG>
+Sehr geehrte Damen und Herren,
+ich bitte um einen günstigeren Tarif. Ich bin schon seit einigen Jahren
+Kunde bei Ihnen und die Strompreis Erhöhung im März ist mir zu teuer.
+Falls Sie mir nicht entgegen kommen können, werde ich leider kündigen
+müssen.
+Ich bedanke mich im Voraus.
+Telefonisch bin ich unter folgender Rufnummer erreichbar : <KONTAKT>
+Mit freundlichen Grüßen
+<NAME> <NAME>
+
+
+--- E-Mail 149 ---
+Sehr geehrte Damen und Herren,
+bitte den Termin für den Abschlag ändern; von Mitte des Monats zu Anfang des Monats.
+Meine Daten:
+Vor-, Nachname: <NAME> <NAME>
+Geburtsdatum: <DATUM>.04.1962
+Lieferadresse: <ADRESSE> 4, <ADRESSE> <ADRESSE>
+Zählernummer: 0<TECHNISCHE_DATEN>
+Kundennummer: <TECHNISCHE_DATEN>
+Mit freundlichen Grüßen
+
+
+--- E-Mail 150 ---
+Sehr geehrte Damen und Herren,
+Bitte ändern Sie meine Fälligkeiten ab. Ab jetzt bitte ich Sie immer die Abschläge zum Ende des Monats also zum 30ten einzuziehen.
+MFG
+<NAME>
+
+
+--- E-Mail 151 ---
+Hallo Zusammen,
+da ich ich für den Vertrag mit der Nummer <VERTRAG> wohl die falsche Zählernummer angegeben habe, anbei ein Bild von der richtigen. - <TECHNISCHE_DATEN>
+Es grüßt Sie freundlich 
+<NAME> <NAME>
+
+
+--- E-Mail 152 ---
+Sehr geehrte Damen und Herren,
+ 
+der angefügte Vertrag ist in „mein eon“ nicht angelegt. Ich bitte hier
+dringend um Korrektur, damit ich 
+in beiden Vertragskonten die Zahlungsart auf Lastschriftverfahren umstellen
+kann.
+ 
+Mit besten Grüßen
+ 
+<NAME> <NAME>
+Montage und Objektbetreuung
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+ 
+Tel.: <KONTAKT>
+Mobil: <KONTAKT>
+
+
+--- E-Mail 153 ---
+Sehr geehrte Inergieversorger!
+Es ist nicht akzeptabel das mein Zugang nicht funktioniert ,ich bitte Sie dieses zeitnah bazuändern!!!
+<KONTAKT>
+
+
+--- E-Mail 154 ---
+Sehr geehrte Damen und Herren,
+Auf Grund eines Umzuges, und eines Strom Wechsels in den Öko Strom bei Eon.
+Möchte ich rückwirkend zum <DATUM> meinen Vertrag bei Eon Kündigen. Wie
+telefonisch vereinbart, schicke ich Ihnen eine Email mit einem
+Sonderkündigungsrecht.
+Meine Vertragsnummer wie folgt: das ist die alte Vertragsnummer <VERTRAG>
+Meine neue Adresse: <NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>.
+Bei Rückfragen <KONTAKT>
+MfG Alfredo Schacht
+
+
+--- E-Mail 155 ---
+An das Serviceteam von Eon, 
+im September 2023 habe ich am <DATUM> den Abschlag überwiesen und am <DATUM> haben sie nochmal den Abschlag für September eingezogen, so dass ich jetzt doppelt bezahlt habe für September.
+Erstatten sie mir unverzüglich die <ZAHLUNG> auf mein Konto bei der Striebitz Christoph AG: <ZAHLUNG>
+<FIRMA> Kundennummer: <VERTRAG>
+Mit freundlichen Grüßen 
+<NAME> <NAME> <NAME>
+
+
+--- E-Mail 156 ---
+Sehr geehrte Damen und Herren,
+bitte bemerken Sie das Dokument im Anhang.
+-- 
+Mit freundlichen Grüßen
+<FIRMA>
+<NAME> <NAME>
+Rechtliche Betreuungen
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+Tel. 0<KONTAKT>
+Fax 0<KONTAKT>
+
+
+--- E-Mail 157 ---
+Sehr geehrte Damen und Herren,
+Sie haben bis heute nicht auf meine E-Mail vom <DATUM>, <ADRESSE>0:31, 
+geantwortet. Nach wie vor befinde ich mich nicht in der Belieferung. Ich 
+finde die Situation unsäglich und fordere Sie auf, mich unverüglich zu 
+kontaktieren.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> 1
+<ADRESSE> <ADRESSE>
+Tel.: <KONTAKT>
+
+
+--- E-Mail 158 ---
+Zähler Wechselprotokoll.
+Vertragsnummer: <VERTRAG>
+<NAME> <NAME>
+<DATUM>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+
+
+--- E-Mail 159 ---
+Hiermit übersende ich Ihnen den unterschriebenen Stromvertrag.
+Mit freundlichem Gruß
+<NAME> <NAME>
+
+
+--- E-Mail 160 ---
+Sehr geehrte Damen und Herren,
+wir haben Probleme bei der Meldung des Zählerstandes zu o. g. Vertragskonto.
+Am <DATUM> haben wir für den Zähler <TECHNISCHE_DATEN> einen Stand von <TECHNISCHE_DATEN>
+abgelesen.
+Sollte die Registrierung des Zählerstandes so nicht möglich sein, bitte ich
+um Zusendung der Anforderung mit dem Gastzugangscode per Post.
+Mit freundlichen Grüßen
+<NAME> <NAME>
+<ADRESSE> <ADRESSE>
+<ADRESSE> <ADRESSE>
+

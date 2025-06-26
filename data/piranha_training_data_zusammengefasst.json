@@ -3,6 +3,11 @@
     "text": "Wie angefordert der Kontoauszug. Abbuchung Euro 103,22.\nGesendet mit der Stiffel AG Mail App\n<http://www.t-online.de/service/redir/emailmobilapp_ios_smartphone_footerlink.htm>\n",
     "labels": [
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 48,
         "end": 54,
         "label": "ZAHLUNG"
@@ -24,32 +29,22 @@
     "labels": [
       {
         "start": 365,
-        "end": 373,
-        "label": "NAME"
-      },
-      {
-        "start": 374,
         "end": 378,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 330,
-        "end": 340,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 57,
-        "end": 58,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 346,
-        "end": 351,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 352,
         "end": 358,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -64,18 +59,23 @@
     "labels": [
       {
         "start": 481,
-        "end": 491,
-        "label": "NAME"
-      },
-      {
-        "start": 492,
-        "end": 495,
-        "label": "NAME"
-      },
-      {
-        "start": 496,
         "end": 505,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 202,
@@ -113,28 +113,18 @@
     "text": "Guten Tag,\nhiermit schicke ich Ihnen die noch fehlenden Angaben:\nÜbergabedatum: 01.08.2023\nMieter: Isabelle Eckbauer (+49 (0) 5402 008802)\n Ahmet Gerlach (+49(0)7195176538)\nVermieter: Dr. Franz-Xaver Huhn\nZählernummer: 1ISK0070547123\nZählerstand: 0022386623\nVielen Dank\nIsabelle Eckbauer\n",
     "labels": [
       {
-        "start": 184,
-        "end": 187,
-        "label": "NAME"
-      },
-      {
         "start": 99,
-        "end": 107,
-        "label": "NAME"
-      },
-      {
-        "start": 108,
         "end": 116,
         "label": "NAME"
       },
       {
         "start": 140,
-        "end": 145,
+        "end": 153,
         "label": "NAME"
       },
       {
-        "start": 146,
-        "end": 153,
+        "start": 184,
+        "end": 204,
         "label": "NAME"
       },
       {
@@ -146,6 +136,16 @@
         "start": 155,
         "end": 171,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 219,
@@ -161,16 +161,6 @@
         "start": 80,
         "end": 90,
         "label": "DATUM"
-      },
-      {
-        "start": 188,
-        "end": 199,
-        "label": "NAME"
-      },
-      {
-        "start": 200,
-        "end": 204,
-        "label": "NAME"
       }
     ]
   },
@@ -179,12 +169,12 @@
     "labels": [
       {
         "start": 18,
-        "end": 24,
+        "end": 34,
         "label": "NAME"
       },
       {
-        "start": 25,
-        "end": 34,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -204,22 +194,12 @@
       },
       {
         "start": 564,
-        "end": 580,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 581,
-        "end": 584,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 585,
-        "end": 590,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 591,
         "end": 600,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -244,18 +224,28 @@
     "labels": [
       {
         "start": 229,
-        "end": 237,
+        "end": 244,
         "label": "NAME"
       },
       {
-        "start": 238,
-        "end": 244,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
         "start": 166,
         "end": 178,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 138,
@@ -274,27 +264,22 @@
     "labels": [
       {
         "start": 0,
-        "end": 5,
-        "label": "NAME"
-      },
-      {
-        "start": 6,
         "end": 14,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 15,
-        "end": 26,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 27,
-        "end": 34,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 35,
         "end": 42,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -329,22 +314,22 @@
     "labels": [
       {
         "start": 134,
-        "end": 148,
-        "label": "NAME"
-      },
-      {
-        "start": 149,
         "end": 155,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 196,
-        "end": 206,
+        "end": 208,
         "label": "ADRESSE"
       },
       {
-        "start": 178,
-        "end": 179,
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -379,13 +364,23 @@
       },
       {
         "start": 423,
-        "end": 430,
+        "end": 436,
         "label": "NAME"
       },
       {
-        "start": 431,
-        "end": 436,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 159,
@@ -404,13 +399,23 @@
     "labels": [
       {
         "start": 21,
-        "end": 30,
+        "end": 48,
         "label": "NAME"
       },
       {
-        "start": 31,
-        "end": 48,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 57,
@@ -434,13 +439,23 @@
     "labels": [
       {
         "start": 252,
-        "end": 257,
+        "end": 265,
         "label": "NAME"
       },
       {
-        "start": 258,
-        "end": 265,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 157,
@@ -459,13 +474,23 @@
     "labels": [
       {
         "start": 100,
-        "end": 107,
+        "end": 116,
         "label": "NAME"
       },
       {
-        "start": 108,
-        "end": 116,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -474,32 +499,22 @@
     "labels": [
       {
         "start": 95,
-        "end": 101,
-        "label": "NAME"
-      },
-      {
-        "start": 102,
         "end": 110,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 128,
-        "end": 139,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 73,
-        "end": 74,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 143,
-        "end": 148,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 149,
         "end": 158,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -519,13 +534,23 @@
     "labels": [
       {
         "start": 405,
-        "end": 409,
+        "end": 414,
         "label": "NAME"
       },
       {
-        "start": 410,
-        "end": 414,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 167,
@@ -549,13 +574,23 @@
     "labels": [
       {
         "start": 461,
-        "end": 467,
+        "end": 473,
         "label": "NAME"
       },
       {
-        "start": 468,
-        "end": 473,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -564,13 +599,18 @@
     "labels": [
       {
         "start": 49,
-        "end": 58,
+        "end": 64,
         "label": "NAME"
       },
       {
-        "start": 59,
-        "end": 64,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 81,
@@ -599,13 +639,23 @@
     "labels": [
       {
         "start": 318,
-        "end": 327,
+        "end": 334,
         "label": "NAME"
       },
       {
-        "start": 328,
-        "end": 334,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 95,
@@ -634,13 +684,23 @@
       },
       {
         "start": 133,
-        "end": 140,
+        "end": 153,
         "label": "NAME"
       },
       {
-        "start": 141,
-        "end": 153,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 75,
+        "end": 80,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 14,
@@ -664,13 +724,23 @@
     "labels": [
       {
         "start": 20,
-        "end": 26,
+        "end": 33,
         "label": "NAME"
       },
       {
-        "start": 27,
-        "end": 33,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 387,
@@ -694,13 +764,23 @@
     "labels": [
       {
         "start": 354,
-        "end": 360,
+        "end": 369,
         "label": "NAME"
       },
       {
-        "start": 361,
-        "end": 369,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 112,
@@ -724,32 +804,22 @@
     "labels": [
       {
         "start": 259,
-        "end": 266,
-        "label": "NAME"
-      },
-      {
-        "start": 267,
         "end": 274,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 276,
-        "end": 294,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 295,
-        "end": 298,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 299,
-        "end": 304,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 305,
         "end": 317,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -774,32 +844,22 @@
     "labels": [
       {
         "start": 294,
-        "end": 300,
-        "label": "NAME"
-      },
-      {
-        "start": 301,
         "end": 307,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 150,
-        "end": 168,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 169,
-        "end": 172,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 173,
-        "end": 178,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 179,
         "end": 186,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -814,13 +874,23 @@
     "labels": [
       {
         "start": 593,
-        "end": 601,
+        "end": 609,
         "label": "NAME"
       },
       {
-        "start": 602,
-        "end": 609,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 583,
@@ -844,23 +914,28 @@
     "labels": [
       {
         "start": 209,
-        "end": 223,
-        "label": "NAME"
-      },
-      {
-        "start": 224,
         "end": 232,
         "label": "NAME"
       },
       {
         "start": 301,
-        "end": 307,
+        "end": 316,
         "label": "NAME"
       },
       {
-        "start": 224,
-        "end": 232,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 40,
@@ -884,32 +959,22 @@
     "labels": [
       {
         "start": 153,
-        "end": 161,
-        "label": "NAME"
-      },
-      {
-        "start": 162,
         "end": 166,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 167,
-        "end": 178,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 179,
-        "end": 181,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 182,
-        "end": 187,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 188,
         "end": 196,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -929,37 +994,22 @@
     "labels": [
       {
         "start": 149,
-        "end": 152,
-        "label": "NAME"
-      },
-      {
-        "start": 153,
-        "end": 160,
-        "label": "NAME"
-      },
-      {
-        "start": 161,
         "end": 166,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 207,
-        "end": 223,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 224,
-        "end": 227,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 229,
-        "end": 234,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 235,
         "end": 243,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -984,32 +1034,22 @@
     "labels": [
       {
         "start": 178,
-        "end": 186,
-        "label": "NAME"
-      },
-      {
-        "start": 187,
         "end": 192,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 233,
-        "end": 244,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 245,
-        "end": 248,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 250,
-        "end": 255,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 256,
         "end": 266,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1059,13 +1099,23 @@
     "labels": [
       {
         "start": 211,
-        "end": 218,
+        "end": 231,
         "label": "NAME"
       },
       {
-        "start": 219,
-        "end": 231,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 232,
@@ -1084,13 +1134,23 @@
     "labels": [
       {
         "start": 88,
-        "end": 94,
+        "end": 111,
         "label": "NAME"
       },
       {
-        "start": 95,
-        "end": 111,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 112,
@@ -1104,13 +1164,23 @@
     "labels": [
       {
         "start": 282,
-        "end": 291,
+        "end": 296,
         "label": "NAME"
       },
       {
-        "start": 292,
-        "end": 296,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 104,
@@ -1124,56 +1194,21 @@
     "labels": [
       {
         "start": 295,
-        "end": 298,
-        "label": "NAME"
-      },
-      {
-        "start": 299,
-        "end": 305,
-        "label": "NAME"
-      },
-      {
-        "start": 306,
         "end": 311,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 204,
-        "end": 214,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 215,
-        "end": 218,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 220,
-        "end": 225,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 226,
         "end": 231,
         "label": "ADRESSE"
       },
       {
         "start": 434,
-        "end": 444,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 252,
-        "end": 254,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 448,
-        "end": 453,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 454,
         "end": 464,
         "label": "ADRESSE"
       },
@@ -1209,13 +1244,23 @@
     "labels": [
       {
         "start": 297,
-        "end": 303,
+        "end": 311,
         "label": "NAME"
       },
       {
-        "start": 304,
-        "end": 311,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 313,
@@ -1229,13 +1274,23 @@
     "labels": [
       {
         "start": 1171,
-        "end": 1176,
+        "end": 1184,
         "label": "NAME"
       },
       {
-        "start": 1177,
-        "end": 1184,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 213,
@@ -1264,32 +1319,22 @@
     "labels": [
       {
         "start": 443,
-        "end": 450,
-        "label": "NAME"
-      },
-      {
-        "start": 451,
         "end": 458,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 56,
-        "end": 65,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 66,
-        "end": 67,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 69,
-        "end": 74,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 75,
         "end": 84,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1304,12 +1349,12 @@
     "labels": [
       {
         "start": 298,
-        "end": 306,
+        "end": 315,
         "label": "NAME"
       },
       {
-        "start": 307,
-        "end": 315,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -1319,12 +1364,12 @@
       },
       {
         "start": 367,
-        "end": 372,
+        "end": 385,
         "label": "ADRESSE"
       },
       {
-        "start": 373,
-        "end": 385,
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1349,12 +1394,12 @@
     "labels": [
       {
         "start": 177,
-        "end": 183,
+        "end": 192,
         "label": "NAME"
       },
       {
-        "start": 184,
-        "end": 192,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -1369,17 +1414,12 @@
       },
       {
         "start": 236,
-        "end": 257,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 258,
-        "end": 265,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 266,
         "end": 280,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1414,7 +1454,7 @@
     "labels": [
       {
         "start": 36,
-        "end": 43,
+        "end": 53,
         "label": "NAME"
       },
       {
@@ -1423,23 +1463,18 @@
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 87,
-        "end": 96,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 97,
-        "end": 99,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 103,
-        "end": 108,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 109,
         "end": 119,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1456,12 +1491,42 @@
         "start": 85,
         "end": 92,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
   {
     "text": "Sehr geehrter Damen und Herren, Hiermit sende ich Ihnen die Kündigung Bestätigung. Bitte sehen Sie den Anhang dankeSent from my Galaxy\n",
     "labels": [
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
       {
         "start": 115,
         "end": 134,
@@ -1479,12 +1544,12 @@
       },
       {
         "start": 236,
-        "end": 241,
+        "end": 249,
         "label": "NAME"
       },
       {
-        "start": 242,
-        "end": 249,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -1499,42 +1564,12 @@
       },
       {
         "start": 123,
-        "end": 135,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 136,
-        "end": 138,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 142,
-        "end": 147,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 148,
         "end": 160,
         "label": "ADRESSE"
       },
       {
         "start": 260,
-        "end": 281,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 282,
-        "end": 284,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 142,
-        "end": 147,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 148,
-        "end": 160,
+        "end": 303,
         "label": "ADRESSE"
       },
       {
@@ -1564,13 +1599,23 @@
     "labels": [
       {
         "start": 348,
-        "end": 355,
+        "end": 364,
         "label": "NAME"
       },
       {
-        "start": 356,
-        "end": 364,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 278,
@@ -1584,61 +1629,26 @@
     "labels": [
       {
         "start": 54,
-        "end": 60,
-        "label": "NAME"
-      },
-      {
-        "start": 61,
         "end": 65,
         "label": "NAME"
       },
       {
         "start": 296,
-        "end": 307,
-        "label": "NAME"
-      },
-      {
-        "start": 315,
         "end": 323,
         "label": "NAME"
       },
       {
+        "start": 514,
+        "end": 526,
+        "label": "NAME"
+      },
+      {
         "start": 68,
-        "end": 88,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 89,
-        "end": 91,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 93,
-        "end": 98,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 99,
         "end": 104,
         "label": "ADRESSE"
       },
       {
         "start": 324,
-        "end": 337,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 127,
-        "end": 128,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 340,
-        "end": 345,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 346,
         "end": 352,
         "label": "ADRESSE"
       },
@@ -1653,16 +1663,6 @@
         "label": "TECHNISCHE_DATEN"
       },
       {
-        "start": 308,
-        "end": 314,
-        "label": "NAME"
-      },
-      {
-        "start": 315,
-        "end": 323,
-        "label": "NAME"
-      },
-      {
         "start": 123,
         "end": 132,
         "label": "VERTRAG"
@@ -1674,13 +1674,23 @@
     "labels": [
       {
         "start": 164,
-        "end": 170,
+        "end": 177,
         "label": "NAME"
       },
       {
-        "start": 171,
-        "end": 177,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 199,
@@ -1699,12 +1709,12 @@
     "labels": [
       {
         "start": 298,
-        "end": 304,
+        "end": 310,
         "label": "NAME"
       },
       {
-        "start": 305,
-        "end": 310,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -1721,6 +1731,16 @@
         "start": 328,
         "end": 348,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -1733,9 +1753,24 @@
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 140,
         "end": 152,
         "label": "FIRMA"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 91,
@@ -1743,12 +1778,12 @@
         "label": "ZAHLUNG"
       },
       {
-        "start": 263,
+        "start": 260,
         "end": 269,
         "label": "DATUM"
       },
       {
-        "start": 393,
+        "start": 303,
         "end": 406,
         "label": "KONTAKT"
       }
@@ -1759,17 +1794,17 @@
     "labels": [
       {
         "start": 182,
-        "end": 187,
-        "label": "NAME"
-      },
-      {
-        "start": 188,
         "end": 193,
         "label": "NAME"
       },
       {
         "start": 19,
         "end": 26,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -1784,22 +1819,12 @@
       },
       {
         "start": 194,
-        "end": 218,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 219,
-        "end": 222,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 223,
-        "end": 228,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 229,
         "end": 235,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       }
     ]
@@ -1809,32 +1834,22 @@
     "labels": [
       {
         "start": 271,
-        "end": 278,
-        "label": "NAME"
-      },
-      {
-        "start": 279,
         "end": 284,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 28,
-        "end": 38,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 39,
-        "end": 40,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 42,
-        "end": 47,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 48,
         "end": 57,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1854,32 +1869,22 @@
     "labels": [
       {
         "start": 229,
-        "end": 234,
-        "label": "NAME"
-      },
-      {
-        "start": 235,
         "end": 247,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 250,
-        "end": 269,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 270,
-        "end": 271,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 272,
-        "end": 277,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 278,
         "end": 284,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       }
     ]
@@ -1889,13 +1894,23 @@
     "labels": [
       {
         "start": 304,
-        "end": 310,
+        "end": 318,
         "label": "NAME"
       },
       {
-        "start": 311,
-        "end": 318,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -1904,12 +1919,12 @@
     "labels": [
       {
         "start": 366,
-        "end": 370,
+        "end": 377,
         "label": "NAME"
       },
       {
-        "start": 371,
-        "end": 377,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -1919,22 +1934,12 @@
       },
       {
         "start": 378,
-        "end": 395,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 396,
-        "end": 399,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 400,
-        "end": 405,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 406,
         "end": 413,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -1949,13 +1954,23 @@
     "labels": [
       {
         "start": 109,
-        "end": 114,
+        "end": 123,
         "label": "NAME"
       },
       {
-        "start": 115,
-        "end": 123,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 52,
@@ -1979,13 +1994,23 @@
     "labels": [
       {
         "start": 192,
-        "end": 199,
+        "end": 206,
         "label": "NAME"
       },
       {
-        "start": 200,
-        "end": 206,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -1994,12 +2019,12 @@
     "labels": [
       {
         "start": 343,
-        "end": 349,
+        "end": 355,
         "label": "NAME"
       },
       {
-        "start": 350,
-        "end": 355,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2009,22 +2034,12 @@
       },
       {
         "start": 356,
-        "end": 376,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 377,
-        "end": 379,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 381,
-        "end": 386,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 387,
         "end": 398,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -2049,12 +2064,12 @@
     "labels": [
       {
         "start": 267,
-        "end": 272,
+        "end": 279,
         "label": "NAME"
       },
       {
-        "start": 273,
-        "end": 279,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2064,42 +2079,12 @@
       },
       {
         "start": 97,
-        "end": 107,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 109,
-        "end": 111,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 113,
-        "end": 118,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 119,
         "end": 129,
         "label": "ADRESSE"
       },
       {
         "start": 140,
-        "end": 159,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 160,
-        "end": 161,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 113,
-        "end": 118,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 119,
-        "end": 129,
+        "end": 179,
         "label": "ADRESSE"
       }
     ]
@@ -2109,13 +2094,23 @@
     "labels": [
       {
         "start": 25,
-        "end": 31,
+        "end": 45,
         "label": "NAME"
       },
       {
-        "start": 32,
-        "end": 45,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 15,
@@ -2132,6 +2127,21 @@
   {
     "text": "Sehr geehrte(-r) Sachbearbeiter(-in) \n \n \nzum folgenden Vertragskonto wurde über Mein E.ON - Kontakt am 18.08.2023 folgende Kundenanfrage zum Thema \"\"Sonstiges\"\" abgesendet. Bitte um Bearbeitung! \n \nALLE DATEN AUF EINEN BLICK: \n \n \nGeschäftspartner: 0101833271 \nVertragskonto: 242354742018 \nTelefonnummer für Rückfragen: \nNachricht/Anfrage:  \n„VERTRAGS NR.: 401 160 536 \"Ihr Schreiben vom 15 August 2023 wg. E-Mail-Adresse\" “ \n \n \n \nFreundliche Grüße \nIhr E.ON Kundenservice \n \nwww.eon.de \n \nE.ON Deutschland GmbH \nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Dr. Ingo Luge Geschäftsführung/Executive Board: Dr. Victoria Ossadnik (Vorsitzende der Geschäftsführung/CEO) Dr. Philip Beckmann Torsten Flosbach Dr. Uwe Kolks Dr. Wolfgang Noetel Otmar Zisler \nSitz: Arnulfstraße 203, 80634 München Amtsgericht München HRB 209327 Ust-IdNr.: DE259922663 Gläubiger-ID: DE41EON00000129793  \n",
     "labels": [
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
       {
         "start": 358,
         "end": 369,
@@ -2153,7 +2163,7 @@
         "label": "VERTRAG"
       },
       {
-        "start": 251,
+        "start": 250,
         "end": 260,
         "label": "VERTRAG"
       },
@@ -2169,23 +2179,28 @@
     "labels": [
       {
         "start": 56,
-        "end": 60,
-        "label": "NAME"
-      },
-      {
-        "start": 61,
         "end": 77,
         "label": "NAME"
       },
       {
         "start": 531,
-        "end": 536,
+        "end": 543,
         "label": "NAME"
       },
       {
-        "start": 61,
-        "end": 67,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 455,
@@ -2204,12 +2219,17 @@
     "labels": [
       {
         "start": 384,
-        "end": 389,
+        "end": 396,
         "label": "NAME"
       },
       {
-        "start": 390,
-        "end": 396,
+        "start": 570,
+        "end": 588,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2234,21 +2254,11 @@
       },
       {
         "start": 408,
-        "end": 419,
+        "end": 438,
         "label": "ADRESSE"
       },
       {
-        "start": 223,
-        "end": 224,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 259,
-        "end": 264,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 265,
+        "start": 231,
         "end": 273,
         "label": "ADRESSE"
       },
@@ -2261,6 +2271,21 @@
         "start": 220,
         "end": 229,
         "label": "VERTRAG"
+      },
+      {
+        "start": 125,
+        "end": 135,
+        "label": "DATUM"
+      },
+      {
+        "start": 183,
+        "end": 193,
+        "label": "DATUM"
+      },
+      {
+        "start": 535,
+        "end": 552,
+        "label": "FIRMA"
       }
     ]
   },
@@ -2269,32 +2294,22 @@
     "labels": [
       {
         "start": 400,
-        "end": 408,
-        "label": "NAME"
-      },
-      {
-        "start": 409,
         "end": 414,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 415,
-        "end": 434,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 435,
-        "end": 438,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 439,
-        "end": 444,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 445,
         "end": 469,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       }
     ]
@@ -2304,13 +2319,23 @@
     "labels": [
       {
         "start": 182,
-        "end": 191,
+        "end": 201,
         "label": "NAME"
       },
       {
-        "start": 192,
-        "end": 201,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 16,
@@ -2324,42 +2349,22 @@
     "labels": [
       {
         "start": 26,
-        "end": 31,
-        "label": "NAME"
-      },
-      {
-        "start": 32,
         "end": 38,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 58,
-        "end": 82,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 83,
-        "end": 86,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 88,
-        "end": 93,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 94,
         "end": 103,
         "label": "ADRESSE"
       },
       {
         "start": 266,
-        "end": 277,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 278,
-        "end": 280,
+        "end": 296,
         "label": "ADRESSE"
       },
       {
@@ -2371,6 +2376,11 @@
         "start": 16,
         "end": 25,
         "label": "VERTRAG"
+      },
+      {
+        "start": 196,
+        "end": 204,
+        "label": "DATUM"
       }
     ]
   },
@@ -2379,12 +2389,12 @@
     "labels": [
       {
         "start": 234,
-        "end": 240,
+        "end": 247,
         "label": "NAME"
       },
       {
-        "start": 241,
-        "end": 247,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2399,22 +2409,12 @@
       },
       {
         "start": 248,
-        "end": 260,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 261,
-        "end": 264,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 266,
-        "end": 270,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 271,
         "end": 277,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -2434,12 +2434,17 @@
     "labels": [
       {
         "start": 0,
-        "end": 6,
+        "end": 18,
         "label": "NAME"
       },
       {
-        "start": 7,
-        "end": 18,
+        "start": 71,
+        "end": 77,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2448,23 +2453,13 @@
         "label": "FIRMA"
       },
       {
-        "start": 40,
-        "end": 57,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 58,
-        "end": 61,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 179,
-        "end": 184,
-        "label": "ADRESSE"
-      },
-      {
         "start": 19,
         "end": 24,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 156,
+        "end": 190,
         "label": "ADRESSE"
       },
       {
@@ -2473,9 +2468,24 @@
         "label": "TECHNISCHE_DATEN"
       },
       {
+        "start": 30,
+        "end": 39,
+        "label": "DATUM"
+      },
+      {
         "start": 126,
         "end": 135,
         "label": "VERTRAG"
+      },
+      {
+        "start": 78,
+        "end": 112,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 40,
+        "end": 61,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -2484,12 +2494,17 @@
     "labels": [
       {
         "start": 551,
-        "end": 556,
+        "end": 564,
         "label": "NAME"
       },
       {
-        "start": 33,
+        "start": 30,
         "end": 40,
+        "label": "NAME"
+      },
+      {
+        "start": 110,
+        "end": 129,
         "label": "NAME"
       },
       {
@@ -2509,22 +2524,12 @@
       },
       {
         "start": 609,
-        "end": 618,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 619,
-        "end": 623,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 624,
-        "end": 629,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 630,
         "end": 639,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -2538,6 +2543,26 @@
         "label": "ZAHLUNG"
       },
       {
+        "start": 318,
+        "end": 328,
+        "label": "DATUM"
+      },
+      {
+        "start": 202,
+        "end": 212,
+        "label": "DATUM"
+      },
+      {
+        "start": 130,
+        "end": 140,
+        "label": "DATUM"
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "label": "DATUM"
+      },
+      {
         "start": 141,
         "end": 152,
         "label": "VERTRAG"
@@ -2549,13 +2574,23 @@
     "labels": [
       {
         "start": 190,
-        "end": 196,
+        "end": 203,
         "label": "NAME"
       },
       {
-        "start": 197,
-        "end": 203,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 113,
@@ -2583,7 +2618,7 @@
         "label": "VERTRAG"
       },
       {
-        "start": 294,
+        "start": 204,
         "end": 307,
         "label": "KONTAKT"
       }
@@ -2594,12 +2629,12 @@
     "labels": [
       {
         "start": 123,
-        "end": 128,
+        "end": 134,
         "label": "NAME"
       },
       {
-        "start": 129,
-        "end": 134,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2609,22 +2644,12 @@
       },
       {
         "start": 135,
-        "end": 143,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 144,
-        "end": 145,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 146,
-        "end": 151,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 152,
         "end": 161,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       }
     ]
@@ -2634,13 +2659,23 @@
     "labels": [
       {
         "start": 109,
-        "end": 117,
+        "end": 123,
         "label": "NAME"
       },
       {
-        "start": 118,
-        "end": 123,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 96,
@@ -2656,6 +2691,21 @@
         "start": 113,
         "end": 117,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -2664,16 +2714,16 @@
     "labels": [
       {
         "start": 295,
-        "end": 304,
-        "label": "NAME"
-      },
-      {
-        "start": 305,
         "end": 312,
         "label": "NAME"
       },
       {
-        "start": 348,
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 347,
         "end": 357,
         "label": "KONTAKT"
       },
@@ -2684,28 +2734,23 @@
       },
       {
         "start": 315,
-        "end": 327,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 106,
-        "end": 107,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 330,
-        "end": 335,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 336,
         "end": 346,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 190,
+        "end": 211,
         "label": "ADRESSE"
       },
       {
         "start": 254,
         "end": 263,
         "label": "VERTRAG"
+      },
+      {
+        "start": 106,
+        "end": 113,
+        "label": "DATUM"
       }
     ]
   },
@@ -2714,13 +2759,23 @@
     "labels": [
       {
         "start": 591,
-        "end": 597,
+        "end": 603,
         "label": "NAME"
       },
       {
-        "start": 598,
-        "end": 603,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 196,
@@ -2738,13 +2793,13 @@
     "text": "Sehr geehrte Damen und Herren,\n \nich fordere Sie nochmals auf den Vertragspartner gem. meinem beigefügtem\nSchreiben vom 23.08.2023 zu korrigieren und mir dieses schriftlich zu\nbestätigen.\n \nDer Rechnungsempfänger für die Verbrauchsstelle muss zwingend\n„Höfig Scheuermann GmbH“ lauten, damit wir die offenen Posten aus\nbeigefügter Mahnung begleichen können.\n \nMit freundlichen Grüßen \n \nInge Beer\n- Vorstand -\n \n \nHöfig Scheuermann GmbH\nHolzapfelring 968\n46156 Bogen\n \nMobil: +49 (0) 6949 839568\nE-Mail: <mailto:ernst-dieteraumann@example.org>\nernst-dieteraumann@example.org\n",
     "labels": [
       {
-        "start": 245,
-        "end": 249,
+        "start": 386,
+        "end": 395,
         "label": "NAME"
       },
       {
-        "start": 391,
-        "end": 395,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2764,23 +2819,18 @@
       },
       {
         "start": 436,
-        "end": 449,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 450,
-        "end": 453,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 454,
-        "end": 459,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 460,
         "end": 465,
         "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "label": "DATUM"
       }
     ]
   },
@@ -2789,13 +2839,23 @@
     "labels": [
       {
         "start": 365,
-        "end": 372,
+        "end": 379,
         "label": "NAME"
       },
       {
-        "start": 373,
-        "end": 379,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 326,
@@ -2806,6 +2866,16 @@
         "start": 290,
         "end": 301,
         "label": "VERTRAG"
+      },
+      {
+        "start": 123,
+        "end": 132,
+        "label": "DATUM"
+      },
+      {
+        "start": 169,
+        "end": 184,
+        "label": "DATUM"
       }
     ]
   },
@@ -2814,61 +2884,26 @@
     "labels": [
       {
         "start": 260,
-        "end": 266,
-        "label": "NAME"
-      },
-      {
-        "start": 267,
         "end": 272,
         "label": "NAME"
       },
       {
         "start": 822,
-        "end": 829,
-        "label": "NAME"
-      },
-      {
-        "start": 830,
         "end": 839,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 273,
-        "end": 285,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 255,
-        "end": 256,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 288,
-        "end": 293,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 294,
         "end": 304,
         "label": "ADRESSE"
       },
       {
         "start": 323,
-        "end": 335,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 336,
-        "end": 339,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 340,
-        "end": 345,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 346,
         "end": 355,
         "label": "ADRESSE"
       },
@@ -2876,6 +2911,11 @@
         "start": 250,
         "end": 259,
         "label": "VERTRAG"
+      },
+      {
+        "start": 397,
+        "end": 407,
+        "label": "DATUM"
       }
     ]
   },
@@ -2884,12 +2924,12 @@
     "labels": [
       {
         "start": 176,
-        "end": 181,
+        "end": 191,
         "label": "NAME"
       },
       {
-        "start": 182,
-        "end": 191,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -2899,22 +2939,12 @@
       },
       {
         "start": 192,
-        "end": 209,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 210,
-        "end": 212,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 213,
-        "end": 218,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 219,
         "end": 230,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -2929,13 +2959,23 @@
     "labels": [
       {
         "start": 430,
-        "end": 435,
+        "end": 452,
         "label": "NAME"
       },
       {
-        "start": 436,
-        "end": 452,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 362,
@@ -2958,8 +2998,8 @@
         "label": "DATUM"
       },
       {
-        "start": 362,
-        "end": 372,
+        "start": 311,
+        "end": 323,
         "label": "VERTRAG"
       }
     ]
@@ -2969,13 +3009,23 @@
     "labels": [
       {
         "start": 229,
-        "end": 238,
+        "end": 247,
         "label": "NAME"
       },
       {
-        "start": 239,
-        "end": 247,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 201,
@@ -2988,19 +3038,34 @@
     "text": "Sehr geehrte Damen und Herren, \nhiermit sende ich Ihnen, den Kontoauszug für Juni 2023. \nMit freundlichen Grüßen \nJanin Fechner MBA.\n",
     "labels": [
       {
+        "start": 114,
+        "end": 127,
+        "label": "NAME"
+      },
+      {
         "start": 128,
         "end": 131,
         "label": "NAME"
       },
       {
-        "start": 114,
-        "end": 119,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
-        "start": 120,
-        "end": 127,
-        "label": "NAME"
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 77,
+        "end": 86,
+        "label": "DATUM"
       }
     ]
   },
@@ -3009,13 +3074,23 @@
     "labels": [
       {
         "start": 221,
-        "end": 231,
+        "end": 239,
         "label": "NAME"
       },
       {
-        "start": 232,
-        "end": 239,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3024,12 +3099,12 @@
     "labels": [
       {
         "start": 86,
-        "end": 99,
+        "end": 111,
         "label": "NAME"
       },
       {
-        "start": 100,
-        "end": 111,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -3039,22 +3114,12 @@
       },
       {
         "start": 1400,
-        "end": 1417,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 1418,
-        "end": 1421,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 1422,
-        "end": 1427,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 1428,
         "end": 1440,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -3074,18 +3139,23 @@
     "labels": [
       {
         "start": 112,
-        "end": 118,
-        "label": "NAME"
-      },
-      {
-        "start": 131,
         "end": 137,
         "label": "NAME"
       },
       {
-        "start": 123,
-        "end": 130,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 57,
@@ -3099,12 +3169,12 @@
     "labels": [
       {
         "start": 250,
-        "end": 256,
+        "end": 261,
         "label": "NAME"
       },
       {
-        "start": 257,
-        "end": 261,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -3118,6 +3188,16 @@
         "label": "KONTAKT"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
         "start": 279,
         "end": 303,
         "label": "KONTAKT"
@@ -3129,13 +3209,23 @@
     "labels": [
       {
         "start": 276,
-        "end": 283,
+        "end": 288,
         "label": "NAME"
       },
       {
-        "start": 284,
-        "end": 288,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 182,
@@ -3154,13 +3244,23 @@
     "labels": [
       {
         "start": 228,
-        "end": 238,
+        "end": 248,
         "label": "NAME"
       },
       {
-        "start": 239,
-        "end": 248,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 174,
@@ -3179,32 +3279,22 @@
     "labels": [
       {
         "start": 104,
-        "end": 110,
-        "label": "NAME"
-      },
-      {
-        "start": 111,
         "end": 117,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 118,
-        "end": 138,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 139,
-        "end": 142,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 143,
-        "end": 148,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 149,
         "end": 157,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -3219,18 +3309,28 @@
     "labels": [
       {
         "start": 246,
-        "end": 252,
+        "end": 264,
         "label": "NAME"
       },
       {
-        "start": 253,
-        "end": 264,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
         "start": 265,
         "end": 281,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3239,12 +3339,12 @@
     "labels": [
       {
         "start": 144,
-        "end": 148,
+        "end": 157,
         "label": "NAME"
       },
       {
-        "start": 149,
-        "end": 157,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -3259,22 +3359,12 @@
       },
       {
         "start": 443,
-        "end": 454,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 170,
-        "end": 171,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 458,
-        "end": 463,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 464,
         "end": 473,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -3304,13 +3394,23 @@
     "labels": [
       {
         "start": 83,
-        "end": 91,
+        "end": 100,
         "label": "NAME"
       },
       {
-        "start": 92,
-        "end": 100,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 24,
@@ -3324,13 +3424,23 @@
     "labels": [
       {
         "start": 118,
-        "end": 129,
+        "end": 136,
         "label": "NAME"
       },
       {
-        "start": 130,
-        "end": 136,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3339,18 +3449,23 @@
     "labels": [
       {
         "start": 274,
-        "end": 279,
-        "label": "NAME"
-      },
-      {
-        "start": 280,
-        "end": 286,
-        "label": "NAME"
-      },
-      {
-        "start": 287,
         "end": 294,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 121,
@@ -3364,13 +3479,23 @@
     "labels": [
       {
         "start": 352,
-        "end": 357,
+        "end": 373,
         "label": "NAME"
       },
       {
-        "start": 358,
-        "end": 373,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3379,12 +3504,12 @@
     "labels": [
       {
         "start": 191,
-        "end": 199,
+        "end": 205,
         "label": "NAME"
       },
       {
-        "start": 200,
-        "end": 205,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -3394,22 +3519,12 @@
       },
       {
         "start": 221,
-        "end": 233,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 234,
-        "end": 235,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 236,
-        "end": 241,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 242,
         "end": 253,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -3424,13 +3539,23 @@
     "labels": [
       {
         "start": 243,
-        "end": 246,
+        "end": 253,
         "label": "NAME"
       },
       {
-        "start": 247,
-        "end": 253,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 105,
@@ -3464,13 +3589,23 @@
     "labels": [
       {
         "start": 162,
-        "end": 169,
+        "end": 179,
         "label": "NAME"
       },
       {
-        "start": 170,
-        "end": 179,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 67,
@@ -3484,13 +3619,23 @@
     "labels": [
       {
         "start": 119,
-        "end": 124,
+        "end": 131,
         "label": "NAME"
       },
       {
-        "start": 125,
-        "end": 131,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3508,29 +3653,29 @@
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 45,
-        "end": 53,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 54,
-        "end": 56,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 57,
-        "end": 62,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 63,
         "end": 71,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
         "start": 408,
         "end": 413,
         "label": "TECHNISCHE_DATEN"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "VERTRAG"
       },
       {
         "start": 118,
@@ -3564,18 +3709,28 @@
     "labels": [
       {
         "start": 355,
-        "end": 362,
+        "end": 370,
         "label": "NAME"
       },
       {
-        "start": 363,
-        "end": 370,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
         "start": 115,
         "end": 125,
         "label": "FIRMA"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 141,
@@ -3589,13 +3744,23 @@
     "labels": [
       {
         "start": 58,
-        "end": 65,
+        "end": 73,
         "label": "NAME"
       },
       {
-        "start": 66,
-        "end": 73,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 80,
@@ -3609,18 +3774,23 @@
     "labels": [
       {
         "start": 64,
-        "end": 67,
-        "label": "NAME"
-      },
-      {
-        "start": 68,
-        "end": 73,
-        "label": "NAME"
-      },
-      {
-        "start": 74,
         "end": 80,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3629,13 +3799,23 @@
     "labels": [
       {
         "start": 382,
-        "end": 390,
+        "end": 395,
         "label": "NAME"
       },
       {
-        "start": 391,
-        "end": 395,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 129,
@@ -3654,18 +3834,28 @@
     "labels": [
       {
         "start": 156,
-        "end": 162,
+        "end": 170,
         "label": "NAME"
       },
       {
-        "start": 163,
-        "end": 170,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
         "start": 117,
         "end": 130,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 175,
@@ -3679,18 +3869,28 @@
     "labels": [
       {
         "start": 245,
-        "end": 252,
+        "end": 266,
         "label": "NAME"
       },
       {
-        "start": 253,
-        "end": 266,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
         "start": 198,
         "end": 209,
         "label": "FIRMA"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 128,
@@ -3704,13 +3904,23 @@
     "labels": [
       {
         "start": 285,
-        "end": 292,
+        "end": 298,
         "label": "NAME"
       },
       {
-        "start": 293,
-        "end": 298,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 214,
@@ -3724,13 +3934,23 @@
     "labels": [
       {
         "start": 306,
-        "end": 313,
+        "end": 318,
         "label": "NAME"
       },
       {
-        "start": 314,
-        "end": 318,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 171,
@@ -3749,32 +3969,22 @@
     "labels": [
       {
         "start": 367,
-        "end": 373,
-        "label": "NAME"
-      },
-      {
-        "start": 374,
         "end": 379,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 47,
-        "end": 66,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 67,
-        "end": 70,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 71,
-        "end": 76,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 77,
         "end": 85,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -3794,13 +4004,23 @@
     "labels": [
       {
         "start": 264,
-        "end": 273,
+        "end": 280,
         "label": "NAME"
       },
       {
-        "start": 274,
-        "end": 280,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 149,
@@ -3809,7 +4029,7 @@
       },
       {
         "start": 219,
-        "end": 222,
+        "end": 223,
         "label": "ZAHLUNG"
       },
       {
@@ -3828,6 +4048,21 @@
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
         "start": 323,
         "end": 399,
         "label": "KONTAKT"
@@ -3839,18 +4074,28 @@
     "labels": [
       {
         "start": 388,
-        "end": 393,
-        "label": "NAME"
-      },
-      {
-        "start": 179,
-        "end": 184,
+        "end": 399,
         "label": "NAME"
       },
       {
         "start": 408,
         "end": 415,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 121,
@@ -3866,6 +4111,21 @@
         "start": 131,
         "end": 137,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -3874,17 +4134,12 @@
     "labels": [
       {
         "start": 593,
-        "end": 596,
-        "label": "NAME"
-      },
-      {
-        "start": 597,
-        "end": 602,
-        "label": "NAME"
-      },
-      {
-        "start": 603,
         "end": 610,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -3894,12 +4149,12 @@
       },
       {
         "start": 91,
-        "end": 100,
+        "end": 103,
         "label": "ADRESSE"
       },
       {
-        "start": 101,
-        "end": 103,
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -3934,23 +4189,28 @@
     "labels": [
       {
         "start": 237,
-        "end": 243,
-        "label": "NAME"
-      },
-      {
-        "start": 244,
         "end": 250,
         "label": "NAME"
       },
       {
         "start": 174,
-        "end": 178,
+        "end": 184,
         "label": "NAME"
       },
       {
-        "start": 179,
-        "end": 184,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 163,
@@ -3979,13 +4239,23 @@
     "labels": [
       {
         "start": 177,
-        "end": 179,
+        "end": 187,
         "label": "NAME"
       },
       {
-        "start": 179,
-        "end": 187,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 101,
@@ -4009,42 +4279,27 @@
     "labels": [
       {
         "start": 240,
-        "end": 246,
-        "label": "NAME"
-      },
-      {
-        "start": 247,
         "end": 259,
         "label": "NAME"
       },
       {
         "start": 144,
-        "end": 150,
-        "label": "NAME"
-      },
-      {
-        "start": 151,
         "end": 155,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 156,
-        "end": 172,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 173,
-        "end": 175,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 176,
-        "end": 181,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 182,
         "end": 190,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -4064,13 +4319,23 @@
     "labels": [
       {
         "start": 187,
-        "end": 192,
+        "end": 201,
         "label": "NAME"
       },
       {
-        "start": 193,
-        "end": 201,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -4081,6 +4346,21 @@
         "start": 110,
         "end": 116,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 51,
@@ -4099,12 +4379,12 @@
     "labels": [
       {
         "start": 126,
-        "end": 135,
+        "end": 142,
         "label": "NAME"
       },
       {
-        "start": 136,
-        "end": 142,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -4119,22 +4399,12 @@
       },
       {
         "start": 191,
-        "end": 210,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 211,
-        "end": 214,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 215,
-        "end": 220,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 221,
         "end": 227,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       }
     ]
@@ -4144,13 +4414,23 @@
     "labels": [
       {
         "start": 424,
-        "end": 434,
+        "end": 443,
         "label": "NAME"
       },
       {
-        "start": 435,
-        "end": 443,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 120,
@@ -4179,13 +4459,23 @@
     "labels": [
       {
         "start": 614,
-        "end": 622,
+        "end": 628,
         "label": "NAME"
       },
       {
-        "start": 623,
-        "end": 628,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 431,
@@ -4199,27 +4489,17 @@
     "labels": [
       {
         "start": 36,
-        "end": 41,
-        "label": "NAME"
-      },
-      {
-        "start": 42,
-        "end": 50,
-        "label": "NAME"
-      },
-      {
-        "start": 51,
         "end": 56,
         "label": "NAME"
       },
       {
         "start": 128,
-        "end": 132,
+        "end": 138,
         "label": "NAME"
       },
       {
-        "start": 51,
-        "end": 56,
+        "start": 304,
+        "end": 314,
         "label": "NAME"
       },
       {
@@ -4228,14 +4508,14 @@
         "label": "KONTAKT"
       },
       {
-        "start": 304,
-        "end": 308,
-        "label": "NAME"
+        "start": 167,
+        "end": 195,
+        "label": "ADRESSE"
       },
       {
-        "start": 51,
-        "end": 56,
-        "label": "NAME"
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -4243,29 +4523,19 @@
     "text": "Sehr geehrte Damen und Herren!\nIch bitte Sie die Abschlussrechnungen für obige Vertragsnummer an folgende\nAdresse zu senden:\nAnna Sölzer\nC/o Dr Fadime Sölzer\n Schollplatz 550\n 40239 Düsseldorf\n Email: fschulz@example.org\n Mobil: 01704486372\n Mit freundlichen Grüßen\n Dr. Fadime Sölzer\n",
     "labels": [
       {
-        "start": 107,
-        "end": 109,
-        "label": "NAME"
-      },
-      {
         "start": 125,
-        "end": 129,
-        "label": "NAME"
-      },
-      {
-        "start": 130,
         "end": 136,
         "label": "NAME"
       },
       {
-        "start": 144,
-        "end": 150,
+        "start": 141,
+        "end": 157,
         "label": "NAME"
       },
       {
-        "start": 130,
-        "end": 136,
-        "label": "FIRMA"
+        "start": 267,
+        "end": 284,
+        "label": "NAME"
       },
       {
         "start": 229,
@@ -4279,22 +4549,12 @@
       },
       {
         "start": 159,
-        "end": 170,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 171,
-        "end": 174,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 176,
-        "end": 181,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 182,
         "end": 192,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       }
     ]
@@ -4302,6 +4562,21 @@
   {
     "text": "Am 13.07.2023 wurde ein neuer Gaszähler eingebaut. Anbei ein Foto vom aktuellen Zähler.\nDiese Nachricht wurde von meinem Android Mobiltelefon mit GMX Mail gesendet.\n",
     "labels": [
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
       {
         "start": 3,
         "end": 13,
@@ -4319,13 +4594,23 @@
     "labels": [
       {
         "start": 975,
-        "end": 979,
+        "end": 991,
         "label": "NAME"
       },
       {
-        "start": 980,
-        "end": 991,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       }
     ]
   },
@@ -4334,18 +4619,33 @@
     "labels": [
       {
         "start": 314,
-        "end": 326,
+        "end": 333,
         "label": "NAME"
       },
       {
-        "start": 327,
-        "end": 333,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 97,
+        "end": 108,
+        "label": "FIRMA"
       },
       {
         "start": 364,
         "end": 376,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -4358,33 +4658,23 @@
     "text": "Sehr geehrte Damen und Herren,\nanbei das gewünschte Ausbauprotokoll.\nmfg\nIng. Heinz-Jürgen Heser\nOtfried-Täsche-Platz 2/2\n49479 Ibbenbüren\n",
     "labels": [
       {
-        "start": 78,
-        "end": 90,
-        "label": "NAME"
-      },
-      {
-        "start": 91,
+        "start": 73,
         "end": 96,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 97,
-        "end": 116,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 118,
-        "end": 121,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 122,
-        "end": 127,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 128,
         "end": 138,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -4399,32 +4689,22 @@
     "labels": [
       {
         "start": 104,
-        "end": 110,
-        "label": "NAME"
-      },
-      {
-        "start": 111,
         "end": 115,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 116,
-        "end": 138,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 139,
-        "end": 141,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 143,
-        "end": 147,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 148,
         "end": 155,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -4444,13 +4724,23 @@
     "labels": [
       {
         "start": 250,
-        "end": 255,
+        "end": 263,
         "label": "NAME"
       },
       {
-        "start": 256,
-        "end": 263,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -4464,13 +4754,23 @@
     "labels": [
       {
         "start": 291,
-        "end": 297,
+        "end": 304,
         "label": "NAME"
       },
       {
-        "start": 298,
-        "end": 304,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 173,
@@ -4499,22 +4799,17 @@
     "labels": [
       {
         "start": 222,
-        "end": 228,
-        "label": "NAME"
-      },
-      {
-        "start": 229,
         "end": 234,
         "label": "NAME"
       },
       {
         "start": 371,
-        "end": 376,
+        "end": 389,
         "label": "NAME"
       },
       {
-        "start": 377,
-        "end": 389,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -4524,41 +4819,11 @@
       },
       {
         "start": 235,
-        "end": 256,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 257,
-        "end": 259,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 260,
-        "end": 265,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 266,
         "end": 274,
         "label": "ADRESSE"
       },
       {
         "start": 168,
-        "end": 197,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 102,
-        "end": 103,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 200,
-        "end": 205,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 206,
         "end": 213,
         "label": "ADRESSE"
       },
@@ -4584,7 +4849,7 @@
       },
       {
         "start": 463,
-        "end": 507,
+        "end": 595,
         "label": "KONTAKT"
       }
     ]
@@ -4594,32 +4859,22 @@
     "labels": [
       {
         "start": 375,
-        "end": 380,
-        "label": "NAME"
-      },
-      {
-        "start": 381,
         "end": 387,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 389,
-        "end": 411,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 412,
-        "end": 414,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 415,
-        "end": 420,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 421,
         "end": 427,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -4644,18 +4899,23 @@
     "labels": [
       {
         "start": 144,
-        "end": 148,
-        "label": "NAME"
-      },
-      {
-        "start": 149,
-        "end": 156,
-        "label": "NAME"
-      },
-      {
-        "start": 157,
         "end": 162,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -4669,17 +4929,27 @@
     "labels": [
       {
         "start": 760,
-        "end": 765,
-        "label": "NAME"
-      },
-      {
-        "start": 766,
         "end": 775,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
         "start": 523,
-        "end": 525,
+        "end": 526,
         "label": "ZAHLUNG"
       },
       {
@@ -4699,13 +4969,23 @@
     "labels": [
       {
         "start": 144,
-        "end": 151,
+        "end": 167,
         "label": "NAME"
       },
       {
-        "start": 152,
-        "end": 167,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 116,
@@ -4724,13 +5004,23 @@
     "labels": [
       {
         "start": 115,
-        "end": 121,
+        "end": 136,
         "label": "NAME"
       },
       {
-        "start": 122,
-        "end": 136,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -4749,13 +5039,23 @@
       },
       {
         "start": 163,
-        "end": 173,
+        "end": 179,
         "label": "NAME"
       },
       {
-        "start": 174,
-        "end": 179,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -4769,18 +5069,23 @@
     "labels": [
       {
         "start": 243,
-        "end": 253,
-        "label": "NAME"
-      },
-      {
-        "start": 254,
-        "end": 260,
-        "label": "NAME"
-      },
-      {
-        "start": 261,
         "end": 271,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 97,
@@ -4799,12 +5104,12 @@
     "labels": [
       {
         "start": 391,
-        "end": 397,
+        "end": 413,
         "label": "NAME"
       },
       {
-        "start": 398,
-        "end": 413,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -4819,23 +5124,23 @@
       },
       {
         "start": 416,
-        "end": 436,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 437,
-        "end": 440,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 442,
-        "end": 446,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 447,
         "end": 453,
         "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "label": "VERTRAG"
+      },
+      {
+        "start": 173,
+        "end": 177,
+        "label": "DATUM"
       },
       {
         "start": 0,
@@ -4849,12 +5154,12 @@
     "labels": [
       {
         "start": 201,
-        "end": 207,
+        "end": 215,
         "label": "NAME"
       },
       {
-        "start": 208,
-        "end": 215,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -4878,23 +5183,13 @@
         "label": "KONTAKT"
       },
       {
-        "start": 234,
-        "end": 245,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 161,
-        "end": 162,
-        "label": "ADRESSE"
-      },
-      {
         "start": 216,
-        "end": 223,
+        "end": 247,
         "label": "ADRESSE"
       },
       {
-        "start": 224,
-        "end": 233,
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -4914,32 +5209,22 @@
     "labels": [
       {
         "start": 363,
-        "end": 367,
-        "label": "NAME"
-      },
-      {
-        "start": 368,
         "end": 377,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 378,
-        "end": 398,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 399,
-        "end": 400,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 402,
-        "end": 407,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 412,
         "end": 421,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -4965,6 +5250,21 @@
       {
         "start": 0,
         "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "KONTAKT"
       }
     ]
@@ -4974,13 +5274,23 @@
     "labels": [
       {
         "start": 596,
-        "end": 605,
+        "end": 623,
         "label": "NAME"
       },
       {
-        "start": 606,
-        "end": 623,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 244,
@@ -5009,12 +5319,12 @@
     "labels": [
       {
         "start": 35,
-        "end": 42,
+        "end": 48,
         "label": "NAME"
       },
       {
-        "start": 43,
-        "end": 48,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -5024,22 +5334,12 @@
       },
       {
         "start": 49,
-        "end": 60,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 32,
-        "end": 33,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 66,
-        "end": 71,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 72,
         "end": 81,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -5063,6 +5363,11 @@
         "label": "DATUM"
       },
       {
+        "start": 113,
+        "end": 125,
+        "label": "DATUM"
+      },
+      {
         "start": 282,
         "end": 287,
         "label": "TECHNISCHE_DATEN"
@@ -5078,6 +5383,11 @@
     "text": "Hallo,\nBitte keine Werbung an leiftschentscher@example.net oder +49 (0) 5864 007393 schicken\nDanke\n",
     "labels": [
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 64,
         "end": 83,
         "label": "KONTAKT"
@@ -5086,6 +5396,16 @@
         "start": 30,
         "end": 58,
         "label": "KONTAKT"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -5099,13 +5419,23 @@
     "labels": [
       {
         "start": 57,
-        "end": 66,
+        "end": 74,
         "label": "NAME"
       },
       {
-        "start": 67,
-        "end": 74,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -5119,13 +5449,23 @@
     "labels": [
       {
         "start": 201,
-        "end": 207,
+        "end": 214,
         "label": "NAME"
       },
       {
-        "start": 208,
-        "end": 214,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 15,
@@ -5149,13 +5489,23 @@
     "labels": [
       {
         "start": 1679,
-        "end": 1686,
+        "end": 1692,
         "label": "NAME"
       },
       {
-        "start": 1687,
-        "end": 1692,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 93,
@@ -5173,6 +5523,16 @@
         "label": "DATUM"
       },
       {
+        "start": 435,
+        "end": 439,
+        "label": "DATUM"
+      },
+      {
+        "start": 1239,
+        "end": 1243,
+        "label": "DATUM"
+      },
+      {
         "start": 0,
         "end": 0,
         "label": "KONTAKT"
@@ -5185,6 +5545,21 @@
       {
         "start": 0,
         "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "KONTAKT"
       }
     ]
@@ -5194,12 +5569,12 @@
     "labels": [
       {
         "start": 274,
-        "end": 282,
+        "end": 291,
         "label": "NAME"
       },
       {
-        "start": 283,
-        "end": 291,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -5209,22 +5584,12 @@
       },
       {
         "start": 185,
-        "end": 200,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 202,
-        "end": 203,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 204,
-        "end": 209,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 210,
         "end": 222,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -5244,13 +5609,28 @@
     "labels": [
       {
         "start": 486,
-        "end": 494,
+        "end": 509,
         "label": "NAME"
       },
       {
-        "start": 495,
-        "end": 509,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 176,
+        "end": 205,
+        "label": "FIRMA"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 44,
@@ -5274,12 +5654,12 @@
     "labels": [
       {
         "start": 398,
-        "end": 404,
+        "end": 410,
         "label": "NAME"
       },
       {
-        "start": 405,
-        "end": 410,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -5288,9 +5668,24 @@
         "label": "KONTAKT"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
         "start": 14,
         "end": 23,
         "label": "VERTRAG"
+      },
+      {
+        "start": 174,
+        "end": 178,
+        "label": "DATUM"
       },
       {
         "start": 0,
@@ -5304,36 +5699,26 @@
     "labels": [
       {
         "start": 145,
-        "end": 150,
-        "label": "NAME"
-      },
-      {
-        "start": 151,
         "end": 156,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 197,
-        "end": 207,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 172,
-        "end": 173,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 211,
-        "end": 216,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 217,
         "end": 224,
         "label": "ADRESSE"
       },
       {
-        "start": 240,
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 239,
         "end": 249,
         "label": "TECHNISCHE_DATEN"
       },
@@ -5365,6 +5750,21 @@
       {
         "start": 0,
         "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "KONTAKT"
       }
     ]
@@ -5374,13 +5774,23 @@
     "labels": [
       {
         "start": 185,
-        "end": 190,
+        "end": 198,
         "label": "NAME"
       },
       {
-        "start": 191,
-        "end": 198,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 150,
@@ -5404,13 +5814,18 @@
     "labels": [
       {
         "start": 242,
-        "end": 247,
+        "end": 259,
         "label": "NAME"
       },
       {
-        "start": 248,
-        "end": 259,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 260,
+        "end": 287,
+        "label": "FIRMA"
       },
       {
         "start": 324,
@@ -5424,22 +5839,12 @@
       },
       {
         "start": 288,
-        "end": 299,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 300,
-        "end": 303,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 304,
-        "end": 309,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 310,
         "end": 315,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -5453,6 +5858,21 @@
     "text": "Sehr geehrte Inergieversorger!\nEs ist nicht akzeptabel das mein Zugang nicht funktioniert ,ich bitte Sie dieses zeitnah bazuändern!!!\nVon meinem/meiner Galaxy gesendet\n",
     "labels": [
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
         "start": 134,
         "end": 167,
         "label": "KONTAKT"
@@ -5464,12 +5884,12 @@
     "labels": [
       {
         "start": 362,
-        "end": 369,
+        "end": 377,
         "label": "NAME"
       },
       {
-        "start": 370,
-        "end": 377,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -5479,22 +5899,12 @@
       },
       {
         "start": 378,
-        "end": 397,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 398,
-        "end": 399,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 400,
-        "end": 405,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 406,
         "end": 412,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -5519,23 +5929,28 @@
     "labels": [
       {
         "start": 417,
-        "end": 420,
-        "label": "NAME"
-      },
-      {
-        "start": 421,
-        "end": 428,
-        "label": "NAME"
-      },
-      {
-        "start": 429,
         "end": 435,
+        "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
         "start": 326,
         "end": 357,
         "label": "FIRMA"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 372,
@@ -5563,6 +5978,21 @@
         "label": "DATUM"
       },
       {
+        "start": 32,
+        "end": 46,
+        "label": "DATUM"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATUM"
+      },
+      {
+        "start": 279,
+        "end": 301,
+        "label": "FIRMA"
+      },
+      {
         "start": 0,
         "end": 0,
         "label": "KONTAKT"
@@ -5574,12 +6004,12 @@
     "labels": [
       {
         "start": 143,
-        "end": 148,
+        "end": 155,
         "label": "NAME"
       },
       {
-        "start": 149,
-        "end": 155,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -5588,34 +6018,29 @@
         "label": "FIRMA"
       },
       {
-        "start": 221,
+        "start": 220,
         "end": 231,
         "label": "KONTAKT"
       },
       {
-        "start": 237,
+        "start": 236,
         "end": 247,
         "label": "KONTAKT"
       },
       {
         "start": 179,
-        "end": 197,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 198,
-        "end": 199,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 200,
-        "end": 205,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 206,
         "end": 214,
         "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 113,
+        "end": 135,
+        "label": "FIRMA"
       },
       {
         "start": 0,
@@ -5629,12 +6054,12 @@
     "labels": [
       {
         "start": 282,
-        "end": 287,
+        "end": 293,
         "label": "NAME"
       },
       {
-        "start": 288,
-        "end": 293,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
       },
       {
@@ -5644,22 +6069,12 @@
       },
       {
         "start": 294,
-        "end": 303,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 90,
-        "end": 91,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 306,
-        "end": 311,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 312,
         "end": 328,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -5679,32 +6094,22 @@
     "labels": [
       {
         "start": 51,
-        "end": 59,
-        "label": "NAME"
-      },
-      {
-        "start": 60,
         "end": 64,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 76,
-        "end": 86,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 87,
-        "end": 88,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 89,
-        "end": 94,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 95,
         "end": 104,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
@@ -5729,13 +6134,23 @@
     "labels": [
       {
         "start": 85,
-        "end": 93,
+        "end": 99,
         "label": "NAME"
       },
       {
-        "start": 94,
-        "end": 99,
+        "start": 0,
+        "end": 0,
         "label": "NAME"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
+        "label": "ADRESSE"
       },
       {
         "start": 0,
@@ -5749,32 +6164,22 @@
     "labels": [
       {
         "start": 352,
-        "end": 357,
-        "label": "NAME"
-      },
-      {
-        "start": 358,
         "end": 363,
         "label": "NAME"
       },
       {
+        "start": 0,
+        "end": 0,
+        "label": "NAME"
+      },
+      {
         "start": 364,
-        "end": 381,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 382,
-        "end": 385,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 386,
-        "end": 391,
-        "label": "ADRESSE"
-      },
-      {
-        "start": 392,
         "end": 398,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 0,
+        "end": 0,
         "label": "ADRESSE"
       },
       {
