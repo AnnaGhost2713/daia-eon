@@ -1,0 +1,11 @@
+Hiermit schicke ich die Unterlagen für den Zähler von <<VORNAME>> <<NACHNAME>> ,
+<<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>.
+Die Kundennummer <<VERTRAGSNUMMER>> gehört zur Zählernummer <<ZÄHLERNUMMER>> .
+Anbei schicke ich die Unterlagen für diesen Zähler.
+Da ein Fehler aufgetreten ist, möchten Sie die Unterlagen von Familie
+ <<VORNAME>>/<<VORNAME>> <<NACHNAME>>
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+einsehen. Wir haben die Erlaubnis von Familie <<NACHNAME>> erhalten, für die
+Prüfung des Zähler mit der Nummer <<ZÄHLERNUMMER>> .
+Vielen Dank für die schnelle Klärung Familie <<NACHNAME>>.

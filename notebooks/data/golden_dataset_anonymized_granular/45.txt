@@ -1,0 +1,9 @@
+Sehr geehrter Herr <<NACHNAME>>,
+anbei, wie eben besprochen, die Kontoauszüge, mit den von uns geleisteten
+Abschlägen. Ich bin mal bis zum Februar zurückgegangen.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+Mobil <<TELEFONNUMMER>>
+Privat <<TELEFONNUMMER>>

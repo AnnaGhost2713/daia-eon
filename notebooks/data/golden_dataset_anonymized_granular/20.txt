@@ -1,0 +1,10 @@
+Guten Tag. 
+Der nächste Abschlag ist am <<DATUM>> fällig. 
+Habe das Ende <<DATUM>> mit einem Kollegen am Call Center ausgemacht. 
+Bitte um Bearbeitung das der Betrag Ende <<DATUM>> überwiesen wird. 
+Das Konto ist ausgeglichen. 
+Vielen Dank. 
+Mit freundlichen Grüßen 
+Herr <<VORNAME>> <<NACHNAME>> 
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>

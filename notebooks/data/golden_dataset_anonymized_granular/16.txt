@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,
+Sie schreiben mir am <<DATUM>> dass ich noch einen Guthaben von <<ZAHLUNG>> habe. Diese wurde noch nie zurück bezahlt. Der Konto , der Sie angegeben haben war richtig allerdings kam das Geld nie an. Bitte nochmal prüfen und mir das Geld zahlen. Im Anhang der Brief.
+Mit freundlichen Grüßen ,
+<<VORNAME>> <<NACHNAME>>
+<<GESENDET_MIT>>

@@ -1,0 +1,21 @@
+Sehr geehrte Damen und Herren,
+ 
+ich möchte Ihnen mitteilen, dass sich ab <<DATUM>> meine Kontonummer für
+Last-und Gutschriften an folgendem Objekt ändert:
+ 
+Vertragsnummer: <<VERTRAGSNUMMER>>
+Verbrauchsstelle : <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>
+Zähler: <<ZÄHLERNUMMER>>
+ 
+ 
+Neue Kontonummer ab <<DATUM>> 
+ 
+<<TITEL>> <<VORNAME>> <<NACHNAME>>
+IBAN: <<IBAN>>
+BIC: <<BIC>>
+<<BANK>>
+ 
+Mit freundlichen Grüßen und herzlichen Dank
+<<TITEL>> <<VORNAME>> <<NACHNAME>>
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>

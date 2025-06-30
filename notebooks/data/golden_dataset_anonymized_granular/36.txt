@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren, 
+Ich <<VORNAME>> <<NACHNAME>>, Eigentümer der Immobilie an der <<STRASSE>> <<HAUSNUMMER>> in <<POSTLEITZAHL>> <<WOHNORT>> bitte sie den Stromzähler mit der Zähler Nr.<<ZÄHLERNUMMER>> zu entsperren. 
+Da es für die Wohnung einen neuen Mieter gibt und dieser nicht dafür verantwortlich ist, dass der Stromzähler gesperrt ist, sondern dieses wurde von den vorherigen Mieterverschuldeten 
+Mit freundlichen Grüßen 
+<<NACHNAME>>

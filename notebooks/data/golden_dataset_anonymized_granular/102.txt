@@ -1,0 +1,7 @@
+Hallo EON,
+Bitte erstatten Sie auf folgendes Konto zurück
+<<VORNAME>> <<NACHNAME>>
+Iban: <<IBAN>>
+bei der <<BANK>>. 
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>

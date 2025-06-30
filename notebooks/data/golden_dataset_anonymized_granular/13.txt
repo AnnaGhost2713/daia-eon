@@ -1,0 +1,9 @@
+Guten Tag,
+wie gerade telefonisch besprochen sende ich Ihnen den Mietvertrag im Anhang.
+Meine Eon Vertragsnummer lautet : <<VERTRAGSNUMMER>>
+Die Zählernummer für Strom lautet: <<ZÄHLERNUMMER>>
+Aktueller Zählerstand: <<ZÄHLERSTAND>>
+Bitte schalten sie mir so schnell es geht den Strom frei. Ich lebe seit 1,5 Wochen ohne Strom hier.
+Ich bitte außerdem um eine Rückmeldung auf diese Mailadresse.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>

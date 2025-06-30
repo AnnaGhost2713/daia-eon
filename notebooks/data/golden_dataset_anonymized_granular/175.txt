@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+bitte bemerken Sie das Dokument im Anhang.
+-- 
+Mit freundlichen Grüßen
+<<FIRMA>>
+<<VORNAME>> <<NACHNAME>>
+Rechtliche Betreuungen
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+Tel. 0<<TELEFONNUMMER>>
+Fax 0<<FAX>>

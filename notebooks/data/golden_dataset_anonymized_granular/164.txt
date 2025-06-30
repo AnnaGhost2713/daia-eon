@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich bitte Sie für meine neue Mietswohnung so schnell wie möglich den Strom freizuschalten und mir Vertragsunterlagen zuzuschicken.
+Anschrift der Wohnung:
+<<STRASSE>> 0<<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+Zählernummer: <<ZÄHLERNUMMER>>
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<TELEFONNUMMER>>

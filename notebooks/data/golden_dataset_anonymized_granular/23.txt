@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+Ich habe <<DATUM>> das Haus meines verstorbenen
+Onkels übernommen.
+Leider wurde damals versäumt den Namen im Vertrag zu ändern.
+Ich bitte die Daten im Vertrag entsprechend zu ändern.
+<<VORNAME>> <<NACHNAME>>
+<<DATUM>>
+Die Bankverbindung(Einziehung vom Konto meiner Schwester <<VORNAME>> <<NACHNAME>>) kann weiter verwendet werden.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<GESENDET_MIT>>

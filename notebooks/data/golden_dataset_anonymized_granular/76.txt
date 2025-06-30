@@ -1,0 +1,10 @@
+Guten Tag
+Wie telefonisch besprochen, möchte ich den Betrag für den Bautrockner zusätzlich
+Zum Abschlag extra bezahlen.
+Im Anhang die Kostenabrechnung.
+Mir freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+Tel. <<TELEFONNUMMER>>
+Ich werde den Betrag von <<ZAHLUNG>> auf mein Vertragskonto überweisen.
