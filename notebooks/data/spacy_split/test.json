@@ -1,0 +1,766 @@
+[
+  {
+    "text": "Hallo,\nAnbei meine Vertragsbestätigung.\nMit freundlichen Grüßen\nDr. Ewald Kramer\n",
+    "labels": [
+      {
+        "start": 64,
+        "end": 67,
+        "label": "TITEL"
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "label": "VORNAME"
+      },
+      {
+        "start": 74,
+        "end": 80,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "text": "#### Order \n \nAnliegen*: Erdgas \n \nJahresverbrauch (kWh/Jahr)*: ohne Relevanz \n \nNachricht: Vertragsnummer 407 571 241 + 242 871 349 670 Ihr Schreiben aus August. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist 721 992 747 Ich erbitte Informationen und einen Vorschlag \n \nIhr Name*: Vladimir Schleich \n \nFirmenname*: Vladimir Schleich \n \nPLZ und Ort*: 68616 Staffelstein \n \nE-Mail*: linda21@example.com \n \n \nIch akzeptiere die unten genannte Einwilligungserklärung.* \n \n: on \n \n",
+    "labels": [
+      {
+        "start": 298,
+        "end": 306,
+        "label": "VORNAME"
+      },
+      {
+        "start": 307,
+        "end": 315,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 398,
+        "end": 417,
+        "label": "EMAIL"
+      },
+      {
+        "start": 367,
+        "end": 372,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 373,
+        "end": 385,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 107,
+        "end": 118,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 155,
+        "end": 161,
+        "label": "DATUM"
+      },
+      {
+        "start": 121,
+        "end": 136,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nin der Anlage befindet sich die Vollmacht meiner Mutter.\nBitte fügen Sie den Vertrag 402495305  in Mein E.ON von Bertram Steinberg-Wende \nmit dem Vertrag 402495305 hinzu.\n-- \nMit freundlichen Grüssen\nBertram Steinberg-Wende\n",
+    "labels": [
+      {
+        "start": 144,
+        "end": 151,
+        "label": "VORNAME"
+      },
+      {
+        "start": 152,
+        "end": 167,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 116,
+        "end": 125,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "bitte rufen Sie mich an wegen Vertragsbündelung.\nVertrag 401584900 mit Vertrag 401584900\nVielen Dank im voraus.\nDoreen und Hermann Etzler\n",
+    "labels": [
+      {
+        "start": 112,
+        "end": 118,
+        "label": "VORNAME"
+      },
+      {
+        "start": 131,
+        "end": 137,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 123,
+        "end": 130,
+        "label": "VORNAME"
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Bitte senden Sie mir den Rechnungsnachweis seit Vertragsbeginn mit den\nentsprechenden Zählerstände.\nFreundliche Grüße\nKlaus-Peter Hiller\n",
+    "labels": [
+      {
+        "start": 118,
+        "end": 129,
+        "label": "VORNAME"
+      },
+      {
+        "start": 130,
+        "end": 136,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nich hatte am 18.06. mit dem Kundensupport telefoniert und um eine Korrektur\nder Konto-Zuordnung zu meiner E-Mail-Adresse gebeten:\n- 404418995, Ines Haase: alter, beendeter Vertrag\n- 404487643 und 40649786, Rosita Rogner: aktueller Vertrag\nMeine E-Mail-Adresse ist mit dem beendeten Konto 404418995 verbunden.\nTelefonisch wurde mir mitgeteilt, dass dies auf meinen aktuellen Vertrag\n(404487643 und 40649786) geändert wird. Dies ist bisher nicht geschehen.\nBitte teilen Sie mir mit, wenn die Bearbeitung erfolgt ist.\nMit freundlichen Grüßen\nRosita Rogner\n",
+    "labels": [
+      {
+        "start": 237,
+        "end": 243,
+        "label": "VORNAME"
+      },
+      {
+        "start": 244,
+        "end": 250,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 174,
+        "end": 178,
+        "label": "VORNAME"
+      },
+      {
+        "start": 179,
+        "end": 184,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 163,
+        "end": 172,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "label": "DATUM"
+      },
+      {
+        "start": 213,
+        "end": 222,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 227,
+        "end": 235,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nanbei die angeforderten Daten zum Wechsel zu EON.\nVertragsnummer: 407 498 959\nÜbergabedatum: 30.04.2023\nVerkäufer: Hellwig GmbH & Co. KG\nMaria-Theresia-Hendriks-Platz 9\n14403 Dresden\nKäufer: Lothar Klapp\nViktoria-Spieß-Straße 16\n54597 Steffeln\nZählernummer 444003-5221259\nZählerstand 38335,6\nAblesedatum: 30.04.2023\nMit freundlichen Grüßen\nAchim Junck-Binner\n------------------------------------------------------------------------\nGesendet mit der Graf GmbH & Co. KG Mail App\n<https://kommunikationsdienste.t-online.de/redirects/email_app_android_sendmail_footer>\n",
+    "labels": [
+      {
+        "start": 222,
+        "end": 228,
+        "label": "VORNAME"
+      },
+      {
+        "start": 229,
+        "end": 234,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 371,
+        "end": 376,
+        "label": "VORNAME"
+      },
+      {
+        "start": 377,
+        "end": 389,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 146,
+        "end": 167,
+        "label": "FIRMA"
+      },
+      {
+        "start": 235,
+        "end": 256,
+        "label": "STRASSE"
+      },
+      {
+        "start": 257,
+        "end": 259,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 260,
+        "end": 265,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 266,
+        "end": 274,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 168,
+        "end": 197,
+        "label": "STRASSE"
+      },
+      {
+        "start": 102,
+        "end": 103,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 200,
+        "end": 205,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 206,
+        "end": 213,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 288,
+        "end": 302,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 315,
+        "end": 322,
+        "label": "ZÄHLERSTAND"
+      },
+      {
+        "start": 97,
+        "end": 108,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 124,
+        "end": 134,
+        "label": "DATUM"
+      },
+      {
+        "start": 463,
+        "end": 507,
+        "label": "GESENDET_MIT"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nwir sind bereits online registriert und möchten zu bestehenden Verträgen\n(400458969, 401961488, 404677964) folgende Verträge hinzufügen um online\nZugriff darauf zu haben:\n242087426324 \n401424417 \nHerzliche Grüße\nUta Aumann\n",
+    "labels": [
+      {
+        "start": 243,
+        "end": 246,
+        "label": "VORNAME"
+      },
+      {
+        "start": 247,
+        "end": 253,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 105,
+        "end": 114,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 116,
+        "end": 125,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 127,
+        "end": 136,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 202,
+        "end": 214,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 216,
+        "end": 225,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nmein Stromtarif E.ON Klassik Strom Extra 24 läuft noch mit der Preisgarantie von 23,08 Cent netto ( 27,47 Cent brutto) bis zum 30.09.2023.\nWelchen Tarif zu welchen Konditionen können Sie mir ab diesem Zeitpunkt anbieten?\nKann der Tarif zu gleichen Bedingungen weiter verlängert werden?\nVielen Dank!\nMit freundlichen Grüßen\nSigurd Lachmann\n",
+    "labels": [
+      {
+        "start": 354,
+        "end": 360,
+        "label": "VORNAME"
+      },
+      {
+        "start": 361,
+        "end": 369,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 112,
+        "end": 122,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 158,
+        "end": 168,
+        "label": "DATUM"
+      },
+      {
+        "start": 131,
+        "end": 141,
+        "label": "ZAHLUNG"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nwie gewünscht sende ich Ihnen meine Daten zum Abgleich zu und bestätige die Richtigkeit.\nMeine Daten:\nVor-, Nachname: Dr. Ramazan Eimer\nGeburtsdatum: 01.02.1976\nLieferadresse: Rico-Scheibe-Weg 101, 76218 Geithain\nZählernummer: 1EMH0016453739\nAktueller Anbieter: E.ON Energie Deutschland GmbH\nAktuelle Kundennummer: 204518332\nMit freundlichen Grüßen\n",
+    "labels": [
+      {
+        "start": 149,
+        "end": 152,
+        "label": "TITEL"
+      },
+      {
+        "start": 153,
+        "end": 160,
+        "label": "VORNAME"
+      },
+      {
+        "start": 161,
+        "end": 166,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 207,
+        "end": 223,
+        "label": "STRASSE"
+      },
+      {
+        "start": 224,
+        "end": 227,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 229,
+        "end": 234,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 235,
+        "end": 243,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 258,
+        "end": 272,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 181,
+        "end": 191,
+        "label": "DATUM"
+      },
+      {
+        "start": 346,
+        "end": 355,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Hallo liebes E.On Team,\nwie telefonisch besprochen, angehangen die 2 Screenshots zur Doppelten\nAbbuchung.\nMeine Frage: Warum wurde doppelt abgebucht und wie bekomme ich mein Geld\nzurück?\nMit freundlichen Grüßen\nLoretta Naser-Reuter\n[image: WhatsApp Bild 2023-08-14 um 14.36.35.jpg]\n[image: WhatsApp Bild 2023-08-14 um 14.36.36.jpg]\n",
+    "labels": [
+      {
+        "start": 211,
+        "end": 218,
+        "label": "VORNAME"
+      },
+      {
+        "start": 219,
+        "end": 231,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 232,
+        "end": 281,
+        "label": "LINK"
+      },
+      {
+        "start": 282,
+        "end": 331,
+        "label": "LINK"
+      }
+    ]
+  },
+  {
+    "text": "Hiermit sende ich ihnen die Abwendungsvereinbarung .\nBitte um Bestätigung.\nMit freundlichen Grüßen\n",
+    "labels": []
+  },
+  {
+    "text": "Hallo,\nBitte keine Werbung an leiftschentscher@example.net oder +49 (0) 5864 007393 schicken\nDanke\n",
+    "labels": [
+      {
+        "start": 64,
+        "end": 83,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 30,
+        "end": 58,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nimAnhang befinden sich 2 Bilder, die zeigen, dass die Ratenzahlung von August zweimal abgebucht wurde. Bitte überweisen Sie mir den Betrag von 90,00€ zurück auf mein Konto.\nMit freundlichen Grüßen\nHans-Bernd Hertrampf\nDiese Nachricht wurde von meinem Android Mobiltelefon mit [WEB.DE][1] Mail gesendet.\n[1]: http://WEB.DE\n",
+    "labels": [
+      {
+        "start": 228,
+        "end": 238,
+        "label": "VORNAME"
+      },
+      {
+        "start": 239,
+        "end": 248,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 174,
+        "end": 180,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 249,
+        "end": 352,
+        "label": "GESENDET_MIT"
+      }
+    ]
+  },
+  {
+    "text": "Liebe Grüße, ich sende Bilder als Beweis dafür, dass ich die Raten bezahlt\nhabe. Vertragsnummer 404 458 065. Viktoria Gertz\n",
+    "labels": [
+      {
+        "start": 109,
+        "end": 117,
+        "label": "VORNAME"
+      },
+      {
+        "start": 118,
+        "end": 123,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 96,
+        "end": 107,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nIch kann mich nicht in mein Online Portal einloggen und bekomme hier immer\nfolgenden Fehler (siehe Anhang). Können sie bitte meinen online Zugang\nfreischalten? Danke\nMit freundlichen Grüßen\nEhrentraud Fritsch\n",
+    "labels": [
+      {
+        "start": 221,
+        "end": 231,
+        "label": "VORNAME"
+      },
+      {
+        "start": 232,
+        "end": 239,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\nIch habe für meinen Stromvertrag die Überweisung des Abschlags aus Versehen auf das falsche Konto getätigt.\nDas Konto, an welches ich überwiesen hatte, hat die IBAN DE60 9436 5282 2507 8700 65. Auf dieses Konto sollte ich bei meinem letzten Betrag bei der Fliegner Radisch GmbH überweisen, jedoch hat sich die IBAN mit dem Vetragswechsel geändert und ich habe das nicht mitbekommen, da der Brief zu neuen Stromvertrag von der Post nicht zugestellt wurde.\nIm Anhang finden Sie die Zahlungsnnachweise. \nKönnen Sie diese Beträge umbuchen?\nMit freundlichen Grüßen\nYasmin Mühle\n",
+    "labels": [
+      {
+        "start": 591,
+        "end": 597,
+        "label": "VORNAME"
+      },
+      {
+        "start": 598,
+        "end": 603,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 196,
+        "end": 223,
+        "label": "IBAN"
+      },
+      {
+        "start": 287,
+        "end": 308,
+        "label": "FIRMA"
+      }
+    ]
+  },
+  {
+    "text": "Hallo liebes Eon Team,\nes geht um die Vertragsnummer 406027919.\nBei der Einrichtung meines neuen Vertrages wurde leider die Überweisung als\nZahlungsart gewählt von dem jungen Kollegen an der Wohnungstür. Ich würde\nes gerne wieder per Lastschrift abbuchen lassen, um mir den Stress zu\nersparen.\nVerbraucherstelle ist weiterhin die Gertzgasse 2 in 17389 Anklam.\nGruß Berthold Huhn\n",
+    "labels": [
+      {
+        "start": 365,
+        "end": 373,
+        "label": "VORNAME"
+      },
+      {
+        "start": 374,
+        "end": 378,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 330,
+        "end": 340,
+        "label": "STRASSE"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 346,
+        "end": 351,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 352,
+        "end": 358,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 53,
+        "end": 62,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren!\nWie ich Ihnen bereits telefonisch mitgeteilt habe, kann ich meinen \nZählerstand nicht ablesen, weil dieser gar nicht angezeigt wird. Eine \nBetätigung der Infotaste hat auch keinerlei Reaktion des Zählers \nhervorgerufen. Bitte teilen Sie mir mit, wie es weiter geht. Ein Foto mit \nZählernummer erhalten Sie im Anhang. MfG Hella Weimer-Bolander\n﻿\n",
+    "labels": [
+      {
+        "start": 352,
+        "end": 357,
+        "label": "VORNAME"
+      },
+      {
+        "start": 358,
+        "end": 373,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrte Damen und Herren,\num unsere Abrechnung erstellen zu können benötigen wir DRINGEND die Zischenabrechnung Gas zum 31.12.2022 inkl. Gas Soforthilfe etc.\nDer Zählerstand zum 31.12.2023 war 24156, Vertragsnummer 400798707, Isabelle-Hövel-Platz 143 in 97904 Schongau\nBitte senden Sie uns diese Zwischenabrechnung schnellstmöglich zu, gerne auch vorab über E-Mail.\nViele Grüße,\nCarlo Becker\nFaust UG - Carstenstr. 7 - 97904 Schongau\nTelefon (03092) 193044  - Mobil +49(0)5875526756\nbarbarakruschwitz@example.com\nRegistergericht: Schongau HRB 2095\nGeschäftsführer: Adriana Lange-Ring, Carlo Becker\n",
+    "labels": [
+      {
+        "start": 384,
+        "end": 389,
+        "label": "VORNAME"
+      },
+      {
+        "start": 390,
+        "end": 396,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 397,
+        "end": 405,
+        "label": "FIRMA"
+      },
+      {
+        "start": 447,
+        "end": 461,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 471,
+        "end": 487,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 488,
+        "end": 517,
+        "label": "EMAIL"
+      },
+      {
+        "start": 408,
+        "end": 419,
+        "label": "STRASSE"
+      },
+      {
+        "start": 223,
+        "end": 224,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 259,
+        "end": 264,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 265,
+        "end": 273,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 198,
+        "end": 203,
+        "label": "ZÄHLERSTAND"
+      },
+      {
+        "start": 220,
+        "end": 229,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Sehr geehrtes E.ON Team,\nich habe heute ein Schreiben aus Ihrem Hause erhalten, in dem Sie auf\nRabattmöglichkeiten hinweisen, wenn man sowohl Gas- als auch\nStromliefervertrag bei E.ON hat.\nDas würde mich interessieren.\nAllerdings habe ich eine Photovoltaikanlage auf dem Dach uns speise\nStrom ins öffentliche Netz.\nWäre E.ON dann auch mein Ansprechpartner für die Strom-Vergütung?\nFreundliche Grüße,\nFrederic Bauer\nEugenia-Seifert-Weg 530\n50879 Rothenburg ob der Tauber\n",
+    "labels": [
+      {
+        "start": 400,
+        "end": 408,
+        "label": "VORNAME"
+      },
+      {
+        "start": 409,
+        "end": 414,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 415,
+        "end": 434,
+        "label": "STRASSE"
+      },
+      {
+        "start": 435,
+        "end": 438,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 439,
+        "end": 444,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 445,
+        "end": 469,
+        "label": "WOHNORT"
+      }
+    ]
+  },
+  {
+    "text": "Guten Tag\nEs wurde noch ein Zhlerfoto vom Zähler mit der Nummer 63746253-1992 benötigt.\nKunde: Ulrich Rohleder\nVerbrauchstelle: Steckelring 1, 88226 Viechtach\nZähler: 63746253-1992\nVertragsnummer: 408 235 770\nFoto ist im Anhang\nMfg\n",
+    "labels": [
+      {
+        "start": 95,
+        "end": 101,
+        "label": "VORNAME"
+      },
+      {
+        "start": 102,
+        "end": 110,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 128,
+        "end": 139,
+        "label": "STRASSE"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 143,
+        "end": 148,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 149,
+        "end": 158,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 64,
+        "end": 77,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 197,
+        "end": 208,
+        "label": "VERTRAGSNUMMER"
+      }
+    ]
+  },
+  {
+    "text": "Hallo\nHabe versucht mehrmals telefonisch mein Anliegen zu klären\nLeider wenig Erfolg\nHabe offene Betrag über dieses Konto\nMöchte Sie bitten um teilzahlung bitte um Rückmeldung\n Mfg Kusch\n",
+    "labels": [
+      {
+        "start": 181,
+        "end": 186,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "text": "Guten Abend liebes Beschwerde- Team,\nleider kann ich den beim Abschluss zugesicherten Bonus von 315€ immer noch nicht in den Dokumenten des oben genannten Vertrages einsehen.(siehe Anhang)\nIm stornierten Vertrag( 402619080) war dieser in den Dokumenten ersichtlich( siehe Anhang) und der neue Ersatzvertrag sollte eins zu eins die gleichen Konditionen enthalten. \nIch schrieb eine Beschwerde UND rief deswegen im Kundenservice an.\nTelefonisch wurde mir der Bonus bei meinem Anruf für den aktuellen Vertrag bestätigt. \nAuch die Kollegin, die mich auf meine Beschwerde hin am 15.09. um 19Uhr anrief, bestätigte mir dies telefonisch. \nBeide sagten mir eine schriftliche Bestätigung zu. \nDie Unterlagen haben ich erhalten, allerdings ist in den Dokumenten des aktuellen Vertrag kein Bonus festgehalten! \nIch frage Sie nun, wieso mir diesen nicht einfach wie versprochen bestätigt werden kann?\nLangsam bin ich wirklich sehr genervt. Es ist für Sie wie auch für mich Vergeudung kostbarer Zeit. \nDaher bitte ich ein letztes Mal um Dokumente mit Bestätigung des Bonus von 315€ und hoffe das wir die Sache hiermit endlich ad acta legen können. \nVielen Dank und freundliche Grüße:\nErcan Fritsch\nAnhang: \n1. Erster Vertrag\n2. von Ihnen abgeschlossener Ersatzvertrag\nVon meinem iPhone gesendet\n",
+    "labels": [
+      {
+        "start": 1171,
+        "end": 1176,
+        "label": "VORNAME"
+      },
+      {
+        "start": 1177,
+        "end": 1184,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 213,
+        "end": 222,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 574,
+        "end": 580,
+        "label": "DATUM"
+      },
+      {
+        "start": 1255,
+        "end": 1281,
+        "label": "GESENDET_MIT"
+      }
+    ]
+  }
+]
