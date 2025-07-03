@@ -5,4 +5,4 @@ Sie müssten nur den Betrag umbuchen auf <<IBAN>>.
 Ich bitte Sie dies zu machen, weil ich sonst wieder eine Zahlungserinnerung für <<DATUM>> bekomme.
 Mit freundichen Grüssen
 <<TITEL>> <<VORNAME>> <<NACHNAME>>
-l
+
