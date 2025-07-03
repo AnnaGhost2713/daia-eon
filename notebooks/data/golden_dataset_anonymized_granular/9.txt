@@ -1,4 +1,4 @@
-OR-0001239759
+<<VERTRAGSNUMMER>>
 Kunde: <<VORNAME>> <<NACHNAME>>
 Zähler: <<ZÄHLERNUMMER>>
 Produktwechsel

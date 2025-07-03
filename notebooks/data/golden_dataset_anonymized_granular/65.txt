@@ -1,11 +1,11 @@
 <<FIRMA>> L. <<NACHNAME>>
 _______________________________________
-24.08.2023
-Betreuungssache * Herr Jobst Oderwald 14.05.1983
+<<DATUM>>
+Betreuungssache * Herr <<VORNAME>> <<NACHNAME>> <<DATUM>>
 <<VERTRAGSNUMMER>>
 Sehr geehrte Damen und Herren,
-Ihr Schreiben vom 17.08.2023 kann diesseits nicht nachvollzogen werden.
-Zum Vertragskonto <<ZÄHLERNUMMER>> wurde ich mit Schreiben vom 10.08.2023 darüber informiert, dass noch ein Guthaben von <<ZAHLUNG>> vorhanden ist. Dieses bitte ich auf obiges Vertragskonto um zu buchen und mich entsprechend darüber zu informieren.
+Ihr Schreiben vom <<DATUM>> kann diesseits nicht nachvollzogen werden.
+Zum Vertragskonto <<ZÄHLERNUMMER>> wurde ich mit Schreiben vom <<DATUM>> darüber informiert, dass noch ein Guthaben von <<ZAHLUNG>> vorhanden ist. Dieses bitte ich auf obiges Vertragskonto um zu buchen und mich entsprechend darüber zu informieren.
 Vielen Dank im Voraus!
 --
 Mit freundlichen Grüßen

@@ -4,6 +4,6 @@ Meine Daten:
 Vor-, Nachname: <<VORNAME>> <<NACHNAME>>
 Geburtsdatum: <<DATUM>>
 Lieferadresse: <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>
-Zählernummer: 0<<ZÄHLERNUMMER>>
+Zählernummer: <<ZÄHLERNUMMER>>
 Kundennummer: <<ZÄHLERSTAND>>
 Mit freundlichen Grüßen

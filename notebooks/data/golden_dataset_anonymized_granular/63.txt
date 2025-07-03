@@ -7,6 +7,6 @@ gelaufen.
 Mit freundlichen Grüßen
 <<VORNAME>> <<NACHNAME>>
 <<STRASSE>> <<HAUSNUMMER>>
-0<<POSTLEITZAHL>> <<WOHNORT>>
+<<POSTLEITZAHL>> <<WOHNORT>>
 <<EMAIL>>
 Tel. <<TELEFONNUMMER>>

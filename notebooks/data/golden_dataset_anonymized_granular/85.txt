@@ -1,5 +1,5 @@
 Sehr geehrte Damen und Herren,
-imAnhang befinden sich 2 Bilder, die zeigen, dass die Ratenzahlung von August zweimal abgebucht wurde. Bitte überweisen Sie mir den Betrag von <<ZAHLUNG>> zurück auf mein Konto.
+imAnhang befinden sich 2 Bilder, die zeigen, dass die Ratenzahlung von <<DATUM>> zweimal abgebucht wurde. Bitte überweisen Sie mir den Betrag von <<ZAHLUNG>> zurück auf mein Konto.
 Mit freundlichen Grüßen
 <<VORNAME>> <<NACHNAME>>
 <<GESENDET_MIT>>

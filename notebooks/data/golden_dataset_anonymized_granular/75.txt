@@ -12,7 +12,7 @@ neu:
 <<STRASSE>> <<HAUSNUMMER>>
 <<POSTLEITZAHL>> <<WOHNORT>>
 Kontonr. bleibt identisch.
-Geburtsdatum: 29.<<HAUSNUMMER>><<HAUSNUMMER>>.<<HAUSNUMMER>>964
+Geburtsdatum: <<DATUM>>
 Hier gibt es auch noch einen Stromvertrag, zu welchem mir die
 Vertragsnummer derzeit leider nicht vorliegt. Hier müsste die Post bitte
 auch an die neue Anschrift gesendet werden.

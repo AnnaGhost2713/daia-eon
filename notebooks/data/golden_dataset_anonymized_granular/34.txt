@@ -4,7 +4,7 @@ Anliegen*: Erdgas
  
 Jahresverbrauch (kWh/Jahr)*: ohne Relevanz 
  
-Nachricht: Vertragsnummer <<VERTRAGSNUMMER>> + <<VERTRAGSNUMMER>> Ihr Schreiben aus <<DATUM>>. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist 721 992 747 Ich erbitte Informationen und einen Vorschlag 
+Nachricht: Vertragsnummer <<VERTRAGSNUMMER>> + <<VERTRAGSNUMMER>> Ihr Schreiben aus <<DATUM>>. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist <<VERTRAGSNUMMER>> Ich erbitte Informationen und einen Vorschlag 
  
 Ihr Name*: <<VORNAME>> <<NACHNAME>> 
  
