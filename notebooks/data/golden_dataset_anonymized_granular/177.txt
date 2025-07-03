@@ -1,0 +1,6 @@
+Zähler Wechselprotokoll.
+Vertragsnummer: <<VERTRAGSNUMMER>>
+<<VORNAME>> <<NACHNAME>>
+<<DATUM>>
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>

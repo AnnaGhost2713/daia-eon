@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren!
+Ich bitte Sie die Abschlussrechnungen für obige Vertragsnummer an folgende
+A<<TITEL>>esse zu senden:
+<<NACHNAME>> <<VORNAME>>
+C/o <<TITEL>> <<NACHNAME>> <<VORNAME>>
+ <<STRASSE>> <<HAUSNUMMER>>
+ <<POSTLEITZAHL>> <<WOHNORT>>
+ Email: <<EMAIL>>
+ Mobil: <<TELEFONNUMMER>>
+ Mit freundlichen Grüßen
+ <<TITEL>>. <<NACHNAME>> <<VORNAME>>

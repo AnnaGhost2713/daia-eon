@@ -1,0 +1,1 @@
+Guten Tag, bei dem begleichen der offenen Rechnung vom <<DATUM>> ist mir ein Fehler in der Rechnungsnummer unterlaufen. Meine Vertragsnummer lautet: <<VERTRAGSNUMMER>>Im Anhang liegt ein Kontoauszug vor, dass ich den Betrag von <<ZAHLUNG>>€ beglichen habe. Mit freundlichen Grüßen <<VORNAME>> <<NACHNAME>>

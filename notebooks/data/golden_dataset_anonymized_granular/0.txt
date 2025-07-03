@@ -1,0 +1,3 @@
+Wie angefordert der Kontoauszug. Abbuchung Euro <<ZAHLUNG>>.
+<<GESENDET_MIT>>
+<<LINK>>

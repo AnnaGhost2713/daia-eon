@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,
+hiermit lege Ich, <<VORNAME>> <<NACHNAME>>, Vertragsnummer <<VERTRAGSNUMMER>>, bei der Schlussrechnung <<DATUM>> Wiederspruch ein.
+Die Wohnungsabnahme war am <<DATUM>>, anbei das Übergabeprotokoll der Hausverwaltung. Der Abbrechnungszeitraum vom <<DATUM>> fäll somit nicht mehr in meinen Bemessungszeitraum. Anbei auch die neue Meldebescheinigung. Ich bitte hiermit um Klärung der Abrechnung.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>

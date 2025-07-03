@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+mit dieser E-Mail sende ich Ihnen die Daten und Papiere zu um den
+Stromzähler zu entsperren.
+Zählernummer: <<ZÄHLERNUMMER>>
+Handynummer: <<TELEFONNUMMER>>
+Vertragsnummer: <<VERTRAGSNUMMER>>
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>

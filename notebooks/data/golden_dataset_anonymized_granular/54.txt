@@ -1,0 +1,18 @@
+Sehr geehrte Damen und Herren,
+ 
+wir sind umgezogen:
+ 
+<<FIRMA>>
+Neue Adresse:
+<<STRASSE>> 0<<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>
+ 
+(vorher <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>)
+ 
+Alle anderen Daten bleiben bestehen (Bankverbindung zB)
+ 
+Mit freundlichen Grüßen
+ 
+<<VORNAME>> <<NACHNAME>>
+Buchhaltung
+ 
+<<FIRMA>>

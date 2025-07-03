@@ -1,0 +1,7 @@
+Sehr geehrte Damen und Herren,
+ich habe aufgrund des Todes meines Vaters den Stromvertrag von ihm übernommen. Diesen habe ich am <<DATUM>> gewechselt. Die neue Vertragsnummer ist <<VERTRAGSNUMMER>>.
+Die Zählernummer allerdings ist gleich geblieben <<ZÄHLERNUMMER>>.
+Wenn ich mich jetzt in mein Vertragskonto online einloggen möchte, wird mir nur der alte Vertrag angezeigt. Dort steht auch, dass dieser alte Vertrag deaktiviert wurde. Den neuen Vertrag kann ich aber leider online nicht sehen.
+Wie gehe ich nun vor, dass ich den neuen Vertrag in meinem Benutzerkonto sehen kann?
+Mit freunlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
