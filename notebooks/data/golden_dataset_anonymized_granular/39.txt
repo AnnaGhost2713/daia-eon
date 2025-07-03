@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+wir bitten Sie um die Reduzierung der Abschlagskosten der Eheleute <<NACHNAME>>, da das Objekt am <<STRASSE>> <<HAUSNUMMER>> in <<POSTLEITZAHL>> <<WOHNORT>> ab dem <<DATUM>> unbewohnt ist und verkauft wird.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<FIRMA>>
+<<STRASSE>> <<HAUSNUMMER>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+Tel.: <<TELEFONNUMMER>>
+<<LINK>>
+<<LINK>>
+<<LINK>>

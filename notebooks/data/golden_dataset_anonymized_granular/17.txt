@@ -1,0 +1,6 @@
+Vertragsnumer <<VERTRAGSNUMMER>>
+Hello
+Wir haben Stromzähler am <<DATUM>> in Büro in Essen abgegeben. Bei Herr <<NACHNAME>>.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<GESENDET_MIT>>

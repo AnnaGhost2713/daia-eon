@@ -1,0 +1,10 @@
+Stromvertrag 
+Lieferstelle:
+<<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>
+Stromzähler <<ZÄHLERNUMMER>>
+Sehr geehrte Damen und Herren,
+ich bin zum <<DATUM>> in die Lieferstelle eingezogen. 
+Bitte hinterlegen Sie als Grundversorger den Einzug bei sich.
+Vielen Dank.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>

@@ -1,0 +1,8 @@
+Guten Tag
+Es wurde noch ein Zhlerfoto vom Zähler mit der Nummer <<ZÄHLERNUMMER>> benötigt.
+Kunde: <<VORNAME>> <<NACHNAME>>
+Verbrauchstelle: <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>
+Zähler: <<ZÄHLERNUMMER>>
+Vertragsnummer: <<VERTRAGSNUMMER>>
+Foto ist im Anhang
+Mfg

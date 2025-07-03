@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren
+leider wurde meine Zählernummer immer noch nicht in Ihren Unterlagen geändert. Die Zählernummer lautet bereits seit Vertragsbeginn <<ZÄHLERNUMMER>>.
+Mit freundlichen Grüßen
+<<VORNAME>> <<NACHNAME>>
+<<POSTLEITZAHL>> <<WOHNORT>>
+<<STRASSE>> <<HAUSNUMMER>>
+Tel.: <<TELEFONNUMMER>>
+Fax: <<FAX>>
+Handy <<TELEFONNUMMER>>
+E-Mail: <<EMAIL>>

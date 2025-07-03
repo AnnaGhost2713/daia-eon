@@ -1,0 +1,5 @@
+Vertragsnummer <<VERTRAGSNUMMER>>
+<<VORNAME>> <<NACHNAME>>
+Aufgrund des Wasserschadens vergangenen Jahres,bitten wir dies für das kommende Jahr zu berücksichtigen
+Im Anhang die Stromverbrauchsmitteilung Trocknungsmaßnahme
+<<GESENDET_MIT>>
