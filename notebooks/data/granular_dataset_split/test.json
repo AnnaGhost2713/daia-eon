@@ -1738,5 +1738,72 @@
         "label": "ZÄHLERSTAND"
       }
     ]
+  },
+  {
+    "file": "manual_BIC_test",
+    "text": "Betreff: Änderung der Bankverbindung für Lastschriftverfahren\n\nSehr geehrte Damen und Herren,\n\nhiermit teile ich Ihnen mit, dass sich ab 15.08.2025 meine Bankverbindung für das Lastschriftverfahren an folgendem Objekt ändert:\n\nVertragsnummer: 508473129\nVerbrauchsstelle: Maximilianstraße 42, 80538 München\nZähler: 1127200063425187\n\nNeue Bankverbindung ab 15.08.2025\n\nMaximilian Köhler\nIBAN: DE67701600000012345678\nBIC: GENODEF1M01\nVolksbank München\n\nBitte stellen Sie sicher, dass die neue Bankverbindung rechtzeitig in Ihrem System hinterlegt wird, damit die nächste Abbuchung ordnungsgemäß erfolgen kann.\n\nMit freundlichen Grüßen\n\nMaximilian Köhler\nLeopoldstraße 156\n80804 München",
+    "labels": [
+      {
+        "start": 130,
+        "end": 140,
+        "label": "DATUM"
+      },
+      {
+        "start": 227,
+        "end": 236,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 254,
+        "end": 289,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 299,
+        "end": 315,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 343,
+        "end": 353,
+        "label": "DATUM"
+      },
+      {
+        "start": 355,
+        "end": 372,
+        "label": "NAME"
+      },
+      {
+        "start": 379,
+        "end": 401,
+        "label": "IBAN"
+      },
+      {
+        "start": 407,
+        "end": 418,
+        "label": "BIC"
+      },
+      {
+        "start": 419,
+        "end": 434,
+        "label": "BANK"
+      },
+      {
+        "start": 613,
+        "end": 630,
+        "label": "NAME"
+      },
+      {
+        "start": 631,
+        "end": 650,
+        "label": "ADRESSE"
+      },
+      {
+        "start": 651,
+        "end": 663,
+        "label": "ADRESSE"
+      }
+    ]
   }
+
 ]
