@@ -21,4 +21,4 @@ __pycache__/
 # Modell-Checkpoints
 piranha_model/**/*.pt
 piranha_model/**/*.safetensors
-piranha_model/model.safetensors
+archive/old_workbooks/piranha_model/model.safetensors
