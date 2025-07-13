@@ -7,5 +7,5 @@ Mit freundlichen Grüßen
 Rechtliche Betreuungen
 <<STRASSE>> <<HAUSNUMMER>>
 <<POSTLEITZAHL>> <<WOHNORT>>
-Tel. <<TELEFONNUMMER>>
-Fax <<FAX>>
+Tel. 0<<TELEFONNUMMER>>
+Fax 0<<FAX>>

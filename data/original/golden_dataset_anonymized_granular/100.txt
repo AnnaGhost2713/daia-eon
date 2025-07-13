@@ -1,4 +1,4 @@
-Vertragsnummer <<VERTRAGSNUMMER>>
+Vertragsnummer 404149058
  
 Fam. <<NACHNAME>>/<<VORNAME>>
 <<STRASSE>> <<HAUSNUMMER>>

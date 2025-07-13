@@ -1,5 +1,5 @@
 An das Serviceteam von Eon, 
-im <<DATUM>> habe ich am <<DATUM>> den Abschlag überwiesen und am <<DATUM>> haben sie nochmal den Abschlag für September eingezogen, so dass ich jetzt doppelt bezahlt habe für September.
+im September 2023 habe ich am <<DATUM>> den Abschlag überwiesen und am <<DATUM>> haben sie nochmal den Abschlag für September eingezogen, so dass ich jetzt doppelt bezahlt habe für September.
 Erstatten sie mir unverzüglich die <<ZAHLUNG>> auf mein Konto bei der <<BANK>>: <<IBAN>>
 <<FIRMA>> Kundennummer: <<VERTRAGSNUMMER>>
 Mit freundlichen Grüßen 

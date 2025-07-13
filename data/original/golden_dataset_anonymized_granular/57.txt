@@ -6,7 +6,7 @@ zum folgenden Vertragskonto wurde über Mein E.ON - Kontakt am <<DATUM>> folgend
 ALLE DATEN AUF EINEN BLICK: 
  
  
-Geschäftspartner: <<VERTRAGSNUMMER>> 
+Geschäftspartner: 0<<VERTRAGSNUMMER>> 
 Vertragskonto: <<VERTRAGSNUMMER>> 
 Telefonnummer für Rückfragen: 
 Nachricht/Anfrage:  

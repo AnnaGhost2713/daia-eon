@@ -1,8 +1,9 @@
-<<VORNAME>> <<NACHNAME>> <<WOHNORT>>, den <<DATUM>>
+<<VORNAME>> <<NACHNAME>> <<WOHNORT>>, den 26.8.2023
 <<STRASSE>> <<HAUSNUMMER>>
   An die
-<<STRASSE>> <<HAUSNUMMER>>
-<<POSTLEITZAHL>> <<WOHNORT>>
+Köhler
+Britta-Wirth-Allee 359
+22085 Ebern
 *Kunden-Nr.: <<VERTRAGSNUMMER>>*
 *Verbrauchsstelle: <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>*
 *Zähler: <<ZÄHLERNUMMER>>*

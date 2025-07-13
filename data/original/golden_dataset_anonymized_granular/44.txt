@@ -1,6 +1,7 @@
 Sehr geehrte Damen und Herren,
-leider habe ich noch immer keinen Lidlgutschein im Wert von <<ZAHLUNG>> erhalten. Aufgrund meins Stromvertrages. Der <<FIRMA>> Kundenservice hat mich an Sie verwiesen.
-Wann kann ich mit dem Erhalt rechnen Stromerstbelieferung war der <<DATUM>>
+leider habe ich noch immer keinen Lidlgutschein im Wert von <<ZAHLUNG>>€ erhalten. Aufgrund meins Stromvertrages. Der <<FIRMA>> Kundenservice hat mich an Sie verwiesen.
+Wann kann ich mit dem Erhalt rechnen Stromerstbelieferung war der 09
+<<DATUM>>
 Vielen Dank
 Beste Grüße
 <<NACHNAME>>

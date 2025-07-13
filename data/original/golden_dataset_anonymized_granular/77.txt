@@ -3,6 +3,6 @@ Leider habe ich meinen Abschlag an die IBAN meines alten Vertragskontos
 überwiesen und bitte nun, dass der gezahlte Betrag auf mein neues
 Vertragskonto umgebucht wird.
 Gezahlt wurde am <<DATUM>> ein Betrag in Höhe von <<ZAHLUNG>> an die IBAN <<IBAN>>.
-Mein alte Vertragsnummer lautet <<VERTRAGSNUMMER>> und meine neue Vertragsnummer ist die <<VERTRAGSNUMMER>>
+Mein alte Vertragsnummer lautet 232084937408 und meine neue Vertragsnummer ist die <<VERTRAGSNUMMER>>
 Ich bedanke mich recht herzlich.
 Mit freundlichen Grüßen <<VORNAME>> <<NACHNAME>>.

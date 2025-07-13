@@ -3,7 +3,7 @@ Vertragsnummer: <<VERTRAGSNUMMER>>
 Verbraucherstelle: <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>
 Zähler: <<ZÄHLERNUMMER>>
 Sehr geehrte Damen und Herren,
-Ich kündige den Vertrag wegen dem Umzug zum <<DATUM>>
+Ich kündige den Vertrag wegen dem Umzug zum 30.11.23
 Um eine schriftliche Bestätigung wird gebeten.
 Neue Adresse:
 <<STRASSE>> <<HAUSNUMMER>>

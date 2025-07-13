@@ -3,10 +3,10 @@ hiermit wird der folgende Vertrag fristgerecht widerrufen.
 Lieferstelle:
 <<VORNAME>> <<NACHNAME>>
 <<STRASSE>> <<HAUSNUMMER>>
-<<POSTLEITZAHL>> <<WOHNORT>>
+0<<POSTLEITZAHL>> <<WOHNORT>>
 Zählernummer: <<ZÄHLERNUMMER>>
 Vertragspartner:
 <<VORNAME>> <<NACHNAME>>
 <<STRASSE>> <<HAUSNUMMER>>
-<<POSTLEITZAHL>> <<WOHNORT>>
+0<<POSTLEITZAHL>> <<WOHNORT>>
 Bitte bestätigen Sie diesen Widerruf.

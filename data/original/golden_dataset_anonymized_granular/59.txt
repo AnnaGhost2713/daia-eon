@@ -1,6 +1,6 @@
 Sehr geehrte Damen und Herren,
-um unsere Abrechnung erstellen zu können benötigen wir DRINGEND die Zischenabrechnung Gas zum <<DATUM>> inkl. Gas Soforthilfe etc.
-Der Zählerstand zum <<DATUM>> war <<ZÄHLERSTAND>>, Vertragsnummer <<VERTRAGSNUMMER>>, <<STRASSE>> <<HAUSNUMMER>> in <<POSTLEITZAHL>> <<WOHNORT>>
+um unsere Abrechnung erstellen zu können benötigen wir DRINGEND die Zischenabrechnung Gas zum 31.12.2022 inkl. Gas Soforthilfe etc.
+Der Zählerstand zum 31.12.2023 war <<ZÄHLERSTAND>>, Vertragsnummer <<VERTRAGSNUMMER>>, Isabelle-Hövel-Platz 143 in <<POSTLEITZAHL>> <<WOHNORT>>
 Bitte senden Sie uns diese Zwischenabrechnung schnellstmöglich zu, gerne auch vorab über E-Mail.
 Viele Grüße,
 <<VORNAME>> <<NACHNAME>>
@@ -8,4 +8,4 @@ Viele Grüße,
 Telefon <<TELEFONNUMMER>>  - Mobil <<TELEFONNUMMER>>
 <<EMAIL>>
 Registergericht: <<WOHNORT>> HRB 2095
-Geschäftsführer: <<STRASSE>>, <<VORNAME>> <<NACHNAME>>
+Geschäftsführer: Adriana Lange-Ring, <<VORNAME>> <<NACHNAME>>
