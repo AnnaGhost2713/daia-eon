@@ -1,0 +1,1531 @@
+[
+  {
+    "file": "0.txt",
+    "text": "Wie angefordert der Kontoauszug. Abbuchung Euro 103,22.\nGesendet mit der Stiffel AG Mail App\n<http://www.t-online.de/service/redir/emailmobilapp_ios_smartphone_footerlink.htm>\n",
+    "labels": [
+      {
+        "start": 48,
+        "end": 55,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 56,
+        "end": 92,
+        "label": "GESENDET_MIT"
+      },
+      {
+        "start": 93,
+        "end": 175,
+        "label": "LINK"
+      }
+    ]
+  },
+  {
+    "file": "141.txt",
+    "text": "Sehr geehrte Damen und Herren,\nich nehme Bezug auf die Mahnung vom 23.08.2023.\nBereits vor einigen Wochen habe ich über Ihr Kontaktportal eine Anfrage bezüglich der Zahlungsmöglichkeiten geschickt. Leider habe ich bis heute keine Rückmeldung erhalten.\nMir ist es nicht möglich den geforderten Betrag auf einmal zu leisten, da ich bereits mit den aktuellen Abschlagszahlungen für das Gas an der Grenze meiner Möglichkeiten bin. Aus diesem Grund bitte ich um eine Stundung. Zur Zeit wäre es mir möglich eine Rate in Höhe von 50€ monatlich zu entrichten.\nDa ich im November eine Sonderzahlung von meinem Arbeitgeber erwarte, wäre zu diesem Zeitpunkt eine Sonderleistungen der Forderung möglich.\nIch danke für Ihr Verständnis und verbleibe\nMit freundlichen Grüßen\nHilda Gutknecht\n",
+    "labels": [
+      {
+        "start": 67,
+        "end": 78,
+        "label": "DATUM"
+      },
+      {
+        "start": 523,
+        "end": 525,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 760,
+        "end": 765,
+        "label": "VORNAME"
+      },
+      {
+        "start": 766,
+        "end": 775,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "2.txt",
+    "text": "Sehr geehrte Damen und Herren,\nleider wurde mein Abschlag den ich für August überwiesen habe für den Abschlag für Juni verrechnet.\nWie schon mindesten 10 mal von mir berichtet, habe ich den Abschlag von148 € für Juni auf das Konto das in mein e-on angegeben ist überwiesen,DE40926301819767992111.\nSie müssten nur den Betrag umbuchen auf DE57671088940322928241.\nIch bitte Sie dies zu machen, weil ich sonst wieder eine Zahlungserinnerung für August bekomme.\nMit freundichen Grüssen\nDipl.-Ing. Leo Reichmann\nl\n",
+    "labels": [
+      {
+        "start": 70,
+        "end": 76,
+        "label": "DATUM"
+      },
+      {
+        "start": 114,
+        "end": 118,
+        "label": "DATUM"
+      },
+      {
+        "start": 212,
+        "end": 216,
+        "label": "DATUM"
+      },
+      {
+        "start": 273,
+        "end": 296,
+        "label": "IBAN"
+      },
+      {
+        "start": 337,
+        "end": 360,
+        "label": "IBAN"
+      },
+      {
+        "start": 441,
+        "end": 447,
+        "label": "DATUM"
+      },
+      {
+        "start": 481,
+        "end": 491,
+        "label": "TITEL"
+      },
+      {
+        "start": 492,
+        "end": 495,
+        "label": "VORNAME"
+      },
+      {
+        "start": 496,
+        "end": 505,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "143.txt",
+    "text": "Sehr geehrte Damen und Herren,\nin der Anlage sende ich Ihnen meine Abwendungsvereinbarung.\nMit freundlichen Grüßen\nAgatha Wieloch-Killer\n",
+    "labels": [
+      {
+        "start": 115,
+        "end": 121,
+        "label": "VORNAME"
+      },
+      {
+        "start": 122,
+        "end": 136,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "4.txt",
+    "text": "Vertragspartner: \tHalina Girschner\nVertragskonto: \t401 304 434\nKundennummer:\t205946174\nZählernummer: \t7 GMT00 984726553\nGewählter Tarif: \tE.ON Erdgas Öko\nSehr geehrte Damen und Herren,\nunser Gaszähler wurde abgebaut, da wir eine Wärmepumpe installiert haben\nund kein Gasbezug mehr benötigen.\nDas Ausbauprotokoll des Netzbetreibers füge ich der Anlage bei.\nDer Schlußstand unserer Belieferung ist bereits im Portal eingetragen.\nIch bedanke mich für die Dato unproblematische Vertragsabwicklung.\n*Mit freundlichen Grüßen\nHalina Girschner\n/\nMeins Drubin Mentzel GmbH\nMarta-Budig-Ring 435\n40989 Osnabrück\n/*/\n/*/Fon: +49 08136 92572\nFax: +49 08136 92581/*\n",
+    "labels": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "VORNAME"
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 77,
+        "end": 86,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 102,
+        "end": 119,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 519,
+        "end": 525,
+        "label": "VORNAME"
+      },
+      {
+        "start": 526,
+        "end": 535,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 538,
+        "end": 563,
+        "label": "FIRMA"
+      },
+      {
+        "start": 564,
+        "end": 580,
+        "label": "STRASSE"
+      },
+      {
+        "start": 581,
+        "end": 584,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 585,
+        "end": 590,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 591,
+        "end": 600,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 613,
+        "end": 628,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 634,
+        "end": 649,
+        "label": "FAX"
+      }
+    ]
+  },
+  {
+    "file": "145.txt",
+    "text": "Sehr geehrte Frau Scholl-Kambs,\nWie bereits Telefonisch besprochen sende ich ihnen das Schreiben von\nBonnNetz. Vielen Dank für ihre Hilfe.\nMit freundlichen Grüßen\nRosa-Maria Klotz\n",
+    "labels": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 163,
+        "end": 173,
+        "label": "VORNAME"
+      },
+      {
+        "start": 174,
+        "end": 179,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "146.txt",
+    "text": "Sehr geehrte Damen und Herren, \nwie besprochen sende ich Ihnen die Unterlagen zur Vertragsnummer 401 401 350 sowie die Angebotsnummer OR-0004579076 zu. \nFür weitere Rückfragen können Sie mich gerne per Mail erreichen.\nMit freundlichen Grüßen \nDipl.-Ing. Darius Oestrovsky\n",
+    "labels": [
+      {
+        "start": 97,
+        "end": 108,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 134,
+        "end": 147,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 243,
+        "end": 253,
+        "label": "TITEL"
+      },
+      {
+        "start": 254,
+        "end": 260,
+        "label": "VORNAME"
+      },
+      {
+        "start": 261,
+        "end": 271,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "148.txt",
+    "text": "Sehr geehrte Damen und Herren\nleider wurde meine Zählernummer immer noch nicht in Ihren Unterlagen geändert. Die Zählernummer lautet bereits seit Vertragsbeginn 1ESY1162808638.\nMit freundlichen Grüßen\nDanica Mohaupt\nD-99763 Erbisdorf\nNettestraße 1\nTel.: +49(0) 993726788\nFax: +49(0)5740 58320\nHandy (02675) 31629\nE-Mail: tomislav80@example.net\n",
+    "labels": [
+      {
+        "start": 161,
+        "end": 176,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 201,
+        "end": 207,
+        "label": "VORNAME"
+      },
+      {
+        "start": 208,
+        "end": 215,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 216,
+        "end": 223,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 224,
+        "end": 233,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 234,
+        "end": 245,
+        "label": "STRASSE"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 254,
+        "end": 270,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 276,
+        "end": 292,
+        "label": "FAX"
+      },
+      {
+        "start": 299,
+        "end": 312,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 321,
+        "end": 343,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "file": "3.txt",
+    "text": "Guten Tag,\nhiermit schicke ich Ihnen die noch fehlenden Angaben:\nÜbergabedatum: 01.08.2023\nMieter: Isabelle Eckbauer (+49 (0) 5402 008802)\n Ahmet Gerlach (+49(0)7195176538)\nVermieter: Dr. Franz-Xaver Huhn\nZählernummer: 1ISK0070547123\nZählerstand: 0022386623\nVielen Dank\nIsabelle Eckbauer\n",
+    "labels": [
+      {
+        "start": 80,
+        "end": 90,
+        "label": "DATUM"
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "label": "VORNAME"
+      },
+      {
+        "start": 108,
+        "end": 116,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 118,
+        "end": 137,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 140,
+        "end": 145,
+        "label": "VORNAME"
+      },
+      {
+        "start": 146,
+        "end": 153,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 155,
+        "end": 171,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 184,
+        "end": 187,
+        "label": "TITEL"
+      },
+      {
+        "start": 188,
+        "end": 199,
+        "label": "VORNAME"
+      },
+      {
+        "start": 200,
+        "end": 204,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 219,
+        "end": 233,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 247,
+        "end": 257,
+        "label": "ZÄHLERSTAND"
+      },
+      {
+        "start": 270,
+        "end": 278,
+        "label": "VORNAME"
+      },
+      {
+        "start": 279,
+        "end": 287,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "142.txt",
+    "text": "Sehr geehrte Damen und Herren,\nin der Anlage befindet sich die Vollmacht meiner Mutter.\nBitte fügen Sie den Vertrag 402495305  in Mein E.ON von Bertram Steinberg-Wende \nmit dem Vertrag 402495305 hinzu.\n-- \nMit freundlichen Grüssen\nBertram Steinberg-Wende\n",
+    "labels": [
+      {
+        "start": 116,
+        "end": 125,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 144,
+        "end": 151,
+        "label": "VORNAME"
+      },
+      {
+        "start": 152,
+        "end": 167,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 185,
+        "end": 194,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 231,
+        "end": 238,
+        "label": "VORNAME"
+      },
+      {
+        "start": 239,
+        "end": 254,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "156.txt",
+    "text": "Guten Tag,Vertragsnummer:409219580 Roberto Meyer Zimmerallee 8 in 79096 Hainichen. Mein Anliegen ist, da ich bis ende Oktober selten zuhause bin und kaum Strom verbrauche bitte ich ein neuen Abschlag von maximal von 20 Euro. Habe von 24.07 bis 16.08 23 gerade mal ein Verbrauch von:19 kw gehabt. MFG Roberto Meyer ( +49(0)4978 131366)\n",
+    "labels": [
+      {
+        "start": 10,
+        "end": 34,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "label": "VORNAME"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "label": "STRASSE"
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 66,
+        "end": 71,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 72,
+        "end": 81,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 216,
+        "end": 223,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 234,
+        "end": 239,
+        "label": "DATUM"
+      },
+      {
+        "start": 244,
+        "end": 252,
+        "label": "DATUM"
+      },
+      {
+        "start": 300,
+        "end": 307,
+        "label": "VORNAME"
+      },
+      {
+        "start": 308,
+        "end": 313,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 316,
+        "end": 333,
+        "label": "TELEFONNUMMER"
+      }
+    ]
+  },
+  {
+    "file": "158.txt",
+    "text": "Bitte um Korrektur von Schlussrechnung\nSiehe anhang\nGrüß\nBurkhardt Haering\n",
+    "labels": [
+      {
+        "start": 57,
+        "end": 66,
+        "label": "VORNAME"
+      },
+      {
+        "start": 67,
+        "end": 74,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "163.txt",
+    "text": "Hiermit sende ich ihnen die Abwendungsvereinbarung .\nBitte um Bestätigung.\nMit freundlichen Grüßen\n",
+    "labels": []
+  },
+  {
+    "file": "18.txt",
+    "text": "Schönen guten Tag, \nHelmar Staude, 21.06.1998\nIch habe gestern Ausversehen die Stromrechnung überwiesen die eigentlich per Lastschrift eingezogen wird. \nGestern habe ich mit einem aus ihrem Kundenservice telefoniert, der mir gesagt hat ich solle mich nochmal melden falls ich das Geld zurück überwiesen haben möchte, statt als Gutschrift. \nHiermit möchte ich ihnen mitteilen das ich die 111,02 Euro zurück überwiesen haben möchte. \nBitte veranlassen sie dies so schnell wie möglich. \nMit freundlichen Grüßen \nHelmar Staude \nGesendet mit der mobilen Mail App\n",
+    "labels": [
+      {
+        "start": 20,
+        "end": 26,
+        "label": "VORNAME"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 35,
+        "end": 45,
+        "label": "DATUM"
+      },
+      {
+        "start": 387,
+        "end": 398,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 509,
+        "end": 515,
+        "label": "VORNAME"
+      },
+      {
+        "start": 516,
+        "end": 522,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 524,
+        "end": 557,
+        "label": "GESENDET_MIT"
+      }
+    ]
+  },
+  {
+    "file": "19.txt",
+    "text": "Sehr geehrte Damen und Herren,\nmein Stromtarif E.ON Klassik Strom Extra 24 läuft noch mit der Preisgarantie von 23,08 Cent netto ( 27,47 Cent brutto) bis zum 30.09.2023.\nWelchen Tarif zu welchen Konditionen können Sie mir ab diesem Zeitpunkt anbieten?\nKann der Tarif zu gleichen Bedingungen weiter verlängert werden?\nVielen Dank!\nMit freundlichen Grüßen\nSigurd Lachmann\n",
+    "labels": [
+      {
+        "start": 112,
+        "end": 122,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 131,
+        "end": 141,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 158,
+        "end": 169,
+        "label": "DATUM"
+      },
+      {
+        "start": 354,
+        "end": 360,
+        "label": "VORNAME"
+      },
+      {
+        "start": 361,
+        "end": 369,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "20.txt",
+    "text": "Guten Tag. \nDer nächste Abschlag ist am 31.8 fällig. \nHabe das Ende Juli mit einem Kollegen am Call Center ausgemacht. \nBitte um Bearbeitung das der Betrag Ende August überwiesen wird. \nDas Konto ist ausgeglichen. \nVielen Dank. \nMit freundlichen Grüßen \nHerr Gundolf Hellwig \nErwin-Müller-Platz 1/4\n94535 Eging am See\n",
+    "labels": [
+      {
+        "start": 40,
+        "end": 44,
+        "label": "DATUM"
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "label": "DATUM"
+      },
+      {
+        "start": 161,
+        "end": 167,
+        "label": "DATUM"
+      },
+      {
+        "start": 259,
+        "end": 266,
+        "label": "VORNAME"
+      },
+      {
+        "start": 267,
+        "end": 274,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 276,
+        "end": 294,
+        "label": "STRASSE"
+      },
+      {
+        "start": 295,
+        "end": 298,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 299,
+        "end": 304,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 305,
+        "end": 317,
+        "label": "WOHNORT"
+      }
+    ]
+  },
+  {
+    "file": "172.txt",
+    "text": "Sehr geehrte Damen und Herren,\nAuf Grund eines Umzuges, und eines Strom Wechsels in den Öko Strom bei Eon.\nMöchte ich rückwirkend zum 31.07.2023 meinen Vertrag bei Eon Kündigen. Wie\ntelefonisch vereinbart, schicke ich Ihnen eine Email mit einem\nSonderkündigungsrecht.\nMeine Vertragsnummer wie folgt: das ist die alte Vertragsnummer 407434215\nMeine neue Adresse: Alfredo Schacht\nGottlieb-Mans-Allee 9\n23901 Luckau.\nBei Rückfragen +49(0)4886 25829\nMfG Alfredo Schacht\n",
+    "labels": [
+      {
+        "start": 134,
+        "end": 144,
+        "label": "DATUM"
+      },
+      {
+        "start": 332,
+        "end": 341,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 362,
+        "end": 369,
+        "label": "VORNAME"
+      },
+      {
+        "start": 370,
+        "end": 377,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 378,
+        "end": 397,
+        "label": "STRASSE"
+      },
+      {
+        "start": 398,
+        "end": 399,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 400,
+        "end": 405,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 406,
+        "end": 412,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 429,
+        "end": 445,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 450,
+        "end": 457,
+        "label": "VORNAME"
+      },
+      {
+        "start": 458,
+        "end": 465,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "175.txt",
+    "text": "Sehr geehrte Damen und Herren,\nbitte bemerken Sie das Dokument im Anhang.\n-- \nMit freundlichen Grüßen\ndas Team | rechtliche Betreuungen Drubin\nAnita Schenk\nRechtliche Betreuungen\nNiko-Pölitz-Straße 3\n50225 Rottweil\nTel. 09814526041\nFax 09814526043\n",
+    "labels": [
+      {
+        "start": 102,
+        "end": 142,
+        "label": "FIRMA"
+      },
+      {
+        "start": 143,
+        "end": 148,
+        "label": "VORNAME"
+      },
+      {
+        "start": 149,
+        "end": 155,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 179,
+        "end": 197,
+        "label": "STRASSE"
+      },
+      {
+        "start": 198,
+        "end": 199,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 200,
+        "end": 205,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 206,
+        "end": 214,
+        "label": "WOHNORT"
+      }
+    ]
+  },
+  {
+    "file": "178.txt",
+    "text": "Hiermit übersende ich Ihnen den unterschriebenen Stromvertrag.\nMit freundlichem Gruß\nGenoveva Jäkel\n",
+    "labels": [
+      {
+        "start": 85,
+        "end": 93,
+        "label": "VORNAME"
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "180.txt",
+    "text": "Sehr geehrte Damen und Herren,\nwir haben Probleme bei der Meldung des Zählerstandes zu o. g. Vertragskonto.\nAm 14.8.23 haben wir für den Zähler 62613684 einen Stand von 37.102,5\nabgelesen.\nSollte die Registrierung des Zählerstandes so nicht möglich sein, bitte ich\num Zusendung der Anforderung mit dem Gastzugangscode per Post.\nMit freundlichen Grüßen\nKäthe Heser\nJoanna-Scholl-Weg 420\n18190 Sanitz\n",
+    "labels": [
+      {
+        "start": 111,
+        "end": 118,
+        "label": "DATUM"
+      },
+      {
+        "start": 144,
+        "end": 152,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 169,
+        "end": 177,
+        "label": "ZÄHLERSTAND"
+      },
+      {
+        "start": 352,
+        "end": 357,
+        "label": "VORNAME"
+      },
+      {
+        "start": 358,
+        "end": 363,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 364,
+        "end": 381,
+        "label": "STRASSE"
+      },
+      {
+        "start": 382,
+        "end": 385,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 386,
+        "end": 391,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 392,
+        "end": 398,
+        "label": "WOHNORT"
+      }
+    ]
+  },
+  {
+    "file": "32.txt",
+    "text": "Guten Abend liebes Beschwerde- Team,\nleider kann ich den beim Abschluss zugesicherten Bonus von 315€ immer noch nicht in den Dokumenten des oben genannten Vertrages einsehen.(siehe Anhang)\nIm stornierten Vertrag( 402619080) war dieser in den Dokumenten ersichtlich( siehe Anhang) und der neue Ersatzvertrag sollte eins zu eins die gleichen Konditionen enthalten. \nIch schrieb eine Beschwerde UND rief deswegen im Kundenservice an.\nTelefonisch wurde mir der Bonus bei meinem Anruf für den aktuellen Vertrag bestätigt. \nAuch die Kollegin, die mich auf meine Beschwerde hin am 15.09. um 19Uhr anrief, bestätigte mir dies telefonisch. \nBeide sagten mir eine schriftliche Bestätigung zu. \nDie Unterlagen haben ich erhalten, allerdings ist in den Dokumenten des aktuellen Vertrag kein Bonus festgehalten! \nIch frage Sie nun, wieso mir diesen nicht einfach wie versprochen bestätigt werden kann?\nLangsam bin ich wirklich sehr genervt. Es ist für Sie wie auch für mich Vergeudung kostbarer Zeit. \nDaher bitte ich ein letztes Mal um Dokumente mit Bestätigung des Bonus von 315€ und hoffe das wir die Sache hiermit endlich ad acta legen können. \nVielen Dank und freundliche Grüße:\nErcan Fritsch\nAnhang: \n1. Erster Vertrag\n2. von Ihnen abgeschlossener Ersatzvertrag\nVon meinem iPhone gesendet\n",
+    "labels": [
+      {
+        "start": 213,
+        "end": 222,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 574,
+        "end": 580,
+        "label": "DATUM"
+      },
+      {
+        "start": 1171,
+        "end": 1176,
+        "label": "VORNAME"
+      },
+      {
+        "start": 1177,
+        "end": 1184,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 1255,
+        "end": 1281,
+        "label": "GESENDET_MIT"
+      }
+    ]
+  },
+  {
+    "file": "34.txt",
+    "text": "#### Order \n \nAnliegen*: Erdgas \n \nJahresverbrauch (kWh/Jahr)*: ohne Relevanz \n \nNachricht: Vertragsnummer 407 571 241 + 242 871 349 670 Ihr Schreiben aus August. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist 721 992 747 Ich erbitte Informationen und einen Vorschlag \n \nIhr Name*: Vladimir Schleich \n \nFirmenname*: Vladimir Schleich \n \nPLZ und Ort*: 68616 Staffelstein \n \nE-Mail*: linda21@example.com \n \n \nIch akzeptiere die unten genannte Einwilligungserklärung.* \n \n: on \n \n",
+    "labels": [
+      {
+        "start": 107,
+        "end": 118,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 121,
+        "end": 136,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 155,
+        "end": 161,
+        "label": "DATUM"
+      },
+      {
+        "start": 298,
+        "end": 306,
+        "label": "VORNAME"
+      },
+      {
+        "start": 307,
+        "end": 315,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 332,
+        "end": 340,
+        "label": "VORNAME"
+      },
+      {
+        "start": 341,
+        "end": 349,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 367,
+        "end": 372,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 373,
+        "end": 385,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 398,
+        "end": 417,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "file": "40.txt",
+    "text": "Sehr geehrte Damen und Herren. Ich entschuldige mich für die entstandenen Schulden und möchte hiermit eine Abwendungsvereinbarung mit ihnen treffen.\nLeider konnte ich die Summe nicht direkt zahlen da mir als allein Erziehender die Mittel dazu fehlen. Die erste Rate in Höhe von 35,57€ werde ich so schnell wie möglich überweisen.\nFreundliche Grüße Stephen Beckmann\n",
+    "labels": [
+      {
+        "start": 348,
+        "end": 355,
+        "label": "VORNAME"
+      },
+      {
+        "start": 356,
+        "end": 364,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "52.txt",
+    "text": "Sehr geehrte Damen und Herren,\nIch bitte um Löschung sämtlicher persönlicher Daten bei Ihnen, insbesondere des MeinEON Accounts, da ich nicht mehr bei Ihnen Kunde bin.\nMit freundlichen Grüßen\nCäcilie Schulz\n",
+    "labels": [
+      {
+        "start": 192,
+        "end": 199,
+        "label": "VORNAME"
+      },
+      {
+        "start": 200,
+        "end": 206,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "57.txt",
+    "text": "Sehr geehrte(-r) Sachbearbeiter(-in) \n \n \nzum folgenden Vertragskonto wurde über Mein E.ON - Kontakt am 18.08.2023 folgende Kundenanfrage zum Thema \"\"Sonstiges\"\" abgesendet. Bitte um Bearbeitung! \n \nALLE DATEN AUF EINEN BLICK: \n \n \nGeschäftspartner: 0101833271 \nVertragskonto: 242354742018 \nTelefonnummer für Rückfragen: \nNachricht/Anfrage:  \n„VERTRAGS NR.: 401 160 536 \"Ihr Schreiben vom 15 August 2023 wg. E-Mail-Adresse\" “ \n \n \n \nFreundliche Grüße \nIhr E.ON Kundenservice \n \nwww.eon.de \n \nE.ON Deutschland GmbH \nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Dr. Ingo Luge Geschäftsführung/Executive Board: Dr. Victoria Ossadnik (Vorsitzende der Geschäftsführung/CEO) Dr. Philip Beckmann Torsten Flosbach Dr. Uwe Kolks Dr. Wolfgang Noetel Otmar Zisler \nSitz: Arnulfstraße 203, 80634 München Amtsgericht München HRB 209327 Ust-IdNr.: DE259922663 Gläubiger-ID: DE41EON00000129793  \n",
+    "labels": [
+      {
+        "start": 104,
+        "end": 114,
+        "label": "DATUM"
+      },
+      {
+        "start": 277,
+        "end": 289,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 358,
+        "end": 369,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 389,
+        "end": 403,
+        "label": "DATUM"
+      }
+    ]
+  },
+  {
+    "file": "64.txt",
+    "text": "Corina Nerger-Koch Düren, den 26.8.2023\nLiesel-Mude-Platz 380\n  An die\nKöhler\nBritta-Wirth-Allee 359\n22085 Ebern\n*Kunden-Nr.: 204211951*\n*Verbrauchsstelle: Liesel-Mude-Platz 380, 32884 Düren*\n*Zähler: 970220-592573*\nSehr geehrte Damen und Herren,\nhiermit *widerrufe* ich den von mir geschlossenen Vertrag über die \nStromlieferung von Matthäi Komfort Extra Öko.\nWiderruf gemäß Formular anbei.\n  Corina Nerger-Koch\n",
+    "labels": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "VORNAME"
+      },
+      {
+        "start": 7,
+        "end": 18,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 40,
+        "end": 57,
+        "label": "STRASSE"
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 126,
+        "end": 135,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 156,
+        "end": 173,
+        "label": "STRASSE"
+      },
+      {
+        "start": 174,
+        "end": 177,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 179,
+        "end": 184,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 185,
+        "end": 190,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 201,
+        "end": 214,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 334,
+        "end": 359,
+        "label": "FIRMA"
+      },
+      {
+        "start": 394,
+        "end": 400,
+        "label": "VORNAME"
+      },
+      {
+        "start": 401,
+        "end": 412,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "69.txt",
+    "text": "Sehr geehrte Damen und Herren hiermit nochmals Bestätigung Abschlag August bezahlt wurde Mit freundlichen Grüßen Hahn\n",
+    "labels": [
+      {
+        "start": 113,
+        "end": 117,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "70.txt",
+    "text": "Sehr geehrte Damen und Herren,\n \nich verstehe Ihr Schreiben leider nicht.\n \nDer genannte Vertrag ist seit 09/2022 beendet. In diesem Vertrag handelte es\nsich um den Allgemeinstromzähler vom Wielochstraße 2, Gera. Dieser Zähler\nhat nun die Vertragsnummer 407130068.\n \n \nMit freundlichen Grüßen\n \nFriedhelm Schacht\n \nHendriksring 0\n76115 Mühlhausen\n0927999263\n+49(0)1969 77811\n",
+    "labels": [
+      {
+        "start": 254,
+        "end": 264,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 295,
+        "end": 304,
+        "label": "VORNAME"
+      },
+      {
+        "start": 305,
+        "end": 312,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 315,
+        "end": 327,
+        "label": "STRASSE"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 330,
+        "end": 335,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 336,
+        "end": 346,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 358,
+        "end": 374,
+        "label": "TELEFONNUMMER"
+      }
+    ]
+  },
+  {
+    "file": "80.txt",
+    "text": "Sehr geehrte Damen und Herren,\nIch kann mich nicht in mein Online Portal einloggen und bekomme hier immer\nfolgenden Fehler (siehe Anhang). Können sie bitte meinen online Zugang\nfreischalten? Danke\nMit freundlichen Grüßen\nEhrentraud Fritsch\n",
+    "labels": [
+      {
+        "start": 221,
+        "end": 231,
+        "label": "VORNAME"
+      },
+      {
+        "start": 232,
+        "end": 239,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "84.txt",
+    "text": "Durch einen Fehler ihrerseits wird mir seit Februar 2023 kein Abschlag\nabgebucht.Mehrere Anrufe und E-Mails werden einfach ignoriert. Bitte\nüberprüfen Sie meinen Vertrag mit der Nr.\n407982866\nSollte ich nach 4 Wochen nichts hören werde ich meinen Rechtschutz\neinschalten.\nMfG Christl Koch\n",
+    "labels": [
+      {
+        "start": 44,
+        "end": 56,
+        "label": "DATUM"
+      },
+      {
+        "start": 182,
+        "end": 191,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 276,
+        "end": 283,
+        "label": "VORNAME"
+      },
+      {
+        "start": 284,
+        "end": 288,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "88.txt",
+    "text": "Sehr geehrte Damen und Herren,\nhiermit widerrufe ich den von mir abgeschlossenen Stromvertrag mit E.ON Energie.\n1.) Angaben zum Vertragspartner\nOtto Hartmann\nGeb.-Datum: 22.05.1984\nrusterdal@example.com\n2.) Angaben zur Verbrauchsstelle\nSchacht Schottin GmbH & Co. KG Auftragsnummer: 7564839\nTarifname: E.ON ÖkoStrom Extra\nDatum der Auftragserstellung: 21.07.2023\nDatum der Übermittlung an E.ON Energie: 21.07.2023\nZählernummer: 30253\nAdresse: Sölzergasse 2, 90754 Wunsiedel\nBitte bestätigen Sie mir den Widerruf mit Antwort auf diese E-Mail.\nMit freundlichen Grüßen\nOtto Hartmann\n",
+    "labels": [
+      {
+        "start": 144,
+        "end": 148,
+        "label": "VORNAME"
+      },
+      {
+        "start": 149,
+        "end": 157,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 170,
+        "end": 180,
+        "label": "DATUM"
+      },
+      {
+        "start": 181,
+        "end": 202,
+        "label": "EMAIL"
+      },
+      {
+        "start": 203,
+        "end": 205,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 236,
+        "end": 266,
+        "label": "FIRMA"
+      },
+      {
+        "start": 283,
+        "end": 290,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 352,
+        "end": 362,
+        "label": "DATUM"
+      },
+      {
+        "start": 403,
+        "end": 413,
+        "label": "DATUM"
+      },
+      {
+        "start": 428,
+        "end": 433,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 443,
+        "end": 454,
+        "label": "STRASSE"
+      },
+      {
+        "start": 455,
+        "end": 456,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 458,
+        "end": 463,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 464,
+        "end": 473,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 566,
+        "end": 570,
+        "label": "VORNAME"
+      },
+      {
+        "start": 571,
+        "end": 579,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "93.txt",
+    "text": "Sehr geehrte Damen und Herren!\nWie ich Ihnen bereits telefonisch mitgeteilt habe, kann ich meinen \nZählerstand nicht ablesen, weil dieser gar nicht angezeigt wird. Eine \nBetätigung der Infotaste hat auch keinerlei Reaktion des Zählers \nhervorgerufen. Bitte teilen Sie mir mit, wie es weiter geht. Ein Foto mit \nZählernummer erhalten Sie im Anhang. MfG Hella Weimer-Bolander\n﻿\n",
+    "labels": [
+      {
+        "start": 352,
+        "end": 357,
+        "label": "VORNAME"
+      },
+      {
+        "start": 358,
+        "end": 373,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "100.txt",
+    "text": "Vertragsnummer 404149058\n \nFam. Zirme/Rogner\nHenkring 06\n58954 Freising\n \nSehr geehrte Damen und Herren, wir haben am 17.07.23 ein email an euch \ngeschickt und leider nach fast 1,5 Monaten immer noch keine Antwort \nbekommen. Schreiben heute noch ein Mal. \n \nin letzter Abrechnung vom 29.06.2023 ist einen Fehler aufgetreten und zwar \nZählerstand passt nicht. Am 18.06.23 unsere tatsächliche Zählerstand war \n13962 m3. Laut Ihre Abrechnung 14042 m3. Das ist 80m3 Differenz (also 80m3 \nzu viel). Wir bieten Sie alles umzurechnen . Vielen Dank.\n \n \nMfG Fam. Zirme/Rogner\n \n﻿\n",
+    "labels": [
+      {
+        "start": 32,
+        "end": 37,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "VORNAME"
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "label": "STRASSE"
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 63,
+        "end": 71,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 118,
+        "end": 126,
+        "label": "DATUM"
+      },
+      {
+        "start": 284,
+        "end": 294,
+        "label": "DATUM"
+      },
+      {
+        "start": 362,
+        "end": 370,
+        "label": "DATUM"
+      },
+      {
+        "start": 408,
+        "end": 413,
+        "label": "ZÄHLERSTAND"
+      },
+      {
+        "start": 439,
+        "end": 444,
+        "label": "ZÄHLERSTAND"
+      },
+      {
+        "start": 555,
+        "end": 560,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 561,
+        "end": 567,
+        "label": "VORNAME"
+      }
+    ]
+  },
+  {
+    "file": "102.txt",
+    "text": "Hallo EON,\nBitte erstatten Sie auf folgendes Konto zurück\nChantal Roskoth\nIban: DE28263410720363784400\nbei der Kartoffelbank. \nMit freundlichen Grüßen\nChantal Roskoth\n",
+    "labels": [
+      {
+        "start": 58,
+        "end": 65,
+        "label": "VORNAME"
+      },
+      {
+        "start": 66,
+        "end": 73,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 80,
+        "end": 102,
+        "label": "IBAN"
+      },
+      {
+        "start": 111,
+        "end": 124,
+        "label": "BANK"
+      },
+      {
+        "start": 151,
+        "end": 158,
+        "label": "VORNAME"
+      },
+      {
+        "start": 159,
+        "end": 166,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "106.txt",
+    "text": "Sehr geehrte Damen und Herren,\nanbei übersende ich Ihnen schriftlich meine Kündigung des Erdgasvertrages mit der Vertragsnummer 409107498.\nDie Kündigung habe ich auch bereits über das Onlineportal \"Mein Rogner\" getätigt.\nMit freundlichen Grüßen\nGabriel Mitschke-Seip\n",
+    "labels": [
+      {
+        "start": 128,
+        "end": 138,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 198,
+        "end": 209,
+        "label": "FIRMA"
+      },
+      {
+        "start": 245,
+        "end": 252,
+        "label": "VORNAME"
+      },
+      {
+        "start": 253,
+        "end": 266,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "110.txt",
+    "text": "Guten Tag, bei dem begleichen der offenen Rechnung vom 1.06-1.08 ist mir ein Fehler in der Rechnungsnummer unterlaufen. Meine Vertragsnummer lautet: 404686610Im Anhang liegt ein Kontoauszug vor, dass ich den Betrag von 282€ beglichen habe. Mit freundlichen Grüßen Heiderose Drubin\n",
+    "labels": [
+      {
+        "start": 55,
+        "end": 64,
+        "label": "DATUM"
+      },
+      {
+        "start": 219,
+        "end": 222,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 264,
+        "end": 273,
+        "label": "VORNAME"
+      },
+      {
+        "start": 274,
+        "end": 280,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "117.txt",
+    "text": "Guten Tag.  Wir möchten unsere Abschlagzahlungen auf den 2 jeden Monats verlagern für Erdgas Vertrag 402071749 und Strom Vertrag 402071749. Bitte aktualisieren/abändern bitte . W.Weißbrot\nGesendet von Fliegner Mail auf Andro. id\n",
+    "labels": [
+      {
+        "start": 101,
+        "end": 110,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 129,
+        "end": 139,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 177,
+        "end": 181,
+        "label": "VORNAME"
+      },
+      {
+        "start": 182,
+        "end": 187,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 188,
+        "end": 228,
+        "label": "GESENDET_MIT"
+      }
+    ]
+  },
+  {
+    "file": "126.txt",
+    "text": "Sehr geehrte Damen und Herren,\nHerr Prof. Kreszenz Mende ist verstorben. Bitte ändern Sie die Vertrags-Anschrift auf seine Frau Lilo Mende.\nNeue Anschrift:\nLilo Mende\nMiesgasse 591\n97519 Riedbach\nDiese Information sende ich Ihnen im Auftrag von meiner Schwiegermutter Lilo Mende.\nMit freundlichen Grüßen\nResi Mende\nTel. +49(0)6700963064\n",
+    "labels": [
+      {
+        "start": 36,
+        "end": 41,
+        "label": "TITEL"
+      },
+      {
+        "start": 42,
+        "end": 50,
+        "label": "VORNAME"
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 128,
+        "end": 132,
+        "label": "VORNAME"
+      },
+      {
+        "start": 133,
+        "end": 138,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 156,
+        "end": 160,
+        "label": "VORNAME"
+      },
+      {
+        "start": 161,
+        "end": 166,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 268,
+        "end": 272,
+        "label": "VORNAME"
+      },
+      {
+        "start": 273,
+        "end": 278,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 304,
+        "end": 308,
+        "label": "VORNAME"
+      },
+      {
+        "start": 309,
+        "end": 314,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 320,
+        "end": 336,
+        "label": "TELEFONNUMMER"
+      }
+    ]
+  },
+  {
+    "file": "129.txt",
+    "text": "Sehr geehrte Damen und Herren,\nich plane, den Energieversorger zu wechseln.\nBezüglich Ihrer Preisgarantie habe ich jedoch eine Verständnisfrage.\nSie formulieren diese wie folgt: Ausgenommen von der Preisgarantie sind \nPreisänderungen, die auf Änderungen der U-steuer sowie Preisänderungen, \ndie auf nach Vertragsabschluss während der Preisgarantie erstmals \nwirksam werdenden neuen Steuern, Abgaben oder sons\ntigen unmittelbar die Beschaffung, Erzeugung, Speicherung, Netznutzung \n(Übertragung u. Verteilung), Belieferung oder den Verbrauch von \nelektrischer Energie betreffenden Belastungen oder entsprechenden neuen \nEntlastungen beruhen.\nFrage: was bedeutet für Sie \" die Beschaffung, Erzeugung, Speicherung, \nNetznutzung\"? Ist die  von Ihnen angebotene Preisgarantie damit nicht \nerheblich eingeschränkt? Anders formuliert: Wenn sich bei der \nBeschaffung, Erzeugung, Speicherung oder Netzung die Kostenstruktur \nbelastend verändert, zieht die Preisgarantie nicht?\nM.f.G.\nLoni Scheuermann\n",
+    "labels": [
+      {
+        "start": 975,
+        "end": 979,
+        "label": "VORNAME"
+      },
+      {
+        "start": 980,
+        "end": 991,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "131.txt",
+    "text": "Sehr geehrte Damen und Herren,\nanbei das gewünschte Ausbauprotokoll.\nmfg\nIng. Heinz-Jürgen Heser\nOtfried-Täsche-Platz 2/2\n49479 Ibbenbüren\n",
+    "labels": [
+      {
+        "start": 78,
+        "end": 90,
+        "label": "VORNAME"
+      },
+      {
+        "start": 91,
+        "end": 96,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 97,
+        "end": 117,
+        "label": "STRASSE"
+      },
+      {
+        "start": 118,
+        "end": 121,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 122,
+        "end": 127,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 128,
+        "end": 138,
+        "label": "WOHNORT"
+      }
+    ]
+  }
+]
