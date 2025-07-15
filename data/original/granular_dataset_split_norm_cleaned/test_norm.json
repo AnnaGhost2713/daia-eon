@@ -905,11 +905,6 @@
         "start": 358,
         "end": 374,
         "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 362,
-        "end": 363,
-        "label": "HAUSNUMMER"
       }
     ]
   },

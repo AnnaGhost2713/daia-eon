@@ -400,11 +400,6 @@
       },
       {
         "start": 61,
-        "end": 77,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 61,
         "end": 67,
         "label": "NACHNAME"
       },
@@ -416,11 +411,6 @@
       {
         "start": 509,
         "end": 525,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 509,
-        "end": 515,
         "label": "NACHNAME"
       },
       {
@@ -764,19 +754,9 @@
         "label": "DATUM"
       },
       {
-        "start": 287,
-        "end": 289,
-        "label": "HAUSNUMMER"
-      },
-      {
         "start": 362,
         "end": 370,
         "label": "DATUM"
-      },
-      {
-        "start": 365,
-        "end": 367,
-        "label": "HAUSNUMMER"
       },
       {
         "start": 408,
