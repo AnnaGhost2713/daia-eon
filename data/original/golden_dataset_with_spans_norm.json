@@ -1546,12 +1546,7 @@
       {
         "start": 349,
         "end": 476,
-        "label": "DATUM"
-      },
-      {
-        "start": 361,
-        "end": 375,
-        "label": "WOHNORT"
+        "label": "FIRMA"
       },
       {
         "start": 1293,
@@ -2371,11 +2366,6 @@
       },
       {
         "start": 61,
-        "end": 77,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 61,
         "end": 67,
         "label": "NACHNAME"
       },
@@ -2387,11 +2377,6 @@
       {
         "start": 509,
         "end": 525,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 509,
-        "end": 515,
         "label": "NACHNAME"
       },
       {
@@ -3010,11 +2995,6 @@
         "start": 358,
         "end": 374,
         "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 362,
-        "end": 363,
-        "label": "HAUSNUMMER"
       }
     ]
   },
@@ -3276,11 +3256,6 @@
         "start": 250,
         "end": 277,
         "label": "IBAN"
-      },
-      {
-        "start": 362,
-        "end": 372,
-        "label": "VERTRAGSNUMMER"
       },
       {
         "start": 362,
@@ -3958,19 +3933,9 @@
         "label": "DATUM"
       },
       {
-        "start": 287,
-        "end": 289,
-        "label": "HAUSNUMMER"
-      },
-      {
         "start": 362,
         "end": 370,
         "label": "DATUM"
-      },
-      {
-        "start": 365,
-        "end": 367,
-        "label": "HAUSNUMMER"
       },
       {
         "start": 408,
