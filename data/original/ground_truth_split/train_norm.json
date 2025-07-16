@@ -5,7 +5,7 @@
     "labels": [
       {
         "start": 53,
-        "end": 62,
+        "end": 63,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -101,12 +101,12 @@
         "label": "WOHNORT"
       },
       {
-        "start": 47,
+        "start": 43,
         "end": 57,
         "label": "DATUM"
       },
       {
-        "start": 67,
+        "start": 58,
         "end": 76,
         "label": "VERTRAGSNUMMER"
       },
@@ -942,11 +942,6 @@
       },
       {
         "start": 333,
-        "end": 339,
-        "label": "VORNAME"
-      },
-      {
-        "start": 340,
         "end": 348,
         "label": "NACHNAME"
       },
@@ -1037,7 +1032,7 @@
         "label": "WOHNORT"
       },
       {
-        "start": 164,
+        "start": 161,
         "end": 172,
         "label": "ZÄHLERNUMMER"
       },
@@ -1064,7 +1059,7 @@
     "text": "Sehr geehrter Damen und Herren, Hiermit sende ich Ihnen die Kündigung Bestätigung. Bitte sehen Sie den Anhang dankeSent from my Galaxy\n",
     "labels": [
       {
-        "start": 115,
+        "start": 110,
         "end": 134,
         "label": "GESENDET_MIT"
       }
@@ -1265,21 +1260,6 @@
         "start": 164,
         "end": 170,
         "label": "VORNAME"
-      },
-      {
-        "start": 171,
-        "end": 177,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 177,
-        "end": 186,
-        "label": "VERTRAGSNUMMER"
-      },
-      {
-        "start": 199,
-        "end": 213,
-        "label": "ZÄHLERNUMMER"
       }
     ]
   },
@@ -1504,7 +1484,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 108,
+        "start": 101,
         "end": 126,
         "label": "EMAIL"
       },
@@ -1554,7 +1534,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 654,
+        "start": 647,
         "end": 681,
         "label": "EMAIL"
       },
@@ -1564,7 +1544,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 861,
+        "start": 854,
         "end": 879,
         "label": "EMAIL"
       },
@@ -1574,7 +1554,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 1083,
+        "start": 1076,
         "end": 1101,
         "label": "EMAIL"
       },
@@ -2067,7 +2047,7 @@
     "labels": [
       {
         "start": 123,
-        "end": 132,
+        "end": 133,
         "label": "DATUM"
       },
       {
@@ -2159,7 +2139,7 @@
       },
       {
         "start": 250,
-        "end": 277,
+        "end": 278,
         "label": "IBAN"
       },
       {
@@ -2190,7 +2170,7 @@
     "labels": [
       {
         "start": 77,
-        "end": 86,
+        "end": 87,
         "label": "DATUM"
       },
       {
@@ -2690,7 +2670,7 @@
       },
       {
         "start": 149,
-        "end": 158,
+        "end": 160,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -2814,16 +2794,11 @@
       },
       {
         "start": 129,
-        "end": 138,
+        "end": 139,
         "label": "VERTRAGSNUMMER"
       },
       {
         "start": 177,
-        "end": 179,
-        "label": "VORNAME"
-      },
-      {
-        "start": 179,
         "end": 187,
         "label": "NACHNAME"
       },
@@ -2870,7 +2845,7 @@
       },
       {
         "start": 206,
-        "end": 215,
+        "end": 216,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -2903,52 +2878,6 @@
         "start": 193,
         "end": 201,
         "label": "NACHNAME"
-      }
-    ]
-  },
-  {
-    "file": "122.txt",
-    "text": "Sehr geehrte Damen und Herren,\ndie Betreuung ist nun unbefristet, ich bitte um Aktualisierung.\n \nMit freundlichen Grüßen\nFrau Magdalene Knappe\n \n \n \nMob: +49(0)5333316920\nFax: (05535) 682231\nWibke-Albers-Straße 567\n69604 Borken\n \nDiese E-Mail enthält vertrauliche und/oder rechtlich geschützte\nInformationen. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail\nirrtümlich erhalten haben, informieren Sie bitte sofort den Absender und\nvernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte\nWeitergabe dieser Mail ist nicht gestattet.\n",
-    "labels": [
-      {
-        "start": 126,
-        "end": 135,
-        "label": "VORNAME"
-      },
-      {
-        "start": 136,
-        "end": 142,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 154,
-        "end": 170,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 176,
-        "end": 190,
-        "label": "FAX"
-      },
-      {
-        "start": 191,
-        "end": 210,
-        "label": "STRASSE"
-      },
-      {
-        "start": 211,
-        "end": 214,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 215,
-        "end": 220,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 221,
-        "end": 227,
-        "label": "WOHNORT"
       }
     ]
   },
@@ -2994,7 +2923,7 @@
     "labels": [
       {
         "start": 431,
-        "end": 440,
+        "end": 441,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -3070,7 +2999,7 @@
       },
       {
         "start": 267,
-        "end": 269,
+        "end": 270,
         "label": "TITEL"
       },
       {
@@ -3533,12 +3462,12 @@
       },
       {
         "start": 184,
-        "end": 193,
+        "end": 194,
         "label": "VERTRAGSNUMMER"
       },
       {
         "start": 244,
-        "end": 258,
+        "end": 259,
         "label": "ZÄHLERNUMMER"
       },
       {
@@ -3558,7 +3487,7 @@
     "text": "Guten Tag,Vertragsnummer:409219580 Roberto Meyer Zimmerallee 8 in 79096 Hainichen. Mein Anliegen ist, da ich bis ende Oktober selten zuhause bin und kaum Strom verbrauche bitte ich ein neuen Abschlag von maximal von 20 Euro. Habe von 24.07 bis 16.08 23 gerade mal ein Verbrauch von:19 kw gehabt. MFG Roberto Meyer ( +49(0)4978 131366)\n",
     "labels": [
       {
-        "start": 25,
+        "start": 10,
         "end": 34,
         "label": "VERTRAGSNUMMER"
       },
@@ -3613,7 +3542,7 @@
         "label": "DATUM"
       },
       {
-        "start": 282,
+        "start": 278,
         "end": 284,
         "label": "ZÄHLERSTAND"
       },
@@ -3914,6 +3843,128 @@
         "start": 458,
         "end": 465,
         "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "173.txt",
+    "text": "An das Serviceteam von Eon, \nim September 2023 habe ich am 1.9 den Abschlag überwiesen und am 26.9 haben sie nochmal den Abschlag für September eingezogen, so dass ich jetzt doppelt bezahlt habe für September.\nErstatten sie mir unverzüglich die 99,96 Euro auf mein Konto bei der Striebitz Christoph AG: DE79170269554043121865\nStriebitz Reichmann AG & Co. KG Kundennummer: 203536716/408923745\nMit freundlichen Grüßen \nDr. Camilla Wesack\n",
+    "labels": [
+      {
+        "start": 32,
+        "end": 46,
+        "label": "DATUM"
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "label": "DATUM"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "DATUM"
+      },
+      {
+        "start": 134,
+        "end": 143,
+        "label": "DATUM"
+      },
+      {
+        "start": 199,
+        "end": 208,
+        "label": "DATUM"
+      },
+      {
+        "start": 245,
+        "end": 255,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 279,
+        "end": 301,
+        "label": "BANK"
+      },
+      {
+        "start": 303,
+        "end": 325,
+        "label": "IBAN"
+      },
+      {
+        "start": 326,
+        "end": 357,
+        "label": "FIRMA"
+      },
+      {
+        "start": 372,
+        "end": 391,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 417,
+        "end": 420,
+        "label": "TITEL"
+      },
+      {
+        "start": 421,
+        "end": 428,
+        "label": "VORNAME"
+      },
+      {
+        "start": 429,
+        "end": 435,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "175.txt",
+    "text": "Sehr geehrte Damen und Herren,\nbitte bemerken Sie das Dokument im Anhang.\n-- \nMit freundlichen Grüßen\ndas Team | rechtliche Betreuungen Drubin\nAnita Schenk\nRechtliche Betreuungen\nNiko-Pölitz-Straße 3\n50225 Rottweil\nTel. 09814526041\nFax 09814526043\n",
+    "labels": [
+      {
+        "start": 102,
+        "end": 142,
+        "label": "FIRMA"
+      },
+      {
+        "start": 143,
+        "end": 148,
+        "label": "VORNAME"
+      },
+      {
+        "start": 149,
+        "end": 155,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 179,
+        "end": 197,
+        "label": "STRASSE"
+      },
+      {
+        "start": 198,
+        "end": 199,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 200,
+        "end": 205,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 206,
+        "end": 214,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 220,
+        "end": 231,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 236,
+        "end": 247,
+        "label": "FAX"
       }
     ]
   },

@@ -5,7 +5,7 @@
     "labels": [
       {
         "start": 48,
-        "end": 54,
+        "end": 55,
         "label": "ZAHLUNG"
       },
       {
@@ -71,8 +71,8 @@
         "label": "DATUM"
       },
       {
-        "start": 202,
-        "end": 206,
+        "start": 199,
+        "end": 205,
         "label": "ZAHLUNG"
       },
       {
@@ -82,12 +82,12 @@
       },
       {
         "start": 273,
-        "end": 295,
+        "end": 296,
         "label": "IBAN"
       },
       {
         "start": 337,
-        "end": 359,
+        "end": 360,
         "label": "IBAN"
       },
       {
@@ -246,67 +246,6 @@
     ]
   },
   {
-    "file": "148.txt",
-    "text": "Sehr geehrte Damen und Herren\nleider wurde meine Zählernummer immer noch nicht in Ihren Unterlagen geändert. Die Zählernummer lautet bereits seit Vertragsbeginn 1ESY1162808638.\nMit freundlichen Grüßen\nDanica Mohaupt\nD-99763 Erbisdorf\nNettestraße 1\nTel.: +49(0) 993726788\nFax: +49(0)5740 58320\nHandy (02675) 31629\nE-Mail: tomislav80@example.net\n",
-    "labels": [
-      {
-        "start": 161,
-        "end": 175,
-        "label": "ZÄHLERNUMMER"
-      },
-      {
-        "start": 201,
-        "end": 207,
-        "label": "VORNAME"
-      },
-      {
-        "start": 208,
-        "end": 215,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 216,
-        "end": 223,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 224,
-        "end": 233,
-        "label": "WOHNORT"
-      },
-      {
-        "start": 234,
-        "end": 245,
-        "label": "STRASSE"
-      },
-      {
-        "start": 246,
-        "end": 247,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 254,
-        "end": 270,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 276,
-        "end": 292,
-        "label": "FAX"
-      },
-      {
-        "start": 299,
-        "end": 312,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 321,
-        "end": 343,
-        "label": "EMAIL"
-      }
-    ]
-  },
-  {
     "file": "157.txt",
     "text": "Hallo,\nBitte keine Werbung an leiftschentscher@example.net oder +49 (0) 5864 007393 schicken\nDanke\n",
     "labels": [
@@ -369,7 +308,7 @@
       },
       {
         "start": 158,
-        "end": 168,
+        "end": 169,
         "label": "DATUM"
       },
       {
@@ -508,57 +447,6 @@
     ]
   },
   {
-    "file": "175.txt",
-    "text": "Sehr geehrte Damen und Herren,\nbitte bemerken Sie das Dokument im Anhang.\n-- \nMit freundlichen Grüßen\ndas Team | rechtliche Betreuungen Drubin\nAnita Schenk\nRechtliche Betreuungen\nNiko-Pölitz-Straße 3\n50225 Rottweil\nTel. 09814526041\nFax 09814526043\n",
-    "labels": [
-      {
-        "start": 102,
-        "end": 142,
-        "label": "FIRMA"
-      },
-      {
-        "start": 143,
-        "end": 148,
-        "label": "VORNAME"
-      },
-      {
-        "start": 149,
-        "end": 155,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 179,
-        "end": 197,
-        "label": "STRASSE"
-      },
-      {
-        "start": 198,
-        "end": 199,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 200,
-        "end": 205,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 206,
-        "end": 214,
-        "label": "WOHNORT"
-      },
-      {
-        "start": 220,
-        "end": 231,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 236,
-        "end": 247,
-        "label": "FAX"
-      }
-    ]
-  },
-  {
     "file": "176.txt",
     "text": "Sehr geehrte Damen und Herren,\nSie haben bis heute nicht auf meine E-Mail vom 25.08.2023, 10:31, \ngeantwortet. Nach wie vor befinde ich mich nicht in der Belieferung. Ich \nfinde die Situation unsäglich und fordere Sie auf, mich unverüglich zu \nkontaktieren.\nMit freundlichen Grüßen\nNuray Hübel\nPechelweg 1\n28558 Osterode am Harz\nTel.: (00727) 30389\n",
     "labels": [
@@ -676,7 +564,7 @@
       },
       {
         "start": 584,
-        "end": 586,
+        "end": 589,
         "label": "DATUM"
       },
       {
@@ -1053,12 +941,133 @@
     ]
   },
   {
+    "file": "65.txt",
+    "text": "Betreuungsbüro \"Schmidtke KG\" L. Jäntsch\n_______________________________________\n24.08.2023\nBetreuungssache * Herr Jobst Oderwald 14.05.1983\n408 113 769\nSehr geehrte Damen und Herren,\nIhr Schreiben vom 17.08.2023 kann diesseits nicht nachvollzogen werden.\nZum Vertragskonto 232 671 429 363 wurde ich mit Schreiben vom 10.08.2023 darüber informiert, dass noch ein Guthaben von 132,92 € vorhanden ist. Dieses bitte ich auf obiges Vertragskonto um zu buchen und mich entsprechend darüber zu informieren.\nVielen Dank im Voraus!\n--\nMit freundlichen Grüßen\nLuzie Jäntsch\nBetreuungsbüro \"Schmidtke KG\" Luzie Jäntsch\nNeue Post 15 c\n73340 Mittweida\nTel.: +49(0)9315 41041\nFax: +49(0)9315 41043\nSicherheitshinweise:\nDiese E-Mail ist ausschließlich für den Adressaten bestimmt und kann vertraulich oder gesetzlich geschützte Informationen enthalten. Sollten Sie nicht der vorgesehene Empfänger dieser Nachricht sein, so bitten wir um eine kurze Nachricht. Jede unbefugte Weiterleitung oder Fertigung einer Kopie ist unzulässig.\nZur Erfüllung der mir durch das Betreuungsgericht im Rahmen der jeweiligen Aufgabenkreise übertragenen Befugnisse speichere ich folgende Ihrer Daten gem. Art. 13 und 14 sowie 6 Abs. 1 lit. c, d und e DSGVO: Ihre Postanschrift, Ihre Telefon- und Faxnummer, Ihr Geschäftszeichen, die Versandform sowie den Inhalt dieses Schreibens im Rahmen der gesetzl. Aufbewahrungsfristen. Sie haben gem. Art. 13 Abs. 2 lit. b und d DSGVO das Recht, die Löschung, Berechtigung und Einschränkung der Verarbeitung dieser Daten sowie das Recht weiterer Auskünfte von mir zu verlangen. Gem. Art. 13 Abs. 2 lit. d DSGVO haben Sie ein Beschwerderecht bei einer Aufsichtsbehörde.\n",
+    "labels": [
+      {
+        "start": 0,
+        "end": 29,
+        "label": "FIRMA"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "label": "VORNAME"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "label": "DATUM"
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "label": "VORNAME"
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 130,
+        "end": 140,
+        "label": "DATUM"
+      },
+      {
+        "start": 141,
+        "end": 152,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 202,
+        "end": 212,
+        "label": "DATUM"
+      },
+      {
+        "start": 274,
+        "end": 289,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 318,
+        "end": 328,
+        "label": "DATUM"
+      },
+      {
+        "start": 376,
+        "end": 382,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 551,
+        "end": 556,
+        "label": "VORNAME"
+      },
+      {
+        "start": 557,
+        "end": 564,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 565,
+        "end": 594,
+        "label": "FIRMA"
+      },
+      {
+        "start": 595,
+        "end": 600,
+        "label": "VORNAME"
+      },
+      {
+        "start": 601,
+        "end": 608,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 609,
+        "end": 618,
+        "label": "STRASSE"
+      },
+      {
+        "start": 619,
+        "end": 623,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 624,
+        "end": 629,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 630,
+        "end": 639,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 646,
+        "end": 662,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 668,
+        "end": 684,
+        "label": "FAX"
+      }
+    ]
+  },
+  {
     "file": "66.txt",
     "text": "Sehr geehrte Damen und Herren,\nbitte bündeln sie nachfolgende Verträge unter dem Bündelcode 099282762.\nVerträge: 407 776 915\n405 804 183\n403 903 357\n403 205 774\n403 344 921\nVielen Dank.\nMfg Traute Walter\nDiese Nachricht wurde von meinem Android Mobiltelefon mit [WEB.DE][1] Mail gesendet.\n[1]: http://WEB.DE\n",
     "labels": [
       {
         "start": 92,
-        "end": 101,
+        "end": 102,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -1134,7 +1143,7 @@
       },
       {
         "start": 254,
-        "end": 263,
+        "end": 264,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -1185,7 +1194,7 @@
     "labels": [
       {
         "start": 196,
-        "end": 223,
+        "end": 224,
         "label": "IBAN"
       },
       {
@@ -1260,7 +1269,7 @@
         "label": "TELEFONNUMMER"
       },
       {
-        "start": 511,
+        "start": 504,
         "end": 541,
         "label": "EMAIL"
       },
@@ -1599,7 +1608,7 @@
       },
       {
         "start": 286,
-        "end": 295,
+        "end": 296,
         "label": "ZÄHLERSTAND"
       },
       {
@@ -1713,6 +1722,52 @@
         "start": 577,
         "end": 583,
         "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "122.txt",
+    "text": "Sehr geehrte Damen und Herren,\ndie Betreuung ist nun unbefristet, ich bitte um Aktualisierung.\n \nMit freundlichen Grüßen\nFrau Magdalene Knappe\n \n \n \nMob: +49(0)5333316920\nFax: (05535) 682231\nWibke-Albers-Straße 567\n69604 Borken\n \nDiese E-Mail enthält vertrauliche und/oder rechtlich geschützte\nInformationen. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail\nirrtümlich erhalten haben, informieren Sie bitte sofort den Absender und\nvernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte\nWeitergabe dieser Mail ist nicht gestattet.\n",
+    "labels": [
+      {
+        "start": 126,
+        "end": 135,
+        "label": "VORNAME"
+      },
+      {
+        "start": 136,
+        "end": 142,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 154,
+        "end": 170,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 176,
+        "end": 190,
+        "label": "FAX"
+      },
+      {
+        "start": 191,
+        "end": 210,
+        "label": "STRASSE"
+      },
+      {
+        "start": 211,
+        "end": 214,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 215,
+        "end": 220,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 221,
+        "end": 227,
+        "label": "WOHNORT"
       }
     ]
   },

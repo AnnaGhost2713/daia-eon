@@ -5,7 +5,7 @@
     "labels": [
       {
         "start": 48,
-        "end": 54,
+        "end": 55,
         "label": "ZAHLUNG"
       },
       {
@@ -26,7 +26,7 @@
     "labels": [
       {
         "start": 53,
-        "end": 62,
+        "end": 63,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -76,8 +76,8 @@
         "label": "DATUM"
       },
       {
-        "start": 202,
-        "end": 206,
+        "start": 199,
+        "end": 205,
         "label": "ZAHLUNG"
       },
       {
@@ -87,12 +87,12 @@
       },
       {
         "start": 273,
-        "end": 295,
+        "end": 296,
         "label": "IBAN"
       },
       {
         "start": 337,
-        "end": 359,
+        "end": 360,
         "label": "IBAN"
       },
       {
@@ -330,12 +330,12 @@
         "label": "WOHNORT"
       },
       {
-        "start": 47,
+        "start": 43,
         "end": 57,
         "label": "DATUM"
       },
       {
-        "start": 67,
+        "start": 58,
         "end": 76,
         "label": "VERTRAGSNUMMER"
       },
@@ -809,7 +809,7 @@
       },
       {
         "start": 158,
-        "end": 168,
+        "end": 169,
         "label": "DATUM"
       },
       {
@@ -1412,7 +1412,7 @@
       },
       {
         "start": 584,
-        "end": 586,
+        "end": 589,
         "label": "DATUM"
       },
       {
@@ -1585,11 +1585,6 @@
       },
       {
         "start": 333,
-        "end": 339,
-        "label": "VORNAME"
-      },
-      {
-        "start": 340,
         "end": 348,
         "label": "NACHNAME"
       },
@@ -1680,7 +1675,7 @@
         "label": "WOHNORT"
       },
       {
-        "start": 164,
+        "start": 161,
         "end": 172,
         "label": "ZÄHLERNUMMER"
       },
@@ -1707,7 +1702,7 @@
     "text": "Sehr geehrter Damen und Herren, Hiermit sende ich Ihnen die Kündigung Bestätigung. Bitte sehen Sie den Anhang dankeSent from my Galaxy\n",
     "labels": [
       {
-        "start": 115,
+        "start": 110,
         "end": 134,
         "label": "GESENDET_MIT"
       }
@@ -1929,21 +1924,6 @@
         "start": 164,
         "end": 170,
         "label": "VORNAME"
-      },
-      {
-        "start": 171,
-        "end": 177,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 177,
-        "end": 186,
-        "label": "VERTRAGSNUMMER"
-      },
-      {
-        "start": 199,
-        "end": 213,
-        "label": "ZÄHLERNUMMER"
       }
     ]
   },
@@ -1994,7 +1974,7 @@
       },
       {
         "start": 260,
-        "end": 268,
+        "end": 269,
         "label": "DATUM"
       },
       {
@@ -2276,7 +2256,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 108,
+        "start": 101,
         "end": 126,
         "label": "EMAIL"
       },
@@ -2326,7 +2306,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 654,
+        "start": 647,
         "end": 681,
         "label": "EMAIL"
       },
@@ -2336,7 +2316,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 861,
+        "start": 854,
         "end": 879,
         "label": "EMAIL"
       },
@@ -2346,7 +2326,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 1083,
+        "start": 1076,
         "end": 1101,
         "label": "EMAIL"
       },
@@ -3234,7 +3214,7 @@
     "labels": [
       {
         "start": 92,
-        "end": 101,
+        "end": 102,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -3341,7 +3321,7 @@
     "labels": [
       {
         "start": 96,
-        "end": 107,
+        "end": 108,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -3398,7 +3378,7 @@
       },
       {
         "start": 254,
-        "end": 263,
+        "end": 264,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -3449,7 +3429,7 @@
     "labels": [
       {
         "start": 196,
-        "end": 223,
+        "end": 224,
         "label": "IBAN"
       },
       {
@@ -3524,7 +3504,7 @@
         "label": "TELEFONNUMMER"
       },
       {
-        "start": 511,
+        "start": 504,
         "end": 541,
         "label": "EMAIL"
       },
@@ -3541,7 +3521,7 @@
     "labels": [
       {
         "start": 123,
-        "end": 132,
+        "end": 133,
         "label": "DATUM"
       },
       {
@@ -3719,7 +3699,7 @@
       },
       {
         "start": 250,
-        "end": 277,
+        "end": 278,
         "label": "IBAN"
       },
       {
@@ -3771,7 +3751,7 @@
     "labels": [
       {
         "start": 77,
-        "end": 86,
+        "end": 87,
         "label": "DATUM"
       },
       {
@@ -4449,12 +4429,12 @@
       },
       {
         "start": 457,
-        "end": 459,
+        "end": 461,
         "label": "ZÄHLERSTAND"
       },
       {
         "start": 478,
-        "end": 480,
+        "end": 482,
         "label": "ZÄHLERSTAND"
       },
       {
@@ -4615,7 +4595,7 @@
     "labels": [
       {
         "start": 128,
-        "end": 137,
+        "end": 138,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -4713,7 +4693,7 @@
       },
       {
         "start": 286,
-        "end": 295,
+        "end": 296,
         "label": "ZÄHLERSTAND"
       },
       {
@@ -4739,7 +4719,7 @@
       },
       {
         "start": 149,
-        "end": 158,
+        "end": 160,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -4965,16 +4945,11 @@
       },
       {
         "start": 129,
-        "end": 138,
+        "end": 139,
         "label": "VERTRAGSNUMMER"
       },
       {
         "start": 177,
-        "end": 179,
-        "label": "VORNAME"
-      },
-      {
-        "start": 179,
         "end": 187,
         "label": "NACHNAME"
       },
@@ -5021,7 +4996,7 @@
       },
       {
         "start": 206,
-        "end": 215,
+        "end": 216,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -5166,7 +5141,7 @@
     "labels": [
       {
         "start": 431,
-        "end": 440,
+        "end": 441,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -5328,7 +5303,7 @@
       },
       {
         "start": 267,
-        "end": 269,
+        "end": 270,
         "label": "TITEL"
       },
       {
@@ -5950,7 +5925,7 @@
     "labels": [
       {
         "start": 161,
-        "end": 175,
+        "end": 176,
         "label": "ZÄHLERNUMMER"
       },
       {
@@ -6068,12 +6043,12 @@
       },
       {
         "start": 184,
-        "end": 193,
+        "end": 194,
         "label": "VERTRAGSNUMMER"
       },
       {
         "start": 244,
-        "end": 258,
+        "end": 259,
         "label": "ZÄHLERNUMMER"
       },
       {
@@ -6093,7 +6068,7 @@
     "text": "Guten Tag,Vertragsnummer:409219580 Roberto Meyer Zimmerallee 8 in 79096 Hainichen. Mein Anliegen ist, da ich bis ende Oktober selten zuhause bin und kaum Strom verbrauche bitte ich ein neuen Abschlag von maximal von 20 Euro. Habe von 24.07 bis 16.08 23 gerade mal ein Verbrauch von:19 kw gehabt. MFG Roberto Meyer ( +49(0)4978 131366)\n",
     "labels": [
       {
-        "start": 25,
+        "start": 10,
         "end": 34,
         "label": "VERTRAGSNUMMER"
       },
@@ -6148,7 +6123,7 @@
         "label": "DATUM"
       },
       {
-        "start": 282,
+        "start": 278,
         "end": 284,
         "label": "ZÄHLERSTAND"
       },
