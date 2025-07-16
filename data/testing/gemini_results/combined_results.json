@@ -1,0 +1,587 @@
+[
+  {
+    "file": "0.txt",
+    "anonymized_text": "Wie angefordert der Kontoauszug. Abbuchung Euro <<ZAHLUNG>>.\nGesendet mit der <<FIRMA>> Mail App\n<<LINK>>",
+    "labels": [
+      {
+        "start": 48,
+        "end": 54,
+        "label": "ZAHLUNG"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "146.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren, \nwie besprochen sende ich Ihnen die Unterlagen zur Vertragsnummer <<VERTRAGSNUMMER>> sowie die Angebotsnummer <<VERTRAGSNUMMER>> zu. \nFür weitere Rückfragen können Sie mich gerne per Mail erreichen.\nMit freundlichen Grüßen \n<<TITEL>> <<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "142.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nin der Anlage befindet sich die Vollmacht meiner Mutter.\nBitte fügen Sie den Vertrag <<VERTRAGSNUMMER>> in Mein E.ON von <<VORNAME>> <<NACHNAME>>\nmit dem Vertrag <<VERTRAGSNUMMER>> hinzu.\n-- \nMit freundlichen Grüssen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 116,
+        "end": 126,
+        "label": "VERTRAGSNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "3.txt",
+    "anonymized_text": "Guten Tag,\nhiermit schicke ich Ihnen die noch fehlenden Angaben:\nÜbergabedatum: <<DATUM>>\nMieter: <<VORNAME>> <<NACHNAME>> (<<TELEFONNUMMER>>)\n <<VORNAME>> <<NACHNAME>> (<<TELEFONNUMMER>>)\nVermieter: <<TITEL>> <<NACHNAME>>\nZählernummer: <<ZÄHLERNUMMER>>\nZählerstand: <<ZÄHLERSTAND>>\nVielen Dank\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "145.txt",
+    "anonymized_text": "Sehr geehrte <<TITEL>> <<NACHNAME>>,\nWie bereits Telefonisch besprochen sende ich ihnen das Schreiben von\n<<FIRMA>>. Vielen Dank für ihre Hilfe.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "TITEL"
+      },
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 101,
+        "end": 109,
+        "label": "FIRMA"
+      },
+      {
+        "start": 174,
+        "end": 180,
+        "label": "NACHNAME"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "2.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nleider wurde mein Abschlag den ich für <<DATUM>> überwiesen habe für den Abschlag für Juni verrechnet.\nWie schon mindesten 10 mal von mir berichtet, habe ich den Abschlag von 148 € für Juni auf das Konto das in mein <<FIRMA>> angegeben ist überwiesen,<<IBAN>>.\nSie müssten nur den Betrag umbuchen auf <<IBAN>>.\nIch bitte Sie dies zu machen, weil ich sonst wieder eine Zahlungserinnerung für <<DATUM>> bekomme.\nMit freundichen Grüssen\n<<TITEL>> <<VORNAME>> <<NACHNAME>>\n<<EMAIL>>",
+    "labels": [
+      {
+        "start": 70,
+        "end": 76,
+        "label": "DATUM"
+      },
+      {
+        "start": 243,
+        "end": 247,
+        "label": "FIRMA"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "157.txt",
+    "anonymized_text": "Hallo,\nBitte keine Werbung an <<EMAIL>> oder <<TELEFONNUMMER>> schicken\nDanke",
+    "labels": [
+      {
+        "start": 30,
+        "end": 58,
+        "label": "EMAIL"
+      },
+      {
+        "start": 64,
+        "end": 83,
+        "label": "TELEFONNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "148.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren\nleider wurde meine <<ZÄHLERNUMMER>> immer noch nicht in Ihren Unterlagen geändert. Die <<ZÄHLERNUMMER>> lautet bereits seit <<VERTRAGSBEGINN>> 1ESY1162808638.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>\n<<POSTLEITZAHL>> <<WOHNORT>>\n<<STRASSE>> <<HAUSNUMMER>>\nTel.: <<TELEFONNUMMER>>\nFax: <<FAX>>\nHandy <<TELEFONNUMMER>>\nE-Mail: <<EMAIL>>",
+    "labels": [
+      {
+        "start": 254,
+        "end": 270,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 276,
+        "end": 292,
+        "label": "FAX"
+      },
+      {
+        "start": 299,
+        "end": 312,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 321,
+        "end": 344,
+        "label": "EMAIL"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "165.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nmit Mail vom <<DATUM>> hatte ich bezüglich der neuen Preise ab <<DATUM>> hatte ich ihnen mitgeteilt, dass ich als langjähriges Mitglied des <<FIRMA>> deren Vorteilsangebote annehme. Im Rahmen der Energieversorgung bestehen hier entsprechende Verträge.\nIch bitte um Mitteilung, ob bei dem neuen Preis zum <<DATUM>> dies berücksichtigt wurde. Sofern nicht, bitte ich um Aktualisierung des neuen Preises.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 44,
+        "end": 54,
+        "label": "DATUM"
+      },
+      {
+        "start": 95,
+        "end": 108,
+        "label": "DATUM"
+      },
+      {
+        "start": 176,
+        "end": 205,
+        "label": "FIRMA"
+      },
+      {
+        "start": 360,
+        "end": 373,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "19.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nmein Stromtarif <<FIRMA>> Klassik Strom Extra 24 läuft noch mit der Preisgarantie von 23,08 Cent netto ( 27,47 Cent brutto) bis zum <<DATUM>>.\nWelchen Tarif zu welchen Konditionen können Sie mir ab diesem Zeitpunkt anbieten?\nKann der Tarif zu gleichen Bedingungen weiter verlängert werden?\nVielen Dank!\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 47,
+        "end": 51,
+        "label": "FIRMA"
+      },
+      {
+        "start": 158,
+        "end": 168,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "20.txt",
+    "anonymized_text": "Guten Tag. \nDer nächste Abschlag ist am <<DATUM>> fällig. \nHabe das Ende Juli mit einem Kollegen am Call Center ausgemacht. \nBitte um Bearbeitung das der Betrag Ende August überwiesen wird. \nDas Konto ist ausgeglichen. \nVielen Dank. \nMit freundlichen Grüßen \nHerr <<NACHNAME>> <<NACHNAME>> \n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>",
+    "labels": [
+      {
+        "start": 40,
+        "end": 44,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "18.txt",
+    "anonymized_text": "Schönen guten Tag, \n<<VORNAME>> <<NACHNAME>>, <<DATUM>>\nIch habe gestern Ausversehen die Stromrechnung überwiesen die eigentlich per Lastschrift eingezogen wird. \nGestern habe ich mit einem aus ihrem Kundenservice telefoniert, der mir gesagt hat ich solle mich nochmal melden falls ich das Geld zurück überwiesen haben möchte, statt als Gutschrift. \nHiermit möchte ich ihnen mitteilen das ich die <<ZAHLUNG>> Euro zurück überwiesen haben möchte. \nBitte veranlassen sie dies so schnell wie möglich. \nMit freundlichen Grüßen \n<<VORNAME>> <<NACHNAME>> \n<<GESENDET_MIT>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "175.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nbitte bemerken Sie das Dokument im Anhang.\n-- \nMit freundlichen Grüßen\ndas Team | rechtliche Betreuungen <<FIRMA>>\n<<VORNAME>> <<NACHNAME>>\nRechtliche Betreuungen\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nTel. <<TELEFONNUMMER>>\nFax <<FAX>>",
+    "labels": [
+      {
+        "start": 220,
+        "end": 231,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 236,
+        "end": 248,
+        "label": "FAX"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "166.txt",
+    "anonymized_text": "Kundenummer : <<VERTRAGSNUMMER>>\nSehr geehrte Damen und Herren,\nich bitte um einen günstigeren Tarif. Ich bin schon seit einigen Jahren\nKunde bei Ihnen und die Strompreis Erhöhung im März ist mir zu teuer.\nFalls Sie mir nicht entgegen kommen können, werde ich leider kündigen\nmüssen.\nIch bedanke mich im Voraus.\nTelefonisch bin ich unter folgender Rufnummer erreichbar : <<TELEFONNUMMER>>\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 362,
+        "end": 373,
+        "label": "TELEFONNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "177.txt",
+    "anonymized_text": "Zähler Wechselprotokoll.\nVertragsnummer: <<VERTRAGSNUMMER>>\n<<VORNAME>> <<NACHNAME>>\n<<DATUM>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>",
+    "labels": [
+      {
+        "start": 41,
+        "end": 50,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 51,
+        "end": 59,
+        "label": "VORNAME"
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 65,
+        "end": 75,
+        "label": "DATUM"
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 95,
+        "end": 105,
+        "label": "WOHNORT"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "176.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nSie haben bis heute nicht auf meine E-Mail vom <<DATUM>> geantwortet. Nach wie vor befinde ich mich nicht in der Belieferung. Ich \nfinde die Situation unsäglich und fordere Sie auf, mich unverzüglich zu \nkontaktieren.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nTel.: <<TELEFONNUMMER>>",
+    "labels": [
+      {
+        "start": 335,
+        "end": 349,
+        "label": "TELEFONNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "40.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren. Ich entschuldige mich für die entstandenen Schulden und möchte hiermit eine Abwendungsvereinbarung mit ihnen treffen.\nLeider konnte ich die Summe nicht direkt zahlen da mir als allein Erziehender die Mittel dazu fehlen. Die erste Rate in Höhe von <<ZAHLUNG>> werde ich so schnell wie möglich überweisen.\nFreundliche Grüße <<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 278,
+        "end": 284,
+        "label": "ZAHLUNG"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "45.txt",
+    "anonymized_text": "Sehr geehrter Herr <<NACHNAME>>,\nanbei, wie eben besprochen, die Kontoauszüge, mit den von uns geleisteten\nAbschlägen. Ich bin mal bis zum <<DATUM>> zurückgegangen.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\n<<TELEFONNUMMER>>\n<<TELEFONNUMMER>>",
+    "labels": [
+      {
+        "start": 19,
+        "end": 26,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 134,
+        "end": 141,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "52.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nIch bitte um Löschung sämtlicher persönlicher Daten bei Ihnen, insbesondere des <<FIRMA>> Accounts, da ich nicht mehr bei Ihnen Kunde bin.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 111,
+        "end": 118,
+        "label": "FIRMA"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "34.txt",
+    "anonymized_text": "#### Order \n \nAnliegen*: Erdgas \n \nJahresverbrauch (kWh/Jahr)*: ohne Relevanz \n \nNachricht: <<VERTRAGSNUMMER>> <<VERTRAGSNUMMER>> Ihr Schreiben aus August. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist <<VERTRAGSNUMMER>> Ich erbitte Informationen und einen Vorschlag \n \nIhr Name*: <<VORNAME>> <<NACHNAME>> \n \nFirmenname*: <<FIRMA>> \n \nPLZ und Ort*: <<POSTLEITZAHL>> <<WOHNORT>> \n \nE-Mail*: <<EMAIL>> \n \n \nIch akzeptiere die unten genannte Einwilligungserklärung.* \n \n: on",
+    "labels": [
+      {
+        "start": 226,
+        "end": 237,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 332,
+        "end": 349,
+        "label": "FIRMA"
+      },
+      {
+        "start": 398,
+        "end": 417,
+        "label": "EMAIL"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "32.txt",
+    "anonymized_text": "Guten Abend liebes Beschwerde- Team,\nleider kann ich den beim Abschluss zugesicherten Bonus von 315€ immer noch nicht in den Dokumenten des oben genannten Vertrages einsehen.(siehe Anhang)\nIm stornierten Vertrag( <<VERTRAGSNUMMER>>) war dieser in den Dokumenten ersichtlich( siehe Anhang) und der neue Ersatzvertrag sollte eins zu eins die gleichen Konditionen enthalten. \nIch schrieb eine Beschwerde UND rief deswegen im Kundenservice an.\nTelefonisch wurde mir der Bonus bei meinem Anruf für den aktuellen Vertrag bestätigt. \nAuch die Kollegin, die mich auf meine Beschwerde hin am <<DATUM>> um 19Uhr anrief, bestätigte mir dies telefonisch. \nBeide sagten mir eine schriftliche Bestätigung zu. \nDie Unterlagen habe ich erhalten, allerdings ist in den Dokumenten des aktuellen Vertrag kein Bonus festgehalten! \nIch frage Sie nun, wieso mir diesen nicht einfach wie versprochen bestätigt werden kann?\nLangsam bin ich wirklich sehr genervt. Es ist für Sie wie auch für mich Vergeudung kostbarer Zeit. \nDaher bitte ich ein letztes Mal um Dokumente mit Bestätigung des Bonus von 315€ und hoffe das wir die Sache hiermit endlich ad acta legen können. \nVielen Dank und freundliche Grüße:\n<<VORNAME>> <<NACHNAME>>\nAnhang: \n1. Erster Vertrag\n2. von Ihnen abgeschlossener Ersatzvertrag\n<<GESENDET_MIT>>",
+    "labels": [
+      {
+        "start": 213,
+        "end": 222,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 574,
+        "end": 580,
+        "label": "DATUM"
+      },
+      {
+        "start": 1255,
+        "end": 1282,
+        "label": "GESENDET_MIT"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "61.txt",
+    "anonymized_text": "Vertragsnummer: <<VERTRAGSNUMMER>>\nSehr geehrte Damen und Herren,\nanbei wie telefonisch besprochen die kWh der Trocknung in unserem Haus, mit der Bitte um eine separate Rechnung.\nBeste Grüße <<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 16,
+        "end": 25,
+        "label": "VERTRAGSNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "66.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nbitte bündeln sie nachfolgende Verträge unter dem Bündelcode <<VERTRAGSNUMMER>>.\nVerträge: <<VERTRAGSNUMMER>>\n<<VERTRAGSNUMMER>>\n<<VERTRAGSNUMMER>>\n<<VERTRAGSNUMMER>>\n<<VERTRAGSNUMMER>>\nVielen Dank.\nMfg <<VORNAME>> <<NACHNAME>>\nDiese Nachricht wurde von meinem Android Mobiltelefon mit <<GESENDET_MIT>> Mail gesendet.\n<<LINK>>",
+    "labels": [
+      {
+        "start": 92,
+        "end": 101,
+        "label": "VERTRAGSNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "70.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\n\nich verstehe Ihr Schreiben leider nicht.\n\nDer genannte Vertrag ist seit <<DATUM>> beendet. In diesem Vertrag handelte es\nsich um den Allgemeinstromzähler vom <<STRASSE>> <<HAUSNUMMER>>, <<WOHNORT>>. Dieser Zähler\nhat nun die <<VERTRAGSNUMMER>>.\n\n\nMit freundlichen Grüßen\n\n<<VORNAME>> <<NACHNAME>>\n\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\n<<TELEFONNUMMER>>\n<<TELEFONNUMMER>>",
+    "labels": [
+      {
+        "start": 106,
+        "end": 113,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "71.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nIch habe für meinen Stromvertrag die Überweisung des Abschlags aus Versehen auf das falsche Konto getätigt.\nDas Konto, an welches ich überwiesen hatte, hat die IBAN <<IBAN>>. Auf dieses Konto sollte ich bei meinem letzten Betrag bei der <<FIRMA>> überweisen, jedoch hat sich die IBAN mit dem Vetragswechsel geändert und ich habe das nicht mitbekommen, da der Brief zu neuen Stromvertrag von der Post nicht zugestellt wurde.\nIm Anhang finden Sie die Zahlungsnnachweise. \nKönnen Sie diese Beträge umbuchen?\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 196,
+        "end": 223,
+        "label": "IBAN"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "73.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\n\nich fordere Sie nochmals auf den Vertragspartner gem. meinem beigefügtem\nSchreiben vom <<DATUM>> zu korrigieren und mir dieses schriftlich zu\nbestätigen.\n\nDer Rechnungsempfänger für die Verbrauchsstelle muss zwingend\n<<FIRMA>> lauten, damit wir die offenen Posten aus\nbeigefügtem Mahnung begleichen können.\n\nMit freundlichen Grüßen\n\n<<VORNAME>> <<NACHNAME>>\n- Vorstand -\n\n\n<<FIRMA>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\n\nMobil: <<TELEFONNUMMER>>\nE-Mail: <<EMAIL>>\n<<EMAIL>>",
+    "labels": [
+      {
+        "start": 252,
+        "end": 276,
+        "label": "FIRMA"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "78.txt",
+    "anonymized_text": "Guten Tag,\nim Anhang ist ein aktuelles Foto vom <<ZÄHLERSTAND>>.\nBitte um eine Anpassung Ihrer letzten Rechnung bzw Forderung und den monatlichen Abschlag, der Ihrerseits verdoppelt wurde.\n<<VERTRAGSNUMMER>>: 408307553\nFreundliche Grüße\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "57.txt",
+    "anonymized_text": "Sehr geehrte(-r) Sachbearbeiter(-in) \n \n \nzum folgenden Vertragskonto wurde über <<GESENDET_MIT>> am <<DATUM>> folgende Kundenanfrage zum Thema \"\"Sonstiges\"\" abgesendet. Bitte um Bearbeitung! \n \nALLE DATEN AUF EINEN BLICK: \n \n \nGeschäftspartner: <<VERTRAGSNUMMER>> \nVertragskonto: <<VERTRAGSNUMMER>> \nTelefonnummer für Rückfragen: \nNachricht/Anfrage:  \n„VERTRAGS NR.: <<VERTRAGSNUMMER>> \"Ihr Schreiben vom <<DATUM>> wg. <<EMAIL>>\" “ \n \n \n \nFreundliche Grüße \nIhr E.ON Kundenservice \n \n<<LINK>> \n \n<<FIRMA>> \nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: <<TITEL>> <<NACHNAME>> Geschäftsführung/Executive Board: <<TITEL>> <<NACHNAME>>  <<NACHNAME>> <<NACHNAME>> <<NACHNAME>> <<NACHNAME>> <<NACHNAME>> \nSitz: <<STRASSE>> <<HAUSNUMMER>>, <<POSTLEITZAHL>> <<WOHNORT>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "96.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nwir sind bereits online registriert und möchten zu bestehenden Verträgen\n(<<VERTRAGSNUMMER>>, <<VERTRAGSNUMMER>>, <<VERTRAGSNUMMER>>) folgende Verträge hinzufügen um online\nZugriff darauf zu haben:\n<<VERTRAGSNUMMER>>\n<<VERTRAGSNUMMER>>\nHerzliche Grüße\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 105,
+        "end": 114,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 116,
+        "end": 125,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 127,
+        "end": 136,
+        "label": "VERTRAGSNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "75.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nwie heute Morgen telefonisch angefragt, würde ich gern die Postadresse des\nKundenkontos meiner Eltern ändern.\nDiese sind umgezogen und solange das Haus leer steht, kann dort keine Post\nempfangen werden.\nVertragsnummer: <<VERTRAGSNUMMER>>\n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nneu:\n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nKontonr. bleibt identisch.\nGeburtsdatum: <<DATUM>>\nHier gibt es auch noch einen Stromvertrag, zu welchem mir die\nVertragsnummer derzeit leider nicht vorliegt. Hier müsste die Post bitte\nauch an die neue Anschrift gesendet werden.\nMein Vater liegt derzeit im Krankenhaus, weswegen ich Sie leider\nkontaktieren muss, nachdem ich gestern die sehr nasse Erdgasrechnung vor\nder alten Adresse liegend fand.\nSollten Sie noch Fragen haben, melden Sie sich gern.\nViele Grüße\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "105.txt",
+    "anonymized_text": "Im Anhang sende ich ihnen meinen Stromvertrag mit der Bitte um Bestätigung.\nBei Rückfragen erreichen sie mich unter: <<TELEFONNUMMER>>\nMit freundlichen Grüßen,\n<<VORNAME>> <<NACHNAME>>\n-- \nDiese E-Mail wurde von <<FIRMA>>-Antivirussoftware auf Viren geprüft. <<LINK>>",
+    "labels": [
+      {
+        "start": 117,
+        "end": 130,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 198,
+        "end": 208,
+        "label": "FIRMA"
+      },
+      {
+        "start": 246,
+        "end": 260,
+        "label": "LINK"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "102.txt",
+    "anonymized_text": "Hallo <<FIRMA>>,\nBitte erstatten Sie auf folgendes Konto zurück\n<<VORNAME>> <<NACHNAME>>\nIban: <<IBAN>>\nbei der <<BANK>>. \nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "FIRMA"
+      },
+      {
+        "start": 80,
+        "end": 102,
+        "label": "IBAN"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "108.txt",
+    "anonymized_text": "Sehr geehrte <<FIRMA>>,\nHiermit teile ich euch noch mal eine Kopie des Übergabeprotokolls mit zum\nAbschließen des o.g. Stromvertrags.\n*<<VERTRAGSNUMMER>>*\n*<<ZÄHLERNUMMER>>*\nIch bitte euch gerne um eine schnelle Bearbeitung der Unterlagen und\nmöglichst eine Rückmeldung.\nmit den besten Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "109.txt",
+    "anonymized_text": "Guten Tag liebes <<FIRMA>>-Team,\ndie Adresse lautet:\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nBezeichnung: Kellergeschoss\nBitte entnehmen Sie das aktuelle Bild des Stromzählers der Anlage.\nDies ist der Wert aus dem Übergabeprotokoll der Wohnung:\nZähler Nr. <<ZÄHLERNUMMER>>, <<VERTRAGSNUMMER>> Stand: <<ZÄHLERSTAND>>.\nVielen Dank im Voraus!\nIch freue mich über eine positive Rückmeldung.\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "81.txt",
+    "anonymized_text": "Betreff: Fristlose Kündigung meines Stromvertrags\nSehr geehrte Damen und Herren,\nich, <<VORNAME>>-<<NACHNAME>>, möchte hiermit meinen Stromvertrag mit Ihnen fristlos\nkündigen. Die relevanten Vertragsdaten lauten wie folgt:\nVertragskonto: <<VERTRAGSNUMMER>>\nZählernummer: <<ZÄHLERNUMMER>>\nDer Grund für diese fristlose Kündigung sind unzumutbare Vertragsänderungen,\ndie ohne meine Zustimmung vorgenommen wurden und sich erheblich nachteilig\nauf meine Interessen auswirken.\nWiederholte, nicht genehmigte Abschlagsänderungen ihrerseits, haben zu\nerheblichen Unannehmlichkeiten geführt. Trotz meiner Mitteilungen zu diesem\nProblem, habe ich bisher keine Erklärung erhalten, warum diese Änderungen\nohne meine Zustimmung erfolgt sind oder welche Maßnahmen ergriffen werden,\num eine Wiederholung auszuschliessen. Leider blieb eine zufriedenstellende\nLösung in angemessener Zeit aus. Daher sehe ich mich gezwungen, von meinem\nRecht zur fristlosen Kündigung Gebrauch zu machen.\nGemäß den Vertragsbedingungen bin ich bereit, alle ausstehenden <<ZAHLUNG>>\nbis zum heutigen <<DATUM>> zu begleichen. Ich bitte um Informationen darüber,\nwie der Vertragsabschluss und die Schlussabrechnung erfolgen werden.\nIch erwarte eine schriftliche Bestätigung dieser Kündigung sowie weitere\nInformationen bezüglich der Schlussabrechnung innerhalb von 14 Tagen ab\nErhalt dieses Schreibens.\nMit freundlichen Grüßen,\n \n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nM +49 (0) <<TELEFONNUMMER>>",
+    "labels": [
+      {
+        "start": 239,
+        "end": 248,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 1451,
+        "end": 1465,
+        "label": "TELEFONNUMMER"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "112.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nMit diesem Schreiben möchte ich Sie über meine Namensänderung aufgrund\nmeiner Hochzeit am <<DATUM>> informieren. Ab sofort heiße ich mit\nNachnamen <<NACHNAME>>. Bitte ändern Sie Ihre Datenbestände entsprechend und\nschicken mir binnen 14 Tagen eine Bestätigung zu.\nEine Kopie der Eheurkunde und des Personalausweises finden Sie im Anhang.\nMit freundlichen Grüßen,\n<<VORNAME>> <<NACHNAME>>( früher <<NACHNAME>>)",
+    "labels": [
+      {
+        "start": 179,
+        "end": 184,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 408,
+        "end": 415,
+        "label": "NACHNAME"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "115.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nich hatte am <<DATUM>> mit dem Kundensupport telefoniert und um eine Korrektur\nder Konto-Zuordnung zu meiner <<EMAIL>> gebeten:\n- <<VERTRAGSNUMMER>>, <<VORNAME>> <<NACHNAME>>: alter, beendeter Vertrag\n- <<VERTRAGSNUMMER>> und <<VERTRAGSNUMMER>>, <<VORNAME>> <<NACHNAME>>: aktueller Vertrag\nMeine <<EMAIL>> ist mit dem beendeten Konto <<VERTRAGSNUMMER>> verbunden.\nTelefonisch wurde mir mitgeteilt, dass dies auf meinen aktuellen Vertrag\n(<<VERTRAGSNUMMER>> und <<VERTRAGSNUMMER>>) geändert wird. Dies ist bisher nicht geschehen.\nBitte teilen Sie mir mit, wenn die Bearbeitung erfolgt ist.\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [
+      {
+        "start": 44,
+        "end": 50,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  },
+  {
+    "file": "132.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nhiermit wird der folgende Vertrag fristgerecht widerrufen.\nLieferstelle:\n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\n<<ZÄHLERNUMMER>>\nVertragspartner:\n<<VORNAME>> <<NACHNAME>>\n<<STRASSE>> <<HAUSNUMMER>>\n<<POSTLEITZAHL>> <<WOHNORT>>\nBitte bestätigen Sie diesen Widerruf.",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "129.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nich plane, den Energieversorger zu wechseln.\nBezüglich Ihrer Preisgarantie habe ich jedoch eine Verständnisfrage.\nSie formulieren diese wie folgt: Ausgenommen von der Preisgarantie sind \nPreisänderungen, die auf Änderungen der U-steuer sowie Preisänderungen, \ndie auf nach Vertragsabschluss während der Preisgarantie erstmals \nwirksam werdenden neuen Steuern, Abgaben oder sons\ntigen unmittelbar die Beschaffung, Erzeugung, Speicherung, Netznutzung \n(Übertragung u. Verteilung), Belieferung oder den Verbrauch von \nelektrischer Energie betreffenden Belastungen oder entsprechenden neuen \nEntlastungen beruhen.\nFrage: was bedeutet für Sie \" die Beschaffung, Erzeugung, Speicherung, \nNetznutzung\"? Ist die  von Ihnen angebotene Preisgarantie damit nicht \nerheblich eingeschränkt? Anders formuliert: Wenn sich bei der \nBeschaffung, Erzeugung, Speicherung oder Netzung die Kostenstruktur \nbelastend verändert, zieht die Preisgarantie nicht?\nM.f.G.\n<<VORNAME>> <<NACHNAME>>",
+    "labels": [],
+    "success": true
+  },
+  {
+    "file": "134.txt",
+    "anonymized_text": "Sehr geehrte Damen und Herren,\nwie in o.g. Telefonat besprochen, warten wir noch immer auf unsere Gasabrechnung.\nDen <<ZÄHLERSTAND>> hatte ich in besagtem Telefonat mitgeteilt: 10263 zum <<DATUM>>.\nIch bitte um Rechnungserstellung bis spätestens <<DATUM>>.\nVielen Dank\nMit freundlichen Grüßen\n<<VORNAME>> <<NACHNAME>>\nDiese Nachricht wurde von meinem Android Mobiltelefon mit <<GESENDET_MIT>> gesendet.",
+    "labels": [
+      {
+        "start": 183,
+        "end": 193,
+        "label": "DATUM"
+      },
+      {
+        "start": 243,
+        "end": 253,
+        "label": "DATUM"
+      }
+    ],
+    "success": true
+  }
+]
