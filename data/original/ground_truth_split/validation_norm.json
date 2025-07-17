@@ -76,67 +76,6 @@
     ]
   },
   {
-    "file": "148.txt",
-    "text": "Sehr geehrte Damen und Herren\nleider wurde meine Zählernummer immer noch nicht in Ihren Unterlagen geändert. Die Zählernummer lautet bereits seit Vertragsbeginn 1ESY1162808638.\nMit freundlichen Grüßen\nDanica Mohaupt\nD-99763 Erbisdorf\nNettestraße 1\nTel.: +49(0) 993726788\nFax: +49(0)5740 58320\nHandy (02675) 31629\nE-Mail: tomislav80@example.net\n",
-    "labels": [
-      {
-        "start": 161,
-        "end": 176,
-        "label": "ZÄHLERNUMMER"
-      },
-      {
-        "start": 201,
-        "end": 207,
-        "label": "VORNAME"
-      },
-      {
-        "start": 208,
-        "end": 215,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 216,
-        "end": 223,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 224,
-        "end": 233,
-        "label": "WOHNORT"
-      },
-      {
-        "start": 234,
-        "end": 245,
-        "label": "STRASSE"
-      },
-      {
-        "start": 246,
-        "end": 247,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 254,
-        "end": 270,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 276,
-        "end": 292,
-        "label": "FAX"
-      },
-      {
-        "start": 299,
-        "end": 312,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 321,
-        "end": 343,
-        "label": "EMAIL"
-      }
-    ]
-  },
-  {
     "file": "15.txt",
     "text": "Sehr geehrte Damen und Herren,\nhiermit lege Ich, Catharina Thies, Vertragsnummer 402157398, bei der Schlussrechnung 2022/ 2023 Wiederspruch ein.\nDie Wohnungsabnahme war am 15.05.2022, anbei das Übergabeprotokoll der Hausverwaltung. Der Abbrechnungszeitraum vom 16.05.-31.05.22 fäll somit nicht mehr in meinen Bemessungszeitraum. Anbei auch die neue Meldebescheinigung. Ich bitte hiermit um Klärung der Abrechnung.\nMit freundlichen Grüßen\nCatharina Thies\n",
     "labels": [
@@ -372,6 +311,77 @@
     ]
   },
   {
+    "file": "173.txt",
+    "text": "An das Serviceteam von Eon, \nim September 2023 habe ich am 1.9 den Abschlag überwiesen und am 26.9 haben sie nochmal den Abschlag für September eingezogen, so dass ich jetzt doppelt bezahlt habe für September.\nErstatten sie mir unverzüglich die 99,96 Euro auf mein Konto bei der Striebitz Christoph AG: DE79170269554043121865\nStriebitz Reichmann AG & Co. KG Kundennummer: 203536716/408923745\nMit freundlichen Grüßen \nDr. Camilla Wesack\n",
+    "labels": [
+      {
+        "start": 32,
+        "end": 46,
+        "label": "DATUM"
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "label": "DATUM"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "DATUM"
+      },
+      {
+        "start": 134,
+        "end": 143,
+        "label": "DATUM"
+      },
+      {
+        "start": 199,
+        "end": 208,
+        "label": "DATUM"
+      },
+      {
+        "start": 245,
+        "end": 255,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 279,
+        "end": 301,
+        "label": "BANK"
+      },
+      {
+        "start": 303,
+        "end": 325,
+        "label": "IBAN"
+      },
+      {
+        "start": 326,
+        "end": 357,
+        "label": "FIRMA"
+      },
+      {
+        "start": 372,
+        "end": 391,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 417,
+        "end": 420,
+        "label": "TITEL"
+      },
+      {
+        "start": 421,
+        "end": 428,
+        "label": "VORNAME"
+      },
+      {
+        "start": 429,
+        "end": 435,
+        "label": "NACHNAME"
+      }
+    ]
+  },
+  {
     "file": "28.txt",
     "text": "Hallo, leider kann ich mich in mein Kundenkonto nicht einloggen\nMit freundlichen Grüßen\nHannes Scheel-Bohlander\nDiese Nachricht wurde von meinem Android Mobiltelefon mit GMX Mail gesendet.\n",
     "labels": [
@@ -389,117 +399,6 @@
         "start": 112,
         "end": 188,
         "label": "GESENDET_MIT"
-      }
-    ]
-  },
-  {
-    "file": "30.txt",
-    "text": "Sehr geehrte Damen und Herren,\n \nich möchte Ihnen mitteilen, dass sich ab 01.09.2023 meine Kontonummer für\nLast-und Gutschriften an folgendem Objekt ändert:\n \nVertragsnummer: 402829008\nVerbrauchsstelle : Peukertweg 665, 80513 Eutin\nZähler: 1126100052313042\n \n \nNeue Kontonummer ab 01.09.2023 \n \nDr. Traudl Budig\nIBAN: DE85230541192884717022\nBIC: GENODEF1XYZ\nJuncken Bank\n \nMit freundlichen Grüßen und herzlichen Dank\nDr. Traudl Budig\nLorchallee 30\n37818 Miltenberg\n",
-    "labels": [
-      {
-        "start": 74,
-        "end": 84,
-        "label": "DATUM"
-      },
-      {
-        "start": 175,
-        "end": 184,
-        "label": "VERTRAGSNUMMER"
-      },
-      {
-        "start": 204,
-        "end": 214,
-        "label": "STRASSE"
-      },
-      {
-        "start": 215,
-        "end": 218,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 220,
-        "end": 225,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 226,
-        "end": 231,
-        "label": "WOHNORT"
-      },
-      {
-        "start": 240,
-        "end": 256,
-        "label": "ZÄHLERNUMMER"
-      },
-      {
-        "start": 281,
-        "end": 291,
-        "label": "DATUM"
-      },
-      {
-        "start": 295,
-        "end": 298,
-        "label": "TITEL"
-      },
-      {
-        "start": 299,
-        "end": 305,
-        "label": "VORNAME"
-      },
-      {
-        "start": 306,
-        "end": 311,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 318,
-        "end": 340,
-        "label": "IBAN"
-      },
-      {
-        "start": 346,
-        "end": 357,
-        "label": "BIC"
-      },
-      {
-        "start": 358,
-        "end": 370,
-        "label": "BANK"
-      },
-      {
-        "start": 417,
-        "end": 420,
-        "label": "TITEL"
-      },
-      {
-        "start": 421,
-        "end": 427,
-        "label": "VORNAME"
-      },
-      {
-        "start": 428,
-        "end": 433,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 434,
-        "end": 444,
-        "label": "STRASSE"
-      },
-      {
-        "start": 445,
-        "end": 447,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 448,
-        "end": 453,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 454,
-        "end": 464,
-        "label": "WOHNORT"
       }
     ]
   },
@@ -613,6 +512,127 @@
         "start": 537,
         "end": 543,
         "label": "NACHNAME"
+      }
+    ]
+  },
+  {
+    "file": "65.txt",
+    "text": "Betreuungsbüro \"Schmidtke KG\" L. Jäntsch\n_______________________________________\n24.08.2023\nBetreuungssache * Herr Jobst Oderwald 14.05.1983\n408 113 769\nSehr geehrte Damen und Herren,\nIhr Schreiben vom 17.08.2023 kann diesseits nicht nachvollzogen werden.\nZum Vertragskonto 232 671 429 363 wurde ich mit Schreiben vom 10.08.2023 darüber informiert, dass noch ein Guthaben von 132,92 € vorhanden ist. Dieses bitte ich auf obiges Vertragskonto um zu buchen und mich entsprechend darüber zu informieren.\nVielen Dank im Voraus!\n--\nMit freundlichen Grüßen\nLuzie Jäntsch\nBetreuungsbüro \"Schmidtke KG\" Luzie Jäntsch\nNeue Post 15 c\n73340 Mittweida\nTel.: +49(0)9315 41041\nFax: +49(0)9315 41043\nSicherheitshinweise:\nDiese E-Mail ist ausschließlich für den Adressaten bestimmt und kann vertraulich oder gesetzlich geschützte Informationen enthalten. Sollten Sie nicht der vorgesehene Empfänger dieser Nachricht sein, so bitten wir um eine kurze Nachricht. Jede unbefugte Weiterleitung oder Fertigung einer Kopie ist unzulässig.\nZur Erfüllung der mir durch das Betreuungsgericht im Rahmen der jeweiligen Aufgabenkreise übertragenen Befugnisse speichere ich folgende Ihrer Daten gem. Art. 13 und 14 sowie 6 Abs. 1 lit. c, d und e DSGVO: Ihre Postanschrift, Ihre Telefon- und Faxnummer, Ihr Geschäftszeichen, die Versandform sowie den Inhalt dieses Schreibens im Rahmen der gesetzl. Aufbewahrungsfristen. Sie haben gem. Art. 13 Abs. 2 lit. b und d DSGVO das Recht, die Löschung, Berechtigung und Einschränkung der Verarbeitung dieser Daten sowie das Recht weiterer Auskünfte von mir zu verlangen. Gem. Art. 13 Abs. 2 lit. d DSGVO haben Sie ein Beschwerderecht bei einer Aufsichtsbehörde.\n",
+    "labels": [
+      {
+        "start": 0,
+        "end": 29,
+        "label": "FIRMA"
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "label": "VORNAME"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "label": "DATUM"
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "label": "VORNAME"
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 130,
+        "end": 140,
+        "label": "DATUM"
+      },
+      {
+        "start": 141,
+        "end": 152,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 202,
+        "end": 212,
+        "label": "DATUM"
+      },
+      {
+        "start": 274,
+        "end": 289,
+        "label": "ZÄHLERNUMMER"
+      },
+      {
+        "start": 318,
+        "end": 328,
+        "label": "DATUM"
+      },
+      {
+        "start": 376,
+        "end": 382,
+        "label": "ZAHLUNG"
+      },
+      {
+        "start": 551,
+        "end": 556,
+        "label": "VORNAME"
+      },
+      {
+        "start": 557,
+        "end": 564,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 565,
+        "end": 594,
+        "label": "FIRMA"
+      },
+      {
+        "start": 595,
+        "end": 600,
+        "label": "VORNAME"
+      },
+      {
+        "start": 601,
+        "end": 608,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 609,
+        "end": 618,
+        "label": "STRASSE"
+      },
+      {
+        "start": 619,
+        "end": 623,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 624,
+        "end": 629,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 630,
+        "end": 639,
+        "label": "WOHNORT"
+      },
+      {
+        "start": 646,
+        "end": 662,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 668,
+        "end": 684,
+        "label": "FAX"
       }
     ]
   },

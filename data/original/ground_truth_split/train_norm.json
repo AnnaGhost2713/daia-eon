@@ -2882,6 +2882,52 @@
     ]
   },
   {
+    "file": "122.txt",
+    "text": "Sehr geehrte Damen und Herren,\ndie Betreuung ist nun unbefristet, ich bitte um Aktualisierung.\n \nMit freundlichen Grüßen\nFrau Magdalene Knappe\n \n \n \nMob: +49(0)5333316920\nFax: (05535) 682231\nWibke-Albers-Straße 567\n69604 Borken\n \nDiese E-Mail enthält vertrauliche und/oder rechtlich geschützte\nInformationen. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail\nirrtümlich erhalten haben, informieren Sie bitte sofort den Absender und\nvernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte\nWeitergabe dieser Mail ist nicht gestattet.\n",
+    "labels": [
+      {
+        "start": 126,
+        "end": 135,
+        "label": "VORNAME"
+      },
+      {
+        "start": 136,
+        "end": 142,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 154,
+        "end": 170,
+        "label": "TELEFONNUMMER"
+      },
+      {
+        "start": 176,
+        "end": 190,
+        "label": "FAX"
+      },
+      {
+        "start": 191,
+        "end": 210,
+        "label": "STRASSE"
+      },
+      {
+        "start": 211,
+        "end": 214,
+        "label": "HAUSNUMMER"
+      },
+      {
+        "start": 215,
+        "end": 220,
+        "label": "POSTLEITZAHL"
+      },
+      {
+        "start": 221,
+        "end": 227,
+        "label": "WOHNORT"
+      }
+    ]
+  },
+  {
     "file": "123.txt",
     "text": "Sehr geehrte Damen und Herren,\nwie angefordert, sende ich Ihnen die fehlenden Daten bzw. Unterlagen zu.\nVertragsnummer: 406 308 419\nAngabe zum Zeitraum, in dem der Mehrverbrauch angefallen ist: 10.07.2023\nbis 24.07.2023\nAngabe über die Höhe des Mehrverbrauchs in Kilowattstunden: 208\nKilowattstunden\nKopie des Trocknungsprotokolls: liegt bei\nBei weiteren Fragen stehe ich Ihnen gerne zur Verfügung.\nMit freundlichen Grüßen,\nAnna-Luise Röhrdanz\n",
     "labels": [
@@ -3843,128 +3889,6 @@
         "start": 458,
         "end": 465,
         "label": "NACHNAME"
-      }
-    ]
-  },
-  {
-    "file": "173.txt",
-    "text": "An das Serviceteam von Eon, \nim September 2023 habe ich am 1.9 den Abschlag überwiesen und am 26.9 haben sie nochmal den Abschlag für September eingezogen, so dass ich jetzt doppelt bezahlt habe für September.\nErstatten sie mir unverzüglich die 99,96 Euro auf mein Konto bei der Striebitz Christoph AG: DE79170269554043121865\nStriebitz Reichmann AG & Co. KG Kundennummer: 203536716/408923745\nMit freundlichen Grüßen \nDr. Camilla Wesack\n",
-    "labels": [
-      {
-        "start": 32,
-        "end": 46,
-        "label": "DATUM"
-      },
-      {
-        "start": 59,
-        "end": 62,
-        "label": "DATUM"
-      },
-      {
-        "start": 94,
-        "end": 98,
-        "label": "DATUM"
-      },
-      {
-        "start": 134,
-        "end": 143,
-        "label": "DATUM"
-      },
-      {
-        "start": 199,
-        "end": 208,
-        "label": "DATUM"
-      },
-      {
-        "start": 245,
-        "end": 255,
-        "label": "ZAHLUNG"
-      },
-      {
-        "start": 279,
-        "end": 301,
-        "label": "BANK"
-      },
-      {
-        "start": 303,
-        "end": 325,
-        "label": "IBAN"
-      },
-      {
-        "start": 326,
-        "end": 357,
-        "label": "FIRMA"
-      },
-      {
-        "start": 372,
-        "end": 391,
-        "label": "VERTRAGSNUMMER"
-      },
-      {
-        "start": 417,
-        "end": 420,
-        "label": "TITEL"
-      },
-      {
-        "start": 421,
-        "end": 428,
-        "label": "VORNAME"
-      },
-      {
-        "start": 429,
-        "end": 435,
-        "label": "NACHNAME"
-      }
-    ]
-  },
-  {
-    "file": "175.txt",
-    "text": "Sehr geehrte Damen und Herren,\nbitte bemerken Sie das Dokument im Anhang.\n-- \nMit freundlichen Grüßen\ndas Team | rechtliche Betreuungen Drubin\nAnita Schenk\nRechtliche Betreuungen\nNiko-Pölitz-Straße 3\n50225 Rottweil\nTel. 09814526041\nFax 09814526043\n",
-    "labels": [
-      {
-        "start": 102,
-        "end": 142,
-        "label": "FIRMA"
-      },
-      {
-        "start": 143,
-        "end": 148,
-        "label": "VORNAME"
-      },
-      {
-        "start": 149,
-        "end": 155,
-        "label": "NACHNAME"
-      },
-      {
-        "start": 179,
-        "end": 197,
-        "label": "STRASSE"
-      },
-      {
-        "start": 198,
-        "end": 199,
-        "label": "HAUSNUMMER"
-      },
-      {
-        "start": 200,
-        "end": 205,
-        "label": "POSTLEITZAHL"
-      },
-      {
-        "start": 206,
-        "end": 214,
-        "label": "WOHNORT"
-      },
-      {
-        "start": 220,
-        "end": 231,
-        "label": "TELEFONNUMMER"
-      },
-      {
-        "start": 236,
-        "end": 247,
-        "label": "FAX"
       }
     ]
   },
