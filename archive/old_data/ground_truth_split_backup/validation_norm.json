@@ -418,7 +418,7 @@
       },
       {
         "start": 260,
-        "end": 269,
+        "end": 268,
         "label": "DATUM"
       },
       {
@@ -693,7 +693,7 @@
     "labels": [
       {
         "start": 96,
-        "end": 108,
+        "end": 107,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -910,12 +910,12 @@
       },
       {
         "start": 457,
-        "end": 461,
+        "end": 459,
         "label": "ZÄHLERSTAND"
       },
       {
         "start": 478,
-        "end": 482,
+        "end": 480,
         "label": "ZÄHLERSTAND"
       },
       {
@@ -936,7 +936,7 @@
     "labels": [
       {
         "start": 128,
-        "end": 138,
+        "end": 137,
         "label": "VERTRAGSNUMMER"
       },
       {

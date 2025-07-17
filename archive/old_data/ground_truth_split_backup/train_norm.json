@@ -5,7 +5,7 @@
     "labels": [
       {
         "start": 53,
-        "end": 63,
+        "end": 62,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -101,12 +101,12 @@
         "label": "WOHNORT"
       },
       {
-        "start": 43,
+        "start": 47,
         "end": 57,
         "label": "DATUM"
       },
       {
-        "start": 58,
+        "start": 67,
         "end": 76,
         "label": "VERTRAGSNUMMER"
       },
@@ -942,6 +942,11 @@
       },
       {
         "start": 333,
+        "end": 339,
+        "label": "VORNAME"
+      },
+      {
+        "start": 340,
         "end": 348,
         "label": "NACHNAME"
       },
@@ -1032,7 +1037,7 @@
         "label": "WOHNORT"
       },
       {
-        "start": 161,
+        "start": 164,
         "end": 172,
         "label": "ZÄHLERNUMMER"
       },
@@ -1059,7 +1064,7 @@
     "text": "Sehr geehrter Damen und Herren, Hiermit sende ich Ihnen die Kündigung Bestätigung. Bitte sehen Sie den Anhang dankeSent from my Galaxy\n",
     "labels": [
       {
-        "start": 110,
+        "start": 115,
         "end": 134,
         "label": "GESENDET_MIT"
       }
@@ -1260,6 +1265,21 @@
         "start": 164,
         "end": 170,
         "label": "VORNAME"
+      },
+      {
+        "start": 171,
+        "end": 177,
+        "label": "NACHNAME"
+      },
+      {
+        "start": 177,
+        "end": 186,
+        "label": "VERTRAGSNUMMER"
+      },
+      {
+        "start": 199,
+        "end": 213,
+        "label": "ZÄHLERNUMMER"
       }
     ]
   },
@@ -1484,7 +1504,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 101,
+        "start": 108,
         "end": 126,
         "label": "EMAIL"
       },
@@ -1534,7 +1554,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 647,
+        "start": 654,
         "end": 681,
         "label": "EMAIL"
       },
@@ -1544,7 +1564,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 854,
+        "start": 861,
         "end": 879,
         "label": "EMAIL"
       },
@@ -1554,7 +1574,7 @@
         "label": "EMAIL"
       },
       {
-        "start": 1076,
+        "start": 1083,
         "end": 1101,
         "label": "EMAIL"
       },
@@ -2047,7 +2067,7 @@
     "labels": [
       {
         "start": 123,
-        "end": 133,
+        "end": 132,
         "label": "DATUM"
       },
       {
@@ -2139,7 +2159,7 @@
       },
       {
         "start": 250,
-        "end": 278,
+        "end": 277,
         "label": "IBAN"
       },
       {
@@ -2170,7 +2190,7 @@
     "labels": [
       {
         "start": 77,
-        "end": 87,
+        "end": 86,
         "label": "DATUM"
       },
       {
@@ -2670,7 +2690,7 @@
       },
       {
         "start": 149,
-        "end": 160,
+        "end": 158,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -2794,11 +2814,16 @@
       },
       {
         "start": 129,
-        "end": 139,
+        "end": 138,
         "label": "VERTRAGSNUMMER"
       },
       {
         "start": 177,
+        "end": 179,
+        "label": "VORNAME"
+      },
+      {
+        "start": 179,
         "end": 187,
         "label": "NACHNAME"
       },
@@ -2845,7 +2870,7 @@
       },
       {
         "start": 206,
-        "end": 216,
+        "end": 215,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -2969,7 +2994,7 @@
     "labels": [
       {
         "start": 431,
-        "end": 441,
+        "end": 440,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -3045,7 +3070,7 @@
       },
       {
         "start": 267,
-        "end": 270,
+        "end": 269,
         "label": "TITEL"
       },
       {
@@ -3508,12 +3533,12 @@
       },
       {
         "start": 184,
-        "end": 194,
+        "end": 193,
         "label": "VERTRAGSNUMMER"
       },
       {
         "start": 244,
-        "end": 259,
+        "end": 258,
         "label": "ZÄHLERNUMMER"
       },
       {
@@ -3533,7 +3558,7 @@
     "text": "Guten Tag,Vertragsnummer:409219580 Roberto Meyer Zimmerallee 8 in 79096 Hainichen. Mein Anliegen ist, da ich bis ende Oktober selten zuhause bin und kaum Strom verbrauche bitte ich ein neuen Abschlag von maximal von 20 Euro. Habe von 24.07 bis 16.08 23 gerade mal ein Verbrauch von:19 kw gehabt. MFG Roberto Meyer ( +49(0)4978 131366)\n",
     "labels": [
       {
-        "start": 10,
+        "start": 25,
         "end": 34,
         "label": "VERTRAGSNUMMER"
       },
@@ -3588,7 +3613,7 @@
         "label": "DATUM"
       },
       {
-        "start": 278,
+        "start": 282,
         "end": 284,
         "label": "ZÄHLERSTAND"
       },

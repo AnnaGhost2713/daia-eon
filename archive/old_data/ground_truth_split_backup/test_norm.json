@@ -5,7 +5,7 @@
     "labels": [
       {
         "start": 48,
-        "end": 55,
+        "end": 54,
         "label": "ZAHLUNG"
       },
       {
@@ -71,8 +71,8 @@
         "label": "DATUM"
       },
       {
-        "start": 199,
-        "end": 205,
+        "start": 202,
+        "end": 206,
         "label": "ZAHLUNG"
       },
       {
@@ -82,12 +82,12 @@
       },
       {
         "start": 273,
-        "end": 296,
+        "end": 295,
         "label": "IBAN"
       },
       {
         "start": 337,
-        "end": 360,
+        "end": 359,
         "label": "IBAN"
       },
       {
@@ -251,7 +251,7 @@
     "labels": [
       {
         "start": 161,
-        "end": 176,
+        "end": 175,
         "label": "ZÄHLERNUMMER"
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "start": 158,
-        "end": 169,
+        "end": 168,
         "label": "DATUM"
       },
       {
@@ -676,7 +676,7 @@
       },
       {
         "start": 584,
-        "end": 589,
+        "end": 586,
         "label": "DATUM"
       },
       {
@@ -1058,7 +1058,7 @@
     "labels": [
       {
         "start": 92,
-        "end": 102,
+        "end": 101,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -1134,7 +1134,7 @@
       },
       {
         "start": 254,
-        "end": 264,
+        "end": 263,
         "label": "VERTRAGSNUMMER"
       },
       {
@@ -1185,7 +1185,7 @@
     "labels": [
       {
         "start": 196,
-        "end": 224,
+        "end": 223,
         "label": "IBAN"
       },
       {
@@ -1260,7 +1260,7 @@
         "label": "TELEFONNUMMER"
       },
       {
-        "start": 504,
+        "start": 511,
         "end": 541,
         "label": "EMAIL"
       },
@@ -1599,7 +1599,7 @@
       },
       {
         "start": 286,
-        "end": 296,
+        "end": 295,
         "label": "ZÄHLERSTAND"
       },
       {
