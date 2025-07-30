@@ -798,40 +798,20 @@
 
     ],
     "entity_ruler":[
-      "BIC",
-      "EMAIL",
-      "IBAN",
-      "LINK",
-      "TELEFON",
-      "ZAHLUNG",
-      "Z\u00c4HLERSTAND"
-    ],
-    "ner":[
-      "BANK",
-      "BIC",
       "DATUM",
       "EMAIL",
-      "FAX",
-      "FIRMA",
-      "GESENDET_MIT",
-      "HAUSNUMMER",
-      "IBAN",
+      "KUNDENNUMMER",
       "LINK",
+      "STRASSE",
+      "TELEFON",
+      "VERTRAGSNUMMER",
+      "ZAHLUNG"
+    ],
+    "ner":[
       "LOC",
       "MISC",
-      "NACHNAME",
       "ORG",
-      "PER",
-      "POSTLEITZAHL",
-      "STRASSE",
-      "TELEFONNUMMER",
-      "TITEL",
-      "VERTRAGSNUMMER",
-      "VORNAME",
-      "WOHNORT",
-      "ZAHLUNG",
-      "Z\u00c4HLERNUMMER",
-      "Z\u00c4HLERSTAND"
+      "PER"
     ]
   },
   "pipeline":[
