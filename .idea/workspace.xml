@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a82700d6-d85e-4c86-bad3-c92a8f1e5900" name="Changes" comment="Deletion of olf test jsons">
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testing/gemini_results/combined_results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation_new.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ThisIsWallE&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnnaGhost2713/daia-eon.git&quot;,
+    &quot;accountId&quot;: &quot;ef3bd4c9-35e7-421c-97c4-ae4d308eda8a&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="308rBfiNyclvD3OPBfL7q9jBYg5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.analysis.executor": "Run",
+    "Python.anonymization_metrics.executor": "Run",
+    "Python.gemini_anonymizer.executor": "Run",
+    "Python.gemini_anonymizer_spans.executor": "Run",
+    "Python.gemini_evaluation.executor": "Run",
+    "Python.llm_anonymizer_new.executor": "Run",
+    "Python.llm_evaluation_new.executor": "Run",
+    "Python.spans_evaluation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nicolashecker/PycharmProjects/DAiA/V1/daia-eon/notebooks/3_model_training_and_testing/gemini_oneshot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline" />
+      <recent name="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/spans" />
+      <recent name="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.llm_evaluation_new">
+    <configuration name="anonymization_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="daia-eon" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/spans/anonymization_metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gemini_anonymizer_spans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="daia-eon" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/spans/gemini_anonymizer_spans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="llm_anonymizer_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="daia-eon" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_anonymizer_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="llm_evaluation_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="daia-eon" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spans_evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="daia-eon" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/spans/spans_evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.llm_evaluation_new" />
+        <item itemvalue="Python.llm_anonymizer_new" />
+        <item itemvalue="Python.gemini_anonymizer_spans" />
+        <item itemvalue="Python.spans_evaluation" />
+        <item itemvalue="Python.anonymization_metrics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Gemini Pipeline">
+      <option name="closed" value="true" />
+      <created>1752615898787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752615898787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Frischer Dataset Split, Gemini Pipeline etc">
+      <option name="closed" value="true" />
+      <created>1752768996669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752768996669</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a82700d6-d85e-4c86-bad3-c92a8f1e5900" name="Changes" comment="Frischer Dataset Split, Gemini Pipeline etc" />
+      <created>1753019907802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753019907802</updated>
+      <workItem from="1753019909675" duration="133000" />
+      <workItem from="1753827200879" duration="31461000" />
+    </task>
+    <task id="LOCAL-00003" summary="Documentation &amp; Archived old Gemini Pipeline">
+      <option name="closed" value="true" />
+      <created>1754051391863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754051391863</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Gemini Pipeline">
+      <option name="closed" value="true" />
+      <created>1754051433541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754051433541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Deletion of olf test jsons">
+      <option name="closed" value="true" />
+      <created>1754051505515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754051505515</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gemini Pipeline" />
+    <MESSAGE value="Frischer Dataset Split, Gemini Pipeline etc" />
+    <MESSAGE value="Documentation &amp; Archived old Gemini Pipeline" />
+    <MESSAGE value="New Gemini Pipeline" />
+    <MESSAGE value="Deletion of olf test jsons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deletion of olf test jsons" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/daia_eon$gemini_anonymizer.coverage" NAME="gemini_anonymizer Coverage Results" MODIFIED="1753912475101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$spans_evaluation.coverage" NAME="spans_evaluation Coverage Results" MODIFIED="1753961109337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1753954968000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$anonymization_metrics.coverage" NAME="anonymization_metrics Coverage Results" MODIFIED="1753959513156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$llm_evaluation_new.coverage" NAME="llm_evaluation_new Coverage Results" MODIFIED="1754051876046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$gemini_evaluation.coverage" NAME="gemini_evaluation Coverage Results" MODIFIED="1753953872466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$gemini_anonymizer_spans.coverage" NAME="gemini_anonymizer_spans Coverage Results" MODIFIED="1753962081123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+    <SUITE FILE_PATH="coverage/daia_eon$llm_anonymizer_new.coverage" NAME="llm_anonymizer_new Coverage Results" MODIFIED="1753965434721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
+  </component>
+</project>
