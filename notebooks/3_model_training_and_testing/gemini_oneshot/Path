@@ -1,0 +1,12 @@
+For Anonymization
+
+input_path = "../../../data/original/ground_truth_split/test_norm.json"
+    output_dir = "../../../data/testing/gemini_results_2.5"
+    model_name = "gemini-2.5-flash"
+    max_workers = 5
+
+For evaluation
+
+ground_truth_path = "../../../data/original/ground_truth_split/test_norm.json"
+    gemini_path = "../../../data/testing/gemini_results_2.5/combined_results.json"
+    output_path = "../../../data/testing/gemini_results_2.5/evaluation_results_2.5.json"
