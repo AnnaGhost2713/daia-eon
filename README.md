@@ -34,6 +34,7 @@ This project was developed in collaboration with **E.ON** as part of the univers
 
 ## 📂 Repository Structure
 
+```bash
 ├── archive
 │   ├── backup
 │   ├── old_data
@@ -53,6 +54,7 @@ This project was developed in collaboration with **E.ON** as part of the univers
 ├── requirements.txt
 └── src
     └── __init__.py
+```
 
 ---
 
@@ -117,7 +119,7 @@ You can run the notebooks directly with:
 
 ```bash
 jupyter notebook <path-to-notebook>
-
+```
 ---
 
 ## 👥 Team & Credits
