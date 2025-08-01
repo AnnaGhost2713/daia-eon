@@ -9,7 +9,7 @@ This project explores automated anonymization of German customer communication d
 
 ## 📘 Project Description
 
-Sensitive customer data in emails (e.g., names, addresses, meter numbers) must be anonymized for analysis, training, and sharing. However, building performant anonymization models requires large amounts of annotated data—data that is often unavailable due to privacy constraints.
+Sensitive customer data in emails (e.g., names, addresses, meter numbers) must be anonymized for analysis, training, and sharing. However, building performant anonymization models requires large amounts of annotated data, data that is often unavailable due to privacy constraints.
 
 **DAIA-EON** tackles this challenge through:
 - High-quality **synthetic data generation** using paraphrasing and realistic entity injection.
