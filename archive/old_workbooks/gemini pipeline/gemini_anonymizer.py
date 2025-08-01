@@ -380,7 +380,7 @@ def main():
 
     # 2) Hard-coded paths and settings (edit as needed)
     input_path = "../../../data/original/ground_truth_split/test_norm.json"
-    output_dir = "../../../data/testing/gemini_results_2.5"
+    output_dir = "../../../data/testing_gemini_mode/gemini_results_2.5"
     model_name = "gemini-2.5-flash"
     max_workers = 5
 

@@ -33,7 +33,7 @@ This project was developed in collaboration with **E.ON** as part of the univers
 │   ├── golden_dataset_anonymized
 │   ├── original
 │   ├── synthetic
-│   └── testing
+│   └── testing_gemini_mode
 ├── notebooks
 │   ├── 1_data_preparation
 │   ├── 2_synthetic_data_generation

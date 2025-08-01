@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 
 # === hardcoded paths & settings ===
 INPUT_JSON = "../../../data/original/ground_truth_split/test_norm.json"
-OUTPUT_DIR = "../../../data/testing/gemini_results"
+OUTPUT_DIR = "../../../data/testing_gemini_mode/gemini_results"
 OUTPUT_FILE_NAME = "llm_span_results.json"
 MODEL_NAME = "gemini-2.5-flash"
 MAX_WORKERS = 5

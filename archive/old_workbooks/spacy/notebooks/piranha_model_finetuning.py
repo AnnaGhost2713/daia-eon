@@ -74,7 +74,7 @@ eval_dataset = eval_dataset.map(tokenize_and_align_labels, batched=True)
 
 # Trainingsargumente
 training_args = TrainingArguments(
-    output_dir="./piranha_model",
+    output_dir="../../piranha_model",
     evaluation_strategy="epoch",
     save_strategy="epoch",
     num_train_epochs=5,

@@ -5,10 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a82700d6-d85e-4c86-bad3-c92a8f1e5900" name="Changes" comment="Deletion of olf test jsons">
+      <change beforePath="$PROJECT_DIR$/.idea/daia-eon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/daia-eon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/01_load_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/01_load_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/Creating_synthetic_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/Creating_synthetic_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/TESTING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/TESTING.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/email_anonymizer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymization_pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymization_pipeline.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymizer_spans.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_anonymizer_spans.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline/gemini_evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testing/gemini_results/combined_results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/generate_piranha_training_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/generate_piranha_training_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/jsonl_to_spacy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/jsonl_to_spacy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/piranha_finetuning_preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/piranha_finetuning_preparation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/piranha_model_finetuning.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/piranha_model_finetuning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/separating_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/separating_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/separating_data_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/separating_data_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/email_anonymizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/email_anonymizer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/test_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/test_file.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/old_workbooks/trains_piranha.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/trains_piranha.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testing/gemini_results/anonymized_text_results/combined_results_1.5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/testing_gemini_mode/gemini_results/anonymized_text_results/combined_results_1.5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testing/gemini_results/anonymized_text_results/combined_results_2.5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/testing_gemini_mode/gemini_results/anonymized_text_results/combined_results_2.5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1_data_preparation/anonymization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/anonymization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1_data_preparation/anonymized_output.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/data/anonymized_output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1_data_preparation/golden_dataset_with_replacements.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/data/golden_dataset_with_replacements.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1_data_preparation/spacy_preparation/generate_new_json_for training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks/generate_new_json_for training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/1_data_preparation/spacy_preparation/spacy_training_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/spacy/data/spacy_training_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/2_synthetic_data_generation/02_a_fill_with_faker.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/2_synthetic_data_generation/02_a_fill_with_faker.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_anonymization_pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_anonymization_pipeline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/llm_evaluation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/piiranha/old/02_piiranha_anonymization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/piiranha/notebooks/02_piiranha_anonymization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/piiranha/old/evaluate_finetuned_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/archive/old_workbooks/piiranha/notebooks/evaluate_finetuned_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/spacy_pipeline/regex_spacy_piiranha.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/3_model_training_and_testing/spacy_pipeline/regex_spacy_piiranha.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,38 +79,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.analysis.executor": "Run",
-    "Python.anonymization_metrics.executor": "Run",
-    "Python.gemini_anonymizer.executor": "Run",
-    "Python.gemini_anonymizer_spans.executor": "Run",
-    "Python.gemini_evaluation.executor": "Run",
-    "Python.llm_anonymizer_new.executor": "Run",
-    "Python.llm_evaluation_new.executor": "Run",
-    "Python.spans_evaluation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/nicolashecker/PycharmProjects/DAiA/V1/daia-eon/notebooks/3_model_training_and_testing/gemini_oneshot",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anonymization_metrics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gemini_anonymizer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gemini_anonymizer_spans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gemini_evaluation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.llm_anonymizer_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.llm_evaluation_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spans_evaluation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nicolashecker/PycharmProjects/DAiA/V1/daia-eon/notebooks/3_model_training_and_testing/gemini_oneshot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/archive/old_workbooks/piiranha/notebooks" />
+      <recent name="$PROJECT_DIR$/archive/old_workbooks/spacy/data" />
+      <recent name="$PROJECT_DIR$/archive/old_workbooks/spacy/notebooks" />
+      <recent name="$PROJECT_DIR$/archive/old_workbooks" />
       <recent name="$PROJECT_DIR$/archive/old_workbooks/gemini pipeline" />
-      <recent name="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot/spans" />
-      <recent name="$PROJECT_DIR$/notebooks/3_model_training_and_testing/gemini_oneshot" />
-      <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
   <component name="RunManager" selected="Python.llm_evaluation_new">

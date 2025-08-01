@@ -8,7 +8,7 @@ import numpy as np
 from seqeval.metrics import accuracy_score, precision_score, recall_score, f1_score
 
 # === 1. Lade Modell und Tokenizer ===
-model_path = "../../../../archive/old_workbooks/piranha_model"
+model_path = "../../piranha_model"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForTokenClassification.from_pretrained(model_path)
 
