@@ -21,17 +21,6 @@ This project was developed in collaboration with **E.ON** as part of the univers
 
 ---
 
-## 🗂️ Table of Contents
-
-- [Project Description](#project-description)
-- [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Team & Credits](#team--credits)
-- [License](#license)
-
----
-
 ## 📂 Repository Structure
 
 ```bash
