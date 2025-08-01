@@ -209,6 +209,6 @@ def main(gt_json_path: str, anonymized_json_path: str):
 
 if __name__ == "__main__":
     # === hardcode your paths here ===
-    gt_path = "../../../data/original/ground_truth_split/test_norm.json"
-    anon_path = "../../../data/testing/gemini_results/anonymized_text_results/combined_results_1.5.json"
-    main(gt_path, anon_path)
+    ground_truth_path = "../../../data/original/ground_truth_split/test_norm.json"
+    anonymized_results_path = "../../../data/testing/gemini_results/anonymized_text_results/combined_results_1.5.json"
+    main(ground_truth_path, anonymized_results_path)

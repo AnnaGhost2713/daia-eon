@@ -646,7 +646,7 @@ def analyze_anonymization_quality(results_file: str, sample_size: int = 10):
 
 if __name__ == "__main__":
     # Example usage
-    results_file = "../../../data/testing/gemini_results_2.5/combined_results.json"
+    results_file = "../../../data/testing/gemini_results_2.5/combined_results_2.5.json"
     ground_truth_file = "../../../data/original/ground_truth_split/test_norm.json"
 
     # Analyze quality first

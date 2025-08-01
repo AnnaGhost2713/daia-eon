@@ -401,7 +401,7 @@ def main():
         return 1
 
     # 6) Write a single combined JSON
-    combined_file = Path(output_dir) / "combined_results.json"
+    combined_file = Path(output_dir) / "combined_results_2.5.json"
     with combined_file.open("w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     logger.info(f"Wrote combined results ({len(results)} entries) to {combined_file}")
