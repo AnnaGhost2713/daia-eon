@@ -246,7 +246,7 @@ class GeminiAnonymizer:
         'EMAIL', 'ZÄHLERSTAND', 'LINK', 'IBAN', 'BANK', 'BIC', 'FAX'
     ]
 
-    def __init__(self, api_key: str, model_name: str = "gemini-1.5-flash"):
+    def __init__(self, api_key: str, model_name: str = "gemini-2.5-flash"):
         genai.configure(api_key=api_key)
         # Force low temperature for determinism if supported; fall back gracefully
         try:
@@ -370,6 +370,7 @@ class GeminiAnonymizer:
 
 def main():
     # 1) Load API key (prompt if needed)
+    print("Start Gemini Anonymization Process")
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         api_key = getpass.getpass("Enter your Gemini API key: ")
@@ -379,8 +380,8 @@ def main():
 
     # 2) Hard-coded paths and settings (edit as needed)
     input_path = "../../../data/original/ground_truth_split/test_norm.json"
-    output_dir = "../../../data/testing/gemini_results"
-    model_name = "gemini-1.5-flash"
+    output_dir = "../../../data/testing/gemini_results_2.5"
+    model_name = "gemini-2.5-flash"
     max_workers = 5
 
     # 3) Ensure output directory exists
