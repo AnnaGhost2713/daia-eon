@@ -1,166 +1,140 @@
-# daia-eon
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![Status](https://img.shields.io/badge/status-research-brightgreen)
 
-# NLP Methods for CCM (Customer Contact Management)
+# 🛡️ DAIA-EON: Privacy-Preserving Anonymization of German Energy-Retail Customer Emails: A PII Detection and Synthetic Data Augmentation Framework
 
-Congratulations on joining a tremendous learning experiment, and thank you for choosing the E.ON Track! We're glad to invite you into the World of Digital Energy Solutions!
+This project explores automated anonymization of German customer communication data through Named Entity Recognition (NER). It combines synthetic data generation, fine-tuned language models, and comprehensive evaluation metrics to build a robust and privacy-compliant anonymization pipeline.
 
-Take your seats and fasten the belts. We are starting... 3 -> 2 -> 1!
+---
 
-# Challenges for E.ON
+## 📘 Project Description
 
-The data protection law in Germany (DSGVO) states that data containing personally identifiable information (PII) cannot be stored for more than 90 days. In addition, upon customer requests, the data of the customer and everything related to it has to be deleted. This includes data that has been used to train models, the models themselves, the data used for training, and data used for benchmarking performance.
-Due to the strict regulations, E.ON faces different challenges. One of them is that models that used data containing PII as training data have to be deleted upon request from the customer, which forces us to retrain our models. Furthermore, data that we use as benchmarks for our models cannot be preserved for more than 90 days.
+Sensitive customer data in emails (e.g., names, addresses, meter numbers) must be anonymized for analysis, training, and sharing. However, building performant anonymization models requires large amounts of annotated data—data that is often unavailable due to privacy constraints.
 
-To utilize the data in a more consistent way and to avoid DSGVO violations, data anonymizing techniques are used.
-This includes identifying PII to anonymize (names, telephone numbers, emails, etc.) and replacing the identified PII with random information using frameworks like Faker, LLMs, or similar.
+**DAIA-EON** tackles this challenge through:
+- High-quality **synthetic data generation** using paraphrasing and realistic entity injection.
+- Evaluation against a **manually annotated gold standard**.
+- Training and comparison of **NER models** (Piiranha, spaCy, Gemini).
+- Support for **granular entity categories** (e.g., contract number, payment, IBAN).
 
-## What classifies as PII?
+This project was developed in collaboration with **E.ON** as part of the university course **Data Analytics in Applications**.
 
-The data that we want to anonymize is everything that can be used to identify a person. A list of some information that needs to be anonymized is provided:
+---
 
-- Given name
-- Last name
-- Address
-- City
-- Contract numbers
-- Payments
-- Energy consumption
-- etc.
+## 🗂️ Table of Contents
 
-If you are not sure, think about the following scenario:
-You are a customer at E.ON and sent E.ON an email about some payment-related topic, which could look like this:
+- [Project Description](#project-description)
+- [Repository Structure](#repository-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Team & Credits](#team--credits)
+- [License](#license)
 
+---
+
+## 📂 Repository Structure
+
+├── archive
+│   ├── backup
+│   ├── old_data
+│   └── old_workbooks
+├── data
+│   ├── excel_manual_labeling
+│   ├── golden_dataset_anonymized
+│   ├── original
+│   ├── synthetic
+│   └── testing
+├── notebooks
+│   ├── 1_data_preparation
+│   ├── 2_synthetic_data_generation
+│   ├── 3_model_training_and_testing
+│   └── data
+├── README.md
+├── requirements.txt
+└── src
+    └── __init__.py
+
+---
+
+## 🛠️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AnnaGhost2713/daia-eon.git
+cd daia-eon
 ```
-Hi E.ON Team,
-I just got an invoice of 130.5€ for the previous month, but I usually pay 10€.
-As a student living on my own, I do not consume that much electricity. I think there is something wrong.
-Can you please check my contract with the contract number 98746515?
-Thank you.
 
-Regards,
-Max Mustermann
-
+### 2. (Recommended) Create and activate a virtual environment
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
-If someone were to summarize the information provided in the email to you like this:
-
-```
-The Customer:
-  - Is from Munich
-  - He is a student
-  - He is living on his own
-  - His name is Max Mustermann
-  - He has a monthly payment of 10€
-  - For June he paid 130.5€
-  - His contract number is 98746515
-
+### 3. Install project dependencies
+```bash
+pip install -r requirements.txt
 ```
 
-What information would you need to anonymize to not identify yourself?
-You surely would need to anonymize your name, the city you live in, the contract number, and the payments.
-The information on your living situation and your occupation (student) could be a giveaway but are also very hard to anonymize.
+---
 
-As you can see, PII is not defined super precisely, but is basically everything that helps to identify a person. Some information is more obvious (like name, address, contract numbers, etc.) and some are more ambiguous.
-Try to find a good trade-off.
+## 🚀 Usage
 
-# Data Sheet
+This project is divided into three main stages:
 
-The dataset originally comprised 181 anonymized customer emails. Some of the emails are removed due to entailed factual information which cannot be disclosed, with 161 emails left.
+### 1. Data Preparation
 
-Every email is placed into a separate text file without any formatting. All files reside under `2025-04-15-golden-dataset`.
+Located in `notebooks/1_data_preparation`, this stage:
 
-The preparation of the masked dataset is part of the task, the anonymized dataset will contain same emails as the emails in the golden dataset but with the masked PII. This dataset should be used to calculate different metrics.
+- Prepares and aligns the golden dataset.
+- Splits it into training and test sets.
+- Outputs span-based JSON for NER training.
 
-All emails are in German and depict real customer conversations with E.ON Energie Deutschland GmbH.
+### 2. Synthetic Data Generation
 
-The data was anonymized manually and replaced with corresponding placeholders.
+Located in `notebooks/2_synthetic_data_generation`, this stage:
 
-# Use Cases
+- Creates labeled synthetic emails using two approaches:
+  - **option_a**: Paraphrased templates with Faker entity injection.
+  - **option_b**: Balanced sampling based on entity label frequency.
+- Evaluates data quality using:
+  - Perplexity
+  - BERTScore
+  - kNN classification
+  - Downstream NER F1
 
-The challenge is built around one main NLP task: PII identification for text data.
-Either as an addition or as an alternative (depending on the level), the emails provided should be used to generate synthetic emails, which can be used to train a model. The data should therefore be as similar to the original dataset as possible.
-For the synthetic data generation, you can make use of Python libraries like [Faker](https://pypi.org/project/Faker/) or similar.
+### 3. Model Training & Testing
 
-The goal is to create a pipeline to identify PII in emails. Thereby E.ON can utilize the emails for, e.g., training and benchmarking models.
+Located in `notebooks/3_model_training_and_testing`, this stage:
 
-Complexity levels:
+- Fine-tunes and evaluates models (e.g., Piiranha, spaCy, Gemini).
+- Compares model performance on golden and synthetic test sets.
 
-- Level 0:
-a) Create an LLM-based (e.g., Llama 3.3) setup to anonymize the provided emails using the open-source [Piiranha model](https://huggingface.co/iiiorg/piiranha-v1-detect-personal-information) from HuggingFace.
-b) Use the provided emails to generate new synthetic data based on the emails provided.
-- Level 1:
-a) Calculate the anonymization performance and compare it to the overall performance of the model (as seen on the model website). Give some recommendations on how the model could be improved.
-Prepare a split of the provided emails for the test and train subsets (50 emails in the test subset). You need to annotate the date by hand. Use the unified schema for the anonymization like in the following exaple:
-    
-    ```
-    Hallo E.ON,
-    
-    hiermit Widerrufe ich meinen Vertrag mit der Nummer <<VERTRAGSNUMMER_1>>.
-    
-    Freundliche Grüße,
-    <<VORNAME_1>> <<NACHNAME_1>>
-    
-    <<STRASSE_HAUSNUMMER_1>>
-    <<PLZ_1>> <<ORT_1>>
-    
-    ```
-    
 
-b) Measure the synthetic data performance of the system. How similar/dissimilar are the synthetic emails in comparison to the original ones?
+**Tip:**  
+For each stage, follow the step-by-step instructions in the corresponding Jupyter notebooks.  
+You can run the notebooks directly with:
 
-- Level 2:
-Implement a second anonymization/synthetic data generation process and compare the performance (metrics, time performance, cost performance, etc.) to the previously developed baseline. What benefits/disadvantages does the new model bring?
+```bash
+jupyter notebook <path-to-notebook>
 
-The participants are expected to provide a solution at one level at least, starting with Level 0 since the latter tasks are based on the former. It is up to the participants if they want to define a wider or deeper scope for their task.
+---
 
-A "solution" can be a running software solution or a kind of proof-of-concept run manually in the form of a Jupyter Notebook.
+## 👥 Team & Credits
 
-# References
+This project was developed as part of the "Data Analytics in Applications" course in collaboration with **E.ON**.
 
-Here are some base courses you can have a look at if you are looking for some inspiration:
+**Project Contributors:**
+- **Anna-Maria Geist** ([AnnaGhost2713](https://github.com/AnnaGhost2713)) 
+- **Moritz Gärtner** ([moritzgaertner](https://github.com/moritzgaertner)) 
+- **Timon Martens** ([timonmartens](https://https://github.com/timonmartens)) 
+- **Nicholas Hecker** ([ThisIsWallE](https://github.com/ThisIsWallE)) 
 
-NLP Courses:
+Special thanks to our mentors at **E.ON** for their feedback and data support.
 
-- https://course.spacy.io/en/
-- https://huggingface.co/learn/nlp-course/
+---
 
-Tutorials:
+## 📄 License
 
-- [https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An introduction to explainable AI with Shapley values.html](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
-- https://towardsdatascience.com/building-sentiment-classifier-using-spacy-3-0-transformers-c744bfc767b
-- https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6
-
-Evaluation:
-
-- https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization
-- https://soletlab.asu.edu/coh-metrix/
-- https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
-- https://github.com/mcao516/EntFA
-- https://github.com/ThomasScialom/QuestEval
-- https://github.com/salesforce/factCC
-
-Frameworks:
-
-- https://ollama.com/
-- https://docs.chainlit.io/
-
-Fine-tuning:
-
-- https://www.philschmid.de/fsdp-qlora-llama3
-- https://github.com/teticio/llama-squad
-- https://www.answer.ai/posts/2024-03-14-fsdp-qlora-deep-dive
-- https://arxiv.org/abs/2305.14314
-
-Models:
-
-- https://github.com/jzhang38/TinyLlama
-- https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
-- https://huggingface.co/models
-- https://chat.lmsys.org/?leaderboard
-
-# Our expectations
-
-We expect the participants to stay in touch with the mentors during the whole term. Please do spend time on the tasks and not hope to tackle everything at the last minute.
-We are open to your questions and hope to provide as much support as possible to you given your motivation and dedication to the challenge topic.
-And you'll experience that even bigger elephants can get swallowed in small pieces by chewing them carefully over a longer time :)
-Have fun and happy hacking!
+License to be determined.  
+If you plan to use or contribute to this project, please contact the authors for permissions or clarifications.
